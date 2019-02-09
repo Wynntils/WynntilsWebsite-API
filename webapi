@@ -4,6 +4,7 @@
 [OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
 [ItemList] = https://api.wynncraft.com/public_api.php?action=itemDB&category=all
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
+[PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
 [UserAccount] = https://account.wynntils.com/
 [Capes] = http://capes.wynntils.com/
