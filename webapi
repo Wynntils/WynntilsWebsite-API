@@ -10,7 +10,6 @@
 [Capes] = https://capes.wynntils.com/
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
 [DevJars] = https://ci.wynntils.com/job/Wynntils-DEV/lastSuccessfulBuild/
-[Helpers] = https://api.wynntils.com/helpers
 [WynnSounds] = https://api.github.com/repos/Wynntils/WynnSounds/contents/music
 [ResourcePackUpdateAmount] = 1
 [MainMap] = https://api.wynntils.com/maps/main-map.php
