@@ -5,7 +5,7 @@
 [ItemList] = https://api.wynncraft.com/public_api.php?action=itemDB&category=all
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
-[ItemGuesses] = https://wynndata.tk/api/unid/data.json
+[ItemGuesses] = http://wynndata.tk/api/unid/data.json
 [UserAccount] = https://account.wynntils.com/
 [Capes] = https://capes.wynntils.com/
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
@@ -15,4 +15,3 @@
 [MainMap] = https://api.wynntils.com/maps/main-map.php
 [DiscordInvite] = https://discord.gg/SZuNem8
 [RefineryLocations] = https://api.wynntils.com/refinery_locations
-[test] = test
