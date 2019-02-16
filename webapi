@@ -6,7 +6,7 @@
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
-[UserAccount] = https://account.wynntils.com/
+[UserAccount] = https://account.wynntils.com
 [Capes] = https://capes.wynntils.com/
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
 [DevJars] = https://ci.wynntils.com/job/Wynntils-DEV/lastSuccessfulBuild/
