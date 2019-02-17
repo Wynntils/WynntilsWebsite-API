@@ -2,7 +2,7 @@
 [GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
 [GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
 [OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
-[ItemList] = https://api.wynncraft.com/public_api.php?action=itemDB&category=all
+[ItemList] = https://account.wynntils.com/getWynnItemList
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
