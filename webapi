@@ -2,12 +2,12 @@
 [GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
 [GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
 [OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
-[ItemList] = https://account.wynntils.com/getWynnItemList
+[ItemList] = https://login.wynntils.com/getWynnItemList
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
-[UserAccount] = https://account.wynntils.com/
-[Capes] = https://capes.wynntils.com/
+[UserAccount] = https://login.wynntils.com/
+[Capes] = https://account.wynntils.com/
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
 [DevJars] = https://ci.wynntils.com/job/Wynntils-DEV/lastSuccessfulBuild/
 [WynnSounds] = https://api.github.com/repos/Wynntils/WynnSounds/contents/music
