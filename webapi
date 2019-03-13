@@ -15,3 +15,4 @@
 [MainMap] = https://api.wynntils.com/maps/main-map.php
 [DiscordInvite] = https://discord.gg/SZuNem8
 [RefineryLocations] = https://api.wynntils.com/refinery_locations
+[Changelog] = https://api.wynntils.com/changelog
