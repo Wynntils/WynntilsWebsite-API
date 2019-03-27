@@ -19,7 +19,7 @@
   "And, fixed a handful of bugs."
 ],
  "0.2.3": [
-  "Hello %user%, welcome to Wynntils v0.2.3!",
+  "Hello %user%, welcome to v0.2.3!",
   "As you are currently into a new feature, the changelog!",
   "Ah, and you can scroll this page down by the mouse scrollbar.",
   " ",
@@ -52,7 +52,9 @@
   "Another good thing is that now you can have different configurations per user, so if your brother, for example, has another Minecraft account and plays at your computer, he will be able to have his own configurations.",
   " ",
   "That's all for today!",
+  " ",
   "Join our Discord Guild! discord.gg/SZuNem8",
+  " ",
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
