@@ -19,7 +19,7 @@
   "And, fixed a handful of bugs."
 ],
  "0.2.3": [
-  "Hello %user%, welcome to v0.2.3!",
+  "Hello %user%, welcome to §bv0.2.3!",
   "As you are currently into a new feature, the changelog!",
   "Ah, and you can scroll this page down by the mouse scrollbar.",
   " ",
@@ -53,10 +53,10 @@
   " ",
   "That's all for today!",
   " ",
-  "Join our Discord Guild! discord.gg/SZuNem8",
+  "Join our Discord Guild! §bdiscord.gg/SZuNem8",
   " ",
-  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  "Donate to Wynntils via patreon! §bpatreon.com/Wynntils",
   " ",
-  "With love, Wynntils Team ~"
+  "§cWith love, Wynntils Team ~"
  ]
 }
