@@ -5,6 +5,7 @@
 [ItemList] = https://login.wynntils.com/getWynnItemList
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
+[PlayerStatsv2] = https://api.wynncraft.com/v2/player/
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
 [UserAccount] = https://login.wynntils.com/
 [Capes] = https://account.wynntils.com/
