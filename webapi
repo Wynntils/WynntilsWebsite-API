@@ -1,8 +1,8 @@
-[Territory] = https://api.wynncraft.com/public_api.php?action=territoryList
+[Territory] = https://login.wynntils.com/cache/getTerritoryList
 [GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
 [GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
 [OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
-[ItemList] = https://login.wynntils.com/getWynnItemList
+[ItemList] = https://login.wynntils.com/cache/getItemList
 [MapMarkers] = https://api.wynncraft.com/public_api.php?action=mapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [PlayerStatsv2] = https://api.wynncraft.com/v2/player/
