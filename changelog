@@ -58,5 +58,29 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
- ]
+],
+ "0.2.4": [
+  "Hello %user%, welcome to v0.2.4!",
+  "This is most like a bug fix update, so there isn't a lot of new features",
+  " ",
+  "That's what we made:",
+  "- Now you can revisit the changelog with /wynntils changelog",
+  "- The Settings Menu is now sorted correctly",
+  "- Added the command /territory which makes your compass point to a territory",
+  "- Fixed some map icons",
+  "- Updated default guild chat tab detection",
+  "- Fixed some errors about the Player Status",
+  "- Fixed a massive performance leak",
+  "- Improved Cloud Configurations performance",
+  "- Added a Low Health Vignette",
+  " ",
+  "So as you can see, there wasn't a lot of changes because we want to keep the cool ones for the 1.0.0, which will be released soon!",
+  "That's all for today!",
+  " ",
+  "Join our Discord Guild! discord.gg/SZuNem8",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
+]
 }
