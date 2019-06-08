@@ -122,7 +122,7 @@
   "Hello %user%, welcome to v0.2.6!",
   "I told you that I was going to see you soon!",
   " ",
-  "This update is jsut a bug fix to support the new Wynncraft's patch",
+  "This is just a bug fix update to support the new Wynncraft's patch",
   "But we also fixed another things:",
   "- Fixed QuestBook failing to read after switching classes multiple times",
   "- Minimap now disappears if you are outside the map area",
