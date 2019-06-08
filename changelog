@@ -117,5 +117,25 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+ "0.2.6": [
+  "Hello %user%, welcome to v0.2.6!",
+  "I told you that I was going to see you soon!",
+  " ",
+  "This update is jsut a bug fix to support the new Wynncraft's patch",
+  "But we also fixed another things:",
+  "- Fixed QuestBook failing to read after switching classes multiple times",
+  "- Minimap now disappears if you are outside the map area",
+  "- Blocked LabyMod and Wynntils to be running together",
+  "- Fix classes with challenges instantly crashing when trying to use one",
+  "- Fix ingredients not being highlighted in the trade market",
+  " ",
+  "That's all for today, see you soon!",
+   " ",
+  "Join our Discord Guild! discord.gg/SZuNem8",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
