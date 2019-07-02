@@ -1,1 +1,3 @@
-AddType application/json refinery_locations
+<Files refinery_locations>
+    ForceType application/json
+</Files>
