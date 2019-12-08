@@ -261,5 +261,22 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.0.2": [
+  "Hello %user%, welcome to v1.0.2",
+  "This is a quick hotfix for fixing some of the issues with 1.19",
+  "So just be aware that it might have more patches today to fix them all",
+  "",
+  "We are also testing a new feature that allows you to see mutual friends using Wynntils in the map",
+  "there are some issues we know about it and we're going to work to fix them all soon ^^",
+  " ",
+  "If you find any bugs/crashes, report them to us in our discord so we can fix it as soon as possible!",
+  "You can either copy the link below or use /wynntils discord",
+  " ",
+  "Join our Discord Guild! discord.gg/SZuNem8",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
