@@ -3,6 +3,7 @@
 [GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
 [OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
 [ItemList] = https://login.wynntils.com/cache/getItemList
+[NewItemList] = https://login.wynntils.com/cache/getNewItemList
 [MapMarkers] = https://login.wynntils.com/cache/getMapLocations
 [PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [PlayerStatsv2] = https://api.wynncraft.com/v2/player/
