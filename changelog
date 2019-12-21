@@ -293,7 +293,7 @@
   " - Added minimum level filter to item guide",
   " - Added switch regional hub buttons to pause menu",
   " - Added a key to open the ingredient pouch (default O)",
-  " - Added option to change window title to "Wynncraft" while on the server",
+  " - Added option to change window title to Wynncraft while on the server",
   " - Added option to use Wynncraft logo as window icon",
   " - Rewritten the entire item database",
   " - Upgraded Discord Game SDK",
