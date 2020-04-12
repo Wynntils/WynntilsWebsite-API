@@ -1,3 +1,4 @@
+[Athena] = https://athena.wynntils.com
 [Territory] = https://login.wynntils.com/cache/getTerritoryList
 [GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
 [GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
