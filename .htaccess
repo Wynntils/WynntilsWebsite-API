@@ -1,3 +1,6 @@
 <Files *>
     ForceType application/json
 </Files>
+<Files *.png>
+    ForceType image/png
+</Files>
