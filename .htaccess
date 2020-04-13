@@ -1,3 +1,3 @@
-<Files refinery_locations>
+<Files *>
     ForceType application/json
 </Files>
