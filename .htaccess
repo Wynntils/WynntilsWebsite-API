@@ -1,1 +1,3 @@
-
+<Files *.png>
+    ForceType image/png
+</Files>
