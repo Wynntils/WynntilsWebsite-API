@@ -1,3 +1,6 @@
 <Files *.png>
     ForceType image/png
 </Files>
+<FilesMatch "^(webapi|versions|refinery_locations|icon_mappings|changelog)$">
+    ForceType application/json
+</FilesMatch>
