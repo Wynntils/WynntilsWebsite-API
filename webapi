@@ -21,7 +21,7 @@
 [RefineryLocations] = https://api.wynntils.com/refinery_locations
 [Changelog] = https://api.wynntils.com/changelog
 [Socket] = https://io.wynntils.com
-[EnableSocket] = true
+[EnableSocket] = false
 [RichPresence] = https://cdn.wynntils.com/richpresence/
 [Discoveries] = https://api.wynntils.com/discoveries.json
 [Splashes] = You're Amazing!, Have a nice day, Drink Water, We love you <3, Smile!, Take care of your Health, Be good to yourself, Everything is fine, We care about you, Shine like a star, We believe in you, Be fearless, Fight for your future, See the good, Be brave, Create your own sunshine, Life is amazing, Care about yourself, You can do it, ⒲⒠ ⒧⒪⒱⒠ ⒴⒪⒰ <⑶, Think big, Be amazing, You deserve love, Don't push yourself too hard
