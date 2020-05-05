@@ -395,5 +395,24 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.5.1": [
+  "Hello %user%, welcome to v1.5.1. This is just a hotfix to fix some bugs from v1.0.5",
+  "As you can also see, we've pushed the build number 1 to the left, that will allow us to do a",
+  "better versioning and provide faster updates =)",
+  " ",
+  "The full changelog is here:",
+  " - Fixed a crash while using special colors and added support to italic",
+  " - Fix crash when taking a screenshot without being in a Minecraft world",
+  " - Added ability to remove compass beacon on right click",
+  " - Increased waypoint import size limit",
+  " - Remove everything to do with EU servers",
+  " - Removed Global Text form PlayerInfo Overlay",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
