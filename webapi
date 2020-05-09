@@ -1,13 +1,13 @@
 [Athena] = https://athena.wynntils.com
 [Territory] = https://login.wynntils.com/cache/getTerritoryList
-[GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
-[GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
-[OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
+[GuildList] = https://api-legacy.wynncraft.com/public_api.php?action=guildList
+[GuildInfo] = https://api-legacy.wynncraft.com/public_api.php?action=guildStats&command=
+[OnlinePlayers] = https://api-legacy.wynncraft.com/public_api.php?action=onlinePlayers
 [ItemList] = https://login.wynntils.com/cache/getItemList
 [NewItemList] = https://login.wynntils.com/cache/getNewItemList
 [IdentificationOrder] = https://login.wynntils.com/cache/getIdOrder
 [MapMarkers] = https://login.wynntils.com/cache/getMapLocations
-[PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
+[PlayerStats] = https://api-legacy.wynncraft.com/public_api.php?action=playerStats&command=
 [PlayerStatsv2] = https://api.wynncraft.com/v2/player/
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
 [UserAccount] = https://login.wynntils.com/
