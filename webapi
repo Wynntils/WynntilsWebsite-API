@@ -1,7 +1,8 @@
 [Athena] = https://athena.wynntils.com
-[GuildList] = https://api-legacy.wynncraft.com/public_api.php?action=guildList
-[GuildInfo] = https://api-legacy.wynncraft.com/public_api.php?action=guildStats&command=
-[PlayerStats] = https://api-legacy.wynncraft.com/public_api.php?action=playerStats&command=
+[GuildList] = https://api.wynncraft.com/public_api.php?action=guildList
+[GuildInfo] = https://api.wynncraft.com/public_api.php?action=guildStats&command=
+[OnlinePlayers] = https://api.wynncraft.com/public_api.php?action=onlinePlayers
+[PlayerStats] = https://api.wynncraft.com/public_api.php?action=playerStats&command=
 [PlayerStatsv2] = https://api.wynncraft.com/v2/player/
 [ItemGuesses] = http://wynndata.tk/api/unid/data.json
 [Capes] = https://account.wynntils.com/
