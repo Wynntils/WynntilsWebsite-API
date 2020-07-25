@@ -237,11 +237,11 @@
   "Changelog:",
   "- Fixed spell quick cast for low levels in Hero Beta",
   "- Fixed held item messages not being removed when another tab is open",
-  "- Add command to export discoveries as a CSV file (/exportDiscoveries)", 
+  "- Add command to export discoveries as a CSV file (/exportDiscoveries)",
   "- Made compass beacon color customizable",
   "- Fixed Hunted Mode Message appearing as a toast",
   "- Fixed EXP bar taking ages to update",
-  "- Added a search bar to settings", 
+  "- Added a search bar to settings",
   "- Implemented a /s command to interact with servers",
   "- Improved Wynncraft Staff Nametags in Hero Beta",
   "- Fixed XP not updating untill actionbar changes",
@@ -481,5 +481,21 @@
 	"Donate to Wynntils via Patreon! patreon.com/Wynntils",
 	" ",
 	"With much love, Wynntils Team ~"
+],
+"1.6.1": [
+  "Hello %user%, welcome to v1.6.1. This is just a hotfix to fix some bugs from v1.6.0.",
+  " ",
+  "The full changelog is here:",
+  " - Fixed crash when using the compass after auto-joining on an archer",
+  " - Fixed random crash in MusicProfile",
+  " - Fixed crash due to horse whistle when spawning the horse",
+  " - Fixed scoreboard not appearing before logging into Wynncraft",
+  " - Fixed intermittent texture corruption, causing all texture to become black",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
