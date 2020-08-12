@@ -8,7 +8,7 @@
 [Capes] = https://account.wynntils.com/
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
 [DevJars] = https://ci.wynntils.com/job/Wynntils-DEV/lastSuccessfulBuild/
-[WynnSounds] = https://api.github.com/repos/Wynntils/WynnSounds/contents/music
+[WynnSounds] = https://api.github.com/repos/Wynntils/WynncraftOST/contents/music
 [MainMap] = https://api.wynntils.com/maps/main-map.php
 [DiscordInvite] = https://discord.gg/SZuNem8
 [Changelog] = https://api.wynntils.com/changelog
