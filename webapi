@@ -9,6 +9,7 @@
 [Jars] = https://ci.wynntils.com/job/Wynntils/lastSuccessfulBuild/
 [DevJars] = https://ci.wynntils.com/job/Wynntils-DEV/lastSuccessfulBuild/
 [WynnSounds] = https://api.github.com/repos/Wynntils/WynncraftOST/contents/music
+[MusicLocations] = https://raw.githubusercontent.com/Wynntils/Data-Storage/master/music-locations.json
 [MainMap] = https://api.wynntils.com/maps/main-map.php
 [DiscordInvite] = https://discord.gg/SZuNem8
 [Changelog] = https://api.wynntils.com/changelog
