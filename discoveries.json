@@ -1434,6 +1434,11 @@
   },
   {
     "level": 60,
+    "type": "territory",
+    "name": "Royal Gate"
+  },
+  {
+    "level": 60,
     "type": "world",
     "name": "Castle Dullahan"
   },
@@ -1765,6 +1770,11 @@
   {
     "level": 70,
     "type": "territory",
+    "name": "Aldorei's Waterfall"
+  },
+  {
+    "level": 70,
+    "type": "territory",
     "name": "Azure Frontier"
   },
   {
@@ -1936,6 +1946,11 @@
     "level": 70,
     "type": "world",
     "name": "Lexdale Federal Prison"
+  },
+  {
+    "level": 70,
+    "type": "world",
+    "name": "Monument to Siegfried"
   },
   {
     "level": 70,
@@ -2269,6 +2284,11 @@
   {
     "level": 80,
     "type": "territory",
+    "name": "Avos Workshop"
+  },
+  {
+    "level": 80,
+    "type": "territory",
     "name": "Bandits Toll"
   },
   {
@@ -2490,6 +2510,11 @@
     "level": 80,
     "type": "world",
     "name": "Crystal Falls"
+  },
+  {
+    "level": 80,
+    "type": "world",
+    "name": "Fallen Factory"
   },
   {
     "level": 80,
@@ -2804,6 +2829,11 @@
   {
     "level": 90,
     "type": "world",
+    "name": "Legendary Island"
+  },
+  {
+    "level": 90,
+    "type": "world",
     "name": "Raiders' Port"
   },
   {
@@ -2853,6 +2883,11 @@
   },
   {
     "level": 95,
+    "type": "world",
+    "name": "The Canyon Colossus"
+  },
+  {
+    "level": 95,
     "type": "secret",
     "name": "The Fallen Protector",
     "requirements": [
@@ -2878,6 +2913,11 @@
     "level": 100,
     "type": "territory",
     "name": "Bizarre Passage"
+  },
+  {
+    "level": 100,
+    "type": "territory",
+    "name": "Final Step"
   },
   {
     "level": 100,
@@ -3024,5 +3064,10 @@
     "level": 100,
     "type": "secret",
     "name": "Toxic Bounce"
+  },
+  {
+    "level": 101,
+    "type": "world",
+    "name": "Bottomless Pit"
   }
 ]
