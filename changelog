@@ -677,5 +677,30 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.9.2": [
+  "Dear %user%, welcome to Wynntils v1.9.2!",
+  "This update fixes a lot of bugs and introduces some cool new features like lootrun notes",
+  "and a complete revamp on the world map buttons with a complete new map for guilds",
+  "you can change the guild map key on controls. Have fun :D",
+  "",
+  "- Major Lootrun Improvements (/lootrun undo, /lootrun note, ...)",
+  "- Fixed not being able to invite other people through rich presence",
+  "- Revamped map buttons and added guild map",
+  "- Fixed inconsistencies with emerald info variables",
+  "- Updated Party Regex",
+  "- Horse Improvements - iwewi20",
+  "- Updated Major IDs - DonkeyBlaster69",
+  "- Improved boss track detection",
+  "- Server selector displays server number properly - DonkeyBlaster69",
+  "- Add option to show messages in update ticker first - LMBishop",
+  "- Add some options to tracked quest info - LMBishop",
+  "- Lot of bug fixes",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
