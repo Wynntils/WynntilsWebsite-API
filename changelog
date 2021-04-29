@@ -702,5 +702,32 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.10.0": [
+  "Hey %user%, welcome to Wynntils v1.10.0!",
+  "In this version we added two new awesome features: a chunk cacher",
+  "and a lootrun questbook page! Along with that we made all the necessary",
+  "preparation for 1.20.2! Have Fun :D",
+  "",
+  "Full Changelog:",
+  "- Fix typo that caused links to not open on linux that existed for 9 month",
+  "- Fix some mythic detection issues",
+  "- Fix hitbox collision/pushing issues",
+  "- Identification improvements",
+  "- Fix horse mount system - iwei20",
+  "- Fix error when running lootrun command when the lootrun doesn't exist",
+  "- Made Wynntils particles not frame reliant",
+  "- Scoreboard overhaul",
+  "- Implemented a chunk cacher",
+  "- Made all the necessary preparations for 1.20.2",
+  "- Added a new questbook page for LootRuns - Incompleteusern",
+  "- Added the STRATEGIST rank - McPlayHD",
+  "- Lot of bug fixes",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
