@@ -1460,6 +1460,11 @@
   {
     "level": 60,
     "type": "world",
+    "name": "Magmastream Core"
+  },
+  {
+    "level": 60,
+    "type": "world",
     "name": "Taproot"
   },
   {
@@ -1950,7 +1955,7 @@
   {
     "level": 70,
     "type": "world",
-    "name": "Lexdale Federal Prison"
+    "name": "Lexdale Penitentiary"
   },
   {
     "level": 70,
