@@ -762,5 +762,25 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.10.3": [
+  "Hello %user%, welcome to Wynntils v1.10.3!",
+  "This update is a compatibility update for Wynncraft 1.20.3.",
+  "Please note that some things will not be updated for 1.20.3 immediately, like item identifications.",
+  " ",
+  "Full changelog:",
+  "- Builds now open in Wynnbuilder instead of Wynndata",
+  "- Added a health percentage info variable (DonkeyBlaster69)",
+  "- Improved dialogue history page (Incompleteusern)",
+  "- Added buttons to switch between quest book and dialogue history",
+  "- Fixed world uptimes for worlds greater than 64",
+  "- Made crafted items have a highlight in the hotbar",
+  "- Added new 1.20.3 major IDs",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
