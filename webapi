@@ -16,6 +16,7 @@
 [RichPresence] = https://cdn.wynntils.com/richpresence/v1.0.0/
 [RichPresenceRoot] = https://cdn.wynntils.com/richpresence/
 [Discoveries] = https://api.wynntils.com/discoveries.json
+[Seaskipper] = https://api.wynntils.com/seaskipper.json
 [WikiQuestQuery] = https://wynncraft.gamepedia.com/index.php?title=Special:CargoExport&format=json&tables=Quests&fields=Quests._pageTitle&where=Quests.name=
 [WikiDiscoveryQuery] = https://wynncraft.gamepedia.com/api.php?action=parse&format=json&prop=wikitext&section=0&redirects=true&page=
 [WynnApiKey] = XRSxAkA6OXKek9Zvds5sRqZ4ZK0YcE6wRyHx5IE6wSfr
