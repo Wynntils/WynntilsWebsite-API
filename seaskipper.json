@@ -12,7 +12,7 @@
     "startX":-100,
     "startZ":-3290,
     "endX":210,
-    "endZ":-3070,
+    "endZ":-3046,
     "level": 25
   },
   {
@@ -20,7 +20,7 @@
     "startX":-2048,
     "startZ":-4403,
     "endX":-1910,
-    "endZ":-4215,
+    "endZ":-4206,
     "level": 40
   },
   {
@@ -100,7 +100,7 @@
     "startX":-41,
     "startZ":-4174,
     "endX":453,
-    "endZ":-3793,
+    "endZ":-3788,
     "level": 60
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "Skiens Island",
     "startX":297,
-    "startZ":-3644,
+    "startZ":-3739,
     "endX":577,
     "endZ":-3367,
     "level": 55
