@@ -805,5 +805,27 @@
   "Donate to Wynntils via patreon! patreon.com/Wynntils",
   " ",
   "With love, Wynntils Team ~"
+],
+"1.10.5": [
+  "Hello %user%, welcome to Wynntils v1.10.5!",
+  "This patch fixes some bugs that were happening with the launch",
+  "of 1.20.4!",
+  " ",
+  "Full changelog:",
+  "- Fixed some incorrect behaviors with the chunk cache tool",
+  "- Added a Seaskipper Map replacing the normal gui (Incompleteusern)",
+  "- Fixed Champion Rank not being handled properly (lufeee)",
+  "- You are now able to mark items as favorite",
+  "  - Items marked as favorite will show a star near their names",
+  "  - You can not close lootchests with a favorite item inside",
+  "  - Unidentified items will be highlighted if they can contain a favorite item",
+  "  - You can favorite an item by shift left-clicking it on the item guide",
+  "- Fixed dialogues not working properly anymore",
+  " ",
+  "Join our Discord Server! discord.gg/SZuNem8 or /wynntils discord",
+  " ",
+  "Donate to Wynntils via patreon! patreon.com/Wynntils",
+  " ",
+  "With love, Wynntils Team ~"
 ]
 }
