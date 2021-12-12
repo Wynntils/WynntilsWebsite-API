@@ -3,7 +3,7 @@
 $file_name = 'main-map.png';
 echo "[MD5] = ". md5_file($file_name);
 echo "\n[DownloadLocation] = https://api.wynntils.com/maps/main-map.png";
-echo "\n[CenterX] = 1708";
-echo "\n[CenterZ] = -88";
+echo "\n[CenterX] = 1690";
+echo "\n[CenterZ] = -158";
 
 ?>
