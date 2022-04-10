@@ -957,5 +957,14 @@
     "",
     "Donate to Wynntils via Patreon! <https://patreon.com/Wynntils>",
     "With love, Team Wynntils ~"
+],
+"1.11.2": [
+    "Hello %user%, welcome to v1.11.2",
+    "This is a quick hotfix to fix configuration upload issues",
+    " ",
+    "If you find any bugs/crashes, report them to us in our discord so we can fix it as soon as possible!",
+    " ",
+    "Donate to Wynntils via Patreon! <https://patreon.com/Wynntils>",
+    "With love, Team Wynntils ~"
 ]
 }
