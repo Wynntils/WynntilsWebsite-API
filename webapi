@@ -11,6 +11,7 @@
 [WynnSounds] = https://api.github.com/repos/Wynntils/WynncraftOST/contents/music
 [MusicLocations] = https://raw.githubusercontent.com/Wynntils/Data-Storage/master/music-locations.json
 [MainMap] = https://api.wynntils.com/maps/main-map.php
+[AMainMap] = https://api.wynntils.com/maps/maps.php
 [DiscordInvite] = https://discord.gg/SZuNem8
 [Changelog] = https://api.wynntils.com/changelog
 [RichPresence] = https://cdn.wynntils.com/richpresence/v1.0.0/
