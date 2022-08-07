@@ -23,7 +23,7 @@ Format:
 
 $data = array();
 
-$file_names = array('main-map.png', 'main-map-1.18.png');
+$file_names = array('main-map.png');
 
 foreach ($file_names as $file_name) {
     $data[] = array(
