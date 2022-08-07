@@ -23,16 +23,18 @@ Format:
 
 $data = array();
 
-$file_name = 'main-map.png';
+$file_names = array('main-map.png', 'main-map-1.18.png');
 
-$data[] = array(
-    "download" => "https://api.wynntils.com/maps/" . $file_name,
-    "x1" => -2383,
-    "z1" => -6573,
-    "x2" => 1651,
-    "z2" => -159,
-    "hash" => md5_file($file_name)
-);
+foreach ($file_names as $file_name) {
+    $data[] = array(
+        "file" => $file_name,
+        "x1" => -2383,
+        "z1" => -6573,
+        "x2" => 1651,
+        "z2" => -159,
+        "hash" => md5_file($file_name)
+    );
+}
 
 header('Content-Type: application/json; charset=utf-8');
 echo json_encode($data);
