@@ -26,7 +26,7 @@ $data = array();
 $file_name = 'main-map.png';
 
 $data[] = array(
-    "download" => "https://api.wynntils.com/maps/" . $map_file,
+    "download" => "https://api.wynntils.com/maps/" . $file_name,
     "x1" => -2383,
     "z1" => -6573,
     "x2" => 1651,
