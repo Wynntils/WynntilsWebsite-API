@@ -27,10 +27,10 @@ $file_name = 'main-map.png';
 
 $data[] = array(
     "download" => "https://api.wynntils.com/maps/" . $map_file,
-    "x1" => -2383
-    "z1" => -6573
-    "x2" => 1651
-    "z2" => -159
+    "x1" => -2383,
+    "z1" => -6573,
+    "x2" => 1651,
+    "z2" => -159,
     "hash" => md5_file($file_name)
 );
 
