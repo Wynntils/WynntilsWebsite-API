@@ -57,11 +57,6 @@
   {
     "level": 1,
     "type": "world",
-    "name": "Black Road"
-  },
-  {
-    "level": 1,
-    "type": "world",
     "name": "Detlas"
   },
   {
@@ -192,11 +187,6 @@
   {
     "level": 5,
     "type": "world",
-    "name": "Sanctuary Bridge"
-  },
-  {
-    "level": 5,
-    "type": "world",
     "name": "Ternaves"
   },
   {
@@ -272,12 +262,17 @@
   {
     "level": 10,
     "type": "world",
+    "name": "Black Road"
+  },
+  {
+    "level": 10,
+    "type": "world",
     "name": "Pigmen's Ravine"
   },
   {
     "level": 10,
     "type": "world",
-    "name": "Time Valley"
+    "name": "Sanctuary Bridge"
   },
   {
     "level": 10,
@@ -473,6 +468,11 @@
     "level": 20,
     "type": "world",
     "name": "Selchar"
+  },
+  {
+    "level": 20,
+    "type": "world",
+    "name": "Time Valley"
   },
   {
     "level": 20,
@@ -874,6 +874,11 @@
   {
     "level": 35,
     "type": "secret",
+    "name": "Llevigar's Secret Library"
+  },
+  {
+    "level": 35,
+    "type": "secret",
     "name": "Spider Ruins"
   },
   {
@@ -1000,7 +1005,8 @@
       "At the Edge of Decay",
       "Explorer's Corruption Study",
       "Spider Ruins",
-      "Teachings of Old"
+      "Teachings of Old",
+      "Llevigar's Secret Library"
     ]
   },
   {
@@ -1445,17 +1451,17 @@
   {
     "level": 60,
     "type": "world",
+    "name": "Centerworld Fortress"
+  },
+  {
+    "level": 60,
+    "type": "world",
     "name": "Delnar Manor"
   },
   {
     "level": 60,
     "type": "world",
     "name": "Gelibord"
-  },
-  {
-    "level": 60,
-    "type": "world",
-    "name": "Leadin Orc Fort"
   },
   {
     "level": 60,
@@ -1935,6 +1941,11 @@
   {
     "level": 70,
     "type": "world",
+    "name": "Faltach Manor"
+  },
+  {
+    "level": 70,
+    "type": "world",
     "name": "House of Talor"
   },
   {
@@ -2048,13 +2059,19 @@
       "A Dividing Force",
       "Hallowed Ground",
       "Headless, Not Homeless",
-      "Summoner's Fate"
+      "Summoner's Fate",
+      "Ways of the Wicked"
     ]
   },
   {
     "level": 70,
     "type": "secret",
     "name": "The Talor Crypt"
+  },
+  {
+    "level": 70,
+    "type": "secret",
+    "name": "Ways of the Wicked"
   },
   {
     "level": 71,
@@ -2869,6 +2886,11 @@
   {
     "level": 90,
     "type": "secret",
+    "name": "Far Above the Clouds"
+  },
+  {
+    "level": 90,
+    "type": "secret",
     "name": "Necklace Chamber"
   },
   {
@@ -2906,7 +2928,8 @@
       "The Lonely Abyss",
       "Ahmsord's Origins",
       "Colossal Ruins",
-      "Rulers of the Skies"
+      "Rulers of the Skies",
+      "Far Above the Clouds"
     ]
   },
   {
@@ -2963,6 +2986,11 @@
     "level": 100,
     "type": "territory",
     "name": "Worm Tunnel"
+  },
+  {
+    "level": 100,
+    "type": "world",
+    "name": "???"
   },
   {
     "level": 100,
