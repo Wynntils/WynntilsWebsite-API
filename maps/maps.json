@@ -16,5 +16,14 @@
     "x2": -1025,
     "z2": 10239,
     "md5": "85a83640fba83bc29f258bbe9b166053"
+  },
+  {
+    "name": "Void",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/void-map.png",
+    "x1": 13312,
+    "z1": -5120,
+    "x2": 14335,
+    "z2": -3073,
+    "md5": "85a83640fba83bc29f258bbe9b166053"
   }
 ]
