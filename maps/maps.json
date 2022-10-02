@@ -1,29 +1,56 @@
 [
   {
     "name": "Main",
-    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/main-map.png",
-    "x1": -2383,
-    "z1": -6573,
-    "x2": 1650,
-    "z2": -160,
-    "md5": "c2b45f9b1da363c230610e8f65cff438"
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main.png",
+    "x1": -2560,
+    "z1": -6144,
+    "x2": 2047,
+    "z2": -1,
+    "md5": "d505450c7cdd11c4bcec38352046869b"
   },
   {
     "name": "Sunset Valley",
-    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/bonfire-map.png",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sunset-valley.png",
     "x1": -2048,
     "z1": 9728,
     "x2": -1025,
     "z2": 10239,
-    "md5": "85a83640fba83bc29f258bbe9b166053"
+    "md5": "9cc2e2125f84f44352060f8506947a8d"
   },
   {
-    "name": "Void",
-    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/void-map.png",
+    "name": "Realm of Light",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-realm-of-light.png",
+    "x1": -1536,
+    "z1": -6656,
+    "x2": -513,
+    "z2": -5633,
+    "md5": "71ae64c4c4c371e148f0290e28c5f2b9"
+  },
+  {
+    "name": "The Void",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-void.png",
     "x1": 13312,
     "z1": -5120,
     "x2": 14335,
     "z2": -3073,
-    "md5": "dbbb8b5e096be62f8a756f29583b98b5"
+    "md5": "1752237c02c83842761c0d47aa6150a4"
+  },
+  {
+    "name": "Ceralus Farm 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ceralus-1.png",
+    "x1": -5120,
+    "z1": -1536,
+    "x2": -3073,
+    "z2": -1025,
+    "md5": "b7b8d7243d0db9e247c7868be9073fe2"
+  },
+  {
+    "name": "Ceralus Farm 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ceralus-2.png",
+    "x1": -8704,
+    "z1": -1536,
+    "x2": -7681,
+    "z2": -1025,
+    "md5": "08ef880cc9586b0e6b7a910a51b1ad53"
   }
 ]
