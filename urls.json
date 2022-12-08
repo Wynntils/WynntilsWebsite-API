@@ -1,0 +1,108 @@
+[
+  {
+    "id": "athenaAuthGetPublicKey",
+    "url": "https://athena.wynntils.com/auth/getPublicKey"
+  },
+  {
+    "id": "athenaAuthResponse",
+    "url": "https://athena.wynntils.com/auth/responseEncryption"
+  },
+  {
+    "id": "athenaIngredientList",
+    "url": "https://athena.wynntils.com/cache/get/ingredientList"
+  },
+  {
+    "id": "athenaItemList",
+    "url": "https://athena.wynntils.com/cache/get/itemList"
+  },
+  {
+    "id": "athenaServerList",
+    "url": "https://athena.wynntils.com/cache/get/serverList"
+  },
+  {
+    "id": "athenaTerritoryList",
+    "url": "https://athena.wynntils.com/cache/get/territoryList"
+  },
+  {
+    "id": "athenaUserInfo",
+    "url": "https://athena.wynntils.com/user/getInfo"
+  },
+  {
+    "id": "discordInvite",
+    "url": "https://discord.gg/SZuNem8"
+  },
+  {
+    "id": "discoveries",
+    "url": "https://api.wynntils.com/discoveries.json",
+    "md5": "f85efa2a19d9b84e1a8c3761ba50866a"
+  },
+  {
+    "id": "googleTranslation",
+    "url": "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=%s&dt=t&q=%s",
+    "numArguments": 2
+  },
+  {
+    "id": "itemGuesses",
+    "url": "https://wynndata.tk/api/unid/data.json"
+  },
+  {
+    "id": "maps",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/maps.json",
+    "md5": "89af9a38646d4d369abfacf7fa3a9614"
+  },
+  {
+    "id": "onlinePlayers",
+    "url": "https://api.wynncraft.com/public_api.php?action=onlinePlayers"
+  },
+  {
+    "id": "places",
+    "url": "https://raw.githubusercontent.com/Wynntils/Reference/main/locations/places.json",
+    "md5": "e324d05e62aaea82aaf89705bf403efe"
+  },
+  {
+    "id": "playerStats",
+    "url": "https://wynncraft.com/stats/player/%s",
+    "numArguments": 1
+  },
+  {
+    "id": "services",
+    "url": "https://raw.githubusercontent.com/Wynntils/Reference/main/locations/services.json",
+    "md5": "09ffa3b1a40f74c815c8c430c528575f"
+  },
+  {
+    "id": "updateCheck",
+    "url": "https://athena.wynntils.com/version/latest/ce"
+  },
+  {
+    "id": "wikiDiscoveryQuery",
+    "url": "https://wynncraft.gamepedia.com/api.php?action=parse&format=json&prop=wikitext&section=0&redirects=true&page=%s",
+    "numArguments": 1,
+    "encoding": "wiki"
+  },
+  {
+    "id": "wikiQuestPageQuery",
+    "url": "https://wynncraft.fandom.com/index.php?title=Special:CargoExport&format=json&tables=Quests&fields=Quests._pageTitle&where=Quests.name=%s",
+    "numArguments": 1,
+    "encoding": "cargo"
+  },
+  {
+    "id": "wikiTitleLookup",
+    "url": "https://wynncraft.fandom.com/wiki/%s",
+    "numArguments": 1,
+    "encoding": "wiki"
+  },
+  {
+    "id": "wynndataItemLookup",
+    "url": "https://www.wynndata.tk/i/%s",
+    "numArguments": 1
+  },
+  {
+    "id": "wynntilsPatreon",
+    "url": "https://www.patreon.com/Wynntils"
+  },
+  {
+    "id": "wynntilsRegisterToken",
+    "url": "https://account.wynntils.com/register.php?token=%s",
+    "numArguments": 1
+  }
+]
