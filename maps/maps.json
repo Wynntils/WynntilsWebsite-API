@@ -88,5 +88,23 @@
     "x2": 14335,
     "z2": -3073,
     "md5": "1752237c02c83842761c0d47aa6150a4"
+  },
+  {
+    "name": "Wynnter Fair",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-wynnter-fair.png",
+    "x1": -1536,
+    "z1": 15872,
+    "x2": -513,
+    "z2": 16895,
+    "md5": "d287cac863418c76817f90b3e2b59a5f"
+  },
+  {
+    "name": "Wynnter Fair Parkour",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-wynnter-fair-parkour.png",
+    "x1": -2048,
+    "z1": 17920,
+    "x2": -1537,
+    "z2": 18943,
+    "md5": "9dcde78d9a0e79ce2084c2126c0870fe"
   }
 ]
