@@ -1,122 +1,144 @@
 [
   {
-    "id": "athenaAuthGetPublicKey",
+    "id": "apiAthenaAuthPublicKey",
     "url": "https://athena.wynntils.com/auth/getPublicKey"
   },
   {
-    "id": "athenaAuthResponse",
-    "url": "https://athena.wynntils.com/auth/responseEncryption"
+    "id": "apiAthenaAuthResponse",
+    "url": "https://athena.wynntils.com/auth/responseEncryption",
+    "method": "post",
+    "arguments": [
+      "key",
+      "username",
+      "version"
+    ]
   },
   {
-    "id": "athenaIngredientList",
+    "id": "apiAthenaUpdateCheck",
+    "url": "https://athena.wynntils.com/version/latest/ce"
+  },
+  {
+    "id": "apiAthenaUserInfo",
+    "url": "https://athena.wynntils.com/user/getInfo",
+    "method": "post",
+    "arguments": [
+      "uuid"
+    ]
+  },
+  {
+    "id": "apiGoogleTranslation",
+    "url": "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=%{lang}&dt=t&q=%{text}",
+    "arguments": [
+      "lang",
+      "text"
+    ]
+  },
+  {
+    "id": "apiWikiDiscoveryQuery",
+    "url": "https://wynncraft.gamepedia.com/api.php?action=parse&format=json&prop=wikitext&section=0&redirects=true&page=%{name}",
+    "arguments": [
+      "name"
+    ],
+    "encoding": "wiki"
+  },
+  {
+    "id": "apiWikiQuestPageQuery",
+    "url": "https://wynncraft.fandom.com/index.php?title=Special:CargoExport&format=json&tables=Quests&fields=Quests._pageTitle&where=Quests.name=%{name}",
+    "arguments": [
+      "name"
+    ],
+    "encoding": "cargo"
+  },
+  {
+    "id": "dataAthenaIngredientList",
     "url": "https://athena.wynntils.com/cache/get/ingredientList"
   },
   {
-    "id": "athenaItemList",
+    "id": "dataAthenaItemList",
     "url": "https://athena.wynntils.com/cache/get/itemList"
   },
   {
-    "id": "athenaServerList",
+    "id": "dataAthenaServerList",
     "url": "https://athena.wynntils.com/cache/get/serverList"
   },
   {
-    "id": "athenaTerritoryList",
+    "id": "dataAthenaTerritoryList",
     "url": "https://athena.wynntils.com/cache/get/territoryList"
   },
   {
-    "id": "athenaUserInfo",
-    "url": "https://athena.wynntils.com/user/getInfo"
-  },
-  {
-    "id": "combatLocations",
+    "id": "dataStaticCombatLocations",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/combatlocations.json",
-    "md5": "029a6e54066b3348830049f5c1162523"
+    "md5": "f8d2b16d8cd33181b6a3857fa5e390a9"
   },
   {
-    "id": "discordInvite",
-    "url": "https://discord.gg/SZuNem8"
-  },
-  {
-    "id": "discoveries",
-    "url": "https://api.wynntils.com/discoveries.json",
+    "id": "dataStaticDiscoveries",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/discoveries.json",
     "md5": "f85efa2a19d9b84e1a8c3761ba50866a"
   },
   {
-    "id": "googleTranslation",
-    "url": "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=%s&dt=t&q=%s",
-    "numArguments": 2
+    "id": "dataStaticItemGuesses",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/item_guesses.json",
+    "md5": "8b54ff8c64ca1d45dfccc9a826ca63b8"
   },
   {
-    "id": "itemGuesses",
-    "url": "https://wynndata.tk/api/unid/data.json"
-  },
-  {
-    "id": "maps",
+    "id": "dataStaticMaps",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/maps.json",
-    "md5": "89af9a38646d4d369abfacf7fa3a9614"
+    "md5": "dbb7c99accd944be4efc8fe991a4ac7c"
   },
   {
-    "id": "onlinePlayers",
-    "url": "https://api.wynncraft.com/public_api.php?action=onlinePlayers"
-  },
-  {
-    "id": "places",
+    "id": "dataStaticPlaces",
     "url": "https://raw.githubusercontent.com/Wynntils/Reference/main/locations/places.json",
     "md5": "e324d05e62aaea82aaf89705bf403efe"
   },
   {
-    "id": "playerStats",
-    "url": "https://wynncraft.com/stats/player/%s",
-    "numArguments": 1
-  },
-  {
-    "id": "services",
+    "id": "dataStaticServices",
     "url": "https://raw.githubusercontent.com/Wynntils/Reference/main/locations/services.json",
-    "md5": "09ffa3b1a40f74c815c8c430c528575f"
+    "md5": "1ac715226310b61c2e078d58e9ca7026"
   },
   {
-    "id": "splashes",
+    "id": "dataStaticSplashes",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/splashes.json",
     "md5": "53341c283d2cc3c0e721844064a24603"
   },
   {
-    "id": "updateCheck",
-    "url": "https://athena.wynntils.com/version/latest/ce"
+    "id": "dataStaticUrls",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/urls.json"
   },
   {
-    "id": "urls",
-    "url": "https://api.wynntils.com/urls.json"
-  },
-  {
-    "id": "wikiDiscoveryQuery",
-    "url": "https://wynncraft.gamepedia.com/api.php?action=parse&format=json&prop=wikitext&section=0&redirects=true&page=%s",
-    "numArguments": 1,
+    "id": "linkWikiLookup",
+    "url": "https://wynncraft.fandom.com/wiki/%{title}",
+    "arguments": [
+      "title"
+    ],
     "encoding": "wiki"
   },
   {
-    "id": "wikiQuestPageQuery",
-    "url": "https://wynncraft.fandom.com/index.php?title=Special:CargoExport&format=json&tables=Quests&fields=Quests._pageTitle&where=Quests.name=%s",
-    "numArguments": 1,
-    "encoding": "cargo"
+    "id": "linkWynncraftPlayerStats",
+    "url": "https://wynncraft.com/stats/player/%{username}",
+    "arguments": [
+      "username"
+    ]
   },
   {
-    "id": "wikiTitleLookup",
-    "url": "https://wynncraft.fandom.com/wiki/%s",
-    "numArguments": 1,
-    "encoding": "wiki"
+    "id": "linkWynndataItemLookup",
+    "url": "https://www.wynndata.tk/i/%{itemname}",
+    "arguments": [
+      "itemname"
+    ]
   },
   {
-    "id": "wynndataItemLookup",
-    "url": "https://www.wynndata.tk/i/%s",
-    "numArguments": 1
+    "id": "linkWynntilsDiscordInvite",
+    "url": "https://discord.gg/SZuNem8"
   },
   {
-    "id": "wynntilsPatreon",
+    "id": "linkWynntilsPatreon",
     "url": "https://www.patreon.com/Wynntils"
   },
   {
-    "id": "wynntilsRegisterToken",
-    "url": "https://account.wynntils.com/register.php?token=%s",
-    "numArguments": 1
+    "id": "linkWynntilsRegisterAccount",
+    "url": "https://account.wynntils.com/register.php?token=%{token}",
+    "arguments": [
+      "token"
+    ]
   }
 ]
