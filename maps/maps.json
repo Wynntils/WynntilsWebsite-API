@@ -106,5 +106,77 @@
     "x2": -1537,
     "z2": 18943,
     "md5": "f828487a68016747084f804e090d9fe0"
+  },
+  {
+    "name": "A Sandy Scandal 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-1.png",
+    "x1": -14336,
+    "z1": 20480,
+    "x2": -13313,
+    "z2": 21503,
+    "md5": "c00755ea4a16cfd4461f89c9ee5c3ec0"
+  },
+  {
+    "name": "A Sandy Scandal 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-2.png",
+    "x1": -15360,
+    "z1": 20480,
+    "x2": -14337,
+    "z2": 20991,
+    "md5": "e2bed7b19ae81895f660b4c5d46056e0"
+  },
+  {
+    "name": "A Sandy Scandal 3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-3.png",
+    "x1": -17408,
+    "z1": 20992,
+    "x2": -16385,
+    "z2": 22015,
+    "md5": "ba58926f9e3beae9df057cdc3b582e4c"
+  },
+  {
+    "name": "Kingdom of Sand 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-1.png",
+    "x1": 1536,
+    "z1": -2048,
+    "x2": 2559,
+    "z2": -1537,
+    "md5": "41b198048b273feb80e56fc952a0bb4b"
+  },
+  {
+    "name": "Kingdom of Sand 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-2.png",
+    "x1": 2048,
+    "z1": 512,
+    "x2": 3071,
+    "z2": 1023,
+    "md5": "f361924bc3e4635cf26dcf220674ad69"
+  },
+  {
+    "name": "Kingdom of Sand 3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-3.png",
+    "x1": 3072,
+    "z1": -1536,
+    "x2": 3583,
+    "z2": -1025,
+    "md5": "985bd4625b5135dffd429e3b6e7ccc51"
+  },
+  {
+    "name": "Kingdom of Sand 4",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-4.png",
+    "x1": 5632,
+    "z1": -2560,
+    "x2": 6143,
+    "z2": -1537,
+    "md5": "3a114f6dcfd4ce95f20d11e111356c3a"
+  },
+  {
+    "name": "Kingdom of Sand 5",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-5.png",
+    "x1": 7680,
+    "z1": -2048,
+    "x2": 8703,
+    "z2": -1537,
+    "md5": "10d15e15b87d3500d1a291f931667c1e"
   }
 ]
