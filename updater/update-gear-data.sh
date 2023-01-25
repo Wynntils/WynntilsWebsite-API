@@ -11,6 +11,9 @@ wget -O $TARGET_DIR/gear.json.tmp "https://api.wynncraft.com/public_api.php?acti
 jq --sort-keys -c '{"items":  .items | sort_by(.name)}' < gear.json.tmp > gear.json
 rm gear.json.tmp
 
+# To be able to review new data, we also need an expanded, human-readable version
+jq -c ".items[]" < gear.json > gear_expanded.json
+
 # Calculate md5sum of the new gear data
 MD5=$(md5sum $TARGET_DIR/gear.json | cut -d' ' -f1)
 
