@@ -24,8 +24,8 @@ jobs:
             title: "chore: [auto-generated] Update gear data from upstream"
             body: |
               Upstream Wynncraft API has been updated with new gear data.
-              If new field types are introduced, please to not merge this PR until the Wynntils
-              mod has been updated to support these changes.
+
+              If new field types are introduced, please to not merge this PR until the Wynntils mod has been updated to support these changes.
 
               This PR has been automatically generated.
             branch: update-gear-data
