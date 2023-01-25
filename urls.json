@@ -79,6 +79,11 @@
     "md5": "f85efa2a19d9b84e1a8c3761ba50866a"
   },
   {
+    "id": "dataStaticGear",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/gear.json",
+    "md5": "ceb53e732f6074d0b771c58e554445e6"
+  },
+  {
     "id": "dataStaticItemGuesses",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/item_guesses.json",
     "md5": "8b54ff8c64ca1d45dfccc9a826ca63b8"
