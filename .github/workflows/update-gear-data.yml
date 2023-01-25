@@ -14,7 +14,7 @@ jobs:
 
       - name: Update Gear Data
         run: |
-          ./scripts/update-gear-data.sh
+          ./updater/update-gear-data.sh
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
