@@ -20,6 +20,7 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
             labels: auto-generated
+            committer: 'WynntilsBot <admin@wynntils.com>'
             commit-message: "chore: [auto-generated] Update gear data from upstream"
             title: "chore: [auto-generated] Update gear data from upstream"
             body: |
