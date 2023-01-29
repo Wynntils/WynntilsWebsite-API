@@ -9,6 +9,7 @@ cd $TARGET_DIR
 wget -O gear.json.tmp "https://api.wynncraft.com/public_api.php?action=itemDB&category=all"
 
 if [ ! -s gear.json.tmp ]; then
+    rm gear.json.tmp
     echo "Error: Wynncraft API is not working, aborting"
     exit
 fi
