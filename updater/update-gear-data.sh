@@ -3,8 +3,15 @@
 
 TARGET_DIR=$(cd $(dirname "$0")/.. >/dev/null 2>&1 && pwd)
 
+cd $TARGET_DIR
+
 # Download the json file from Wynncraft API
-wget -O $TARGET_DIR/gear.json.tmp "https://api.wynncraft.com/public_api.php?action=itemDB&category=all"
+wget -O gear.json.tmp "https://api.wynncraft.com/public_api.php?action=itemDB&category=all"
+
+if [ ! -s gear.json.tmp ]; then
+    echo "Error: Wynncraft API is not working, aborting"
+    exit
+fi
 
 # Sort the items and keys in the json file, since the Wynncraft API is not stable in its order
 # This will also get rid of the timestamp, which would mess up the md5sum
