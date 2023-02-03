@@ -16,9 +16,9 @@ fi
 
 # Sort the items and keys in the json file, since the Wynncraft API is not stable in its order
 # This will also get rid of the timestamp, which would mess up the md5sum
-jq --sort-keys -c '{"items":  .items | sort_by(.name)}' < gear.json.tmp > gear.json.tmp2
+jq --sort-keys '{"items":  .items | sort_by(.name)}' < gear.json.tmp > gear.json.tmp2
 # Delete zero and empty values to keep size down and readability up
-jq 'del(..|select(. == 0 or . == null or . == "0-0"))' < gear.json.tmp2 > gear.json
+jq -c 'del(..|select(. == 0 or . == null or . == "0-0"))' < gear.json.tmp2 > gear.json
 rm gear.json.tmp gear.json.tmp2
 
 # To be able to review new data, we also need an expanded, human-readable version
