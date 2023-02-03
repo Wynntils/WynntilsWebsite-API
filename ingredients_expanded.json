@@ -2,7 +2,7 @@
   "ingredients": [
     {
       "itemOnlyIDs": {
-        "agilityRequirement": -12,
+        "agilityRequirement": -120,
         "defenceRequirement": -12,
         "dexterityRequirement": -12,
         "durabilityModifier": -98
