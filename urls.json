@@ -1,6 +1,6 @@
 [
   {
-    "version": 3
+    "version": 4
   },
   {
     "id": "apiAthenaAuthPublicKey",
@@ -100,6 +100,10 @@
     "id": "dataStaticItemGuesses",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/item_guesses.json",
     "md5": "8b54ff8c64ca1d45dfccc9a826ca63b8"
+  },
+  {
+    "id": "dataStaticMajorIds",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/major_ids.json"
   },
   {
     "id": "dataStaticMaps",
