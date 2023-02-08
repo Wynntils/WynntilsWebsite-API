@@ -650,6 +650,11 @@
   {
     "level": 30,
     "type": "world",
+    "name": "Isles of Fiction"
+  },
+  {
+    "level": 30,
+    "type": "world",
     "name": "Owl Tribe"
   },
   {
