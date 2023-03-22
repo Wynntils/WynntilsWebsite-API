@@ -3,7 +3,7 @@
 name: Update Gear Data
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * *' # Runs at midnight
 
 jobs:
   update-gear-data:
