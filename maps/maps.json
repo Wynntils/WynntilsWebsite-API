@@ -6,7 +6,7 @@
     "z1": -6144,
     "x2": 2047,
     "z2": -1,
-    "md5": "5511f357df3d929739eeb4c0925f19ce"
+    "md5": "74aabd5aed8c47db376dbc0440795207"
   },
   {
     "name": "Ceralus Farm 1",
@@ -79,6 +79,15 @@
     "x2": -1025,
     "z2": 10239,
     "md5": "e244990cf2f818efcfa07fc69882f120"
+  },
+  {
+    "name": "Talespun Citadel",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-talespun-citadel.png",
+    "x1": -1536,
+    "z1": 9728,
+    "x2": -1025,
+    "z2": 10751,
+    "md5": "9ad11cb5e69391d1b70e5508c8fc66a8"
   },
   {
     "name": "The Void",
