@@ -13,18 +13,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-1-2.png",
     "x1": -1024,
     "z1": -6144,
-    "x2": 511,
+    "x2": 1023,
     "z2": -5121,
-    "md5": "fbf01af7aaef0c055f282ca9aa480700"
+    "md5": "a8fe366af9ae42f2d78879fd15d33458"
   },
   {
     "name": "Main 1-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-1-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -6144,
     "x2": 2047,
     "z2": -5121,
-    "md5": "ea8bebc5bb6c5c18453c9f2ff5a61431"
+    "md5": "637859f20151d53aedc661b4019cbbbf"
   },
   {
     "name": "Main 2-1",
@@ -40,18 +40,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-2-2.png",
     "x1": -1024,
     "z1": -5120,
-    "x2": 511,
+    "x2": 1023,
     "z2": -4097,
-    "md5": "1c7b7523ff435a4e6d4ed8ee4ece7727"
+    "md5": "3b9418157558d0246a3db193f052f578"
   },
   {
     "name": "Main 2-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-2-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -5120,
     "x2": 2047,
     "z2": -4097,
-    "md5": "d9c01b0e62549aedc562f40a29d0649d"
+    "md5": "c30a24b70cbb39db54750b563665f835"
   },
   {
     "name": "Main 3-1",
@@ -67,18 +67,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-3-2.png",
     "x1": -1024,
     "z1": -4096,
-    "x2": 511,
+    "x2": 1023,
     "z2": -3073,
-    "md5": "8c15bbcc8c0d2a7ee7f278c3bb454a40"
+    "md5": "1fc11b725fc4dcd1cf68caac9f23ca1d"
   },
   {
     "name": "Main 3-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-3-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -4096,
     "x2": 2047,
     "z2": -3073,
-    "md5": "fd8d01f5296b319085ec850d7eb6193c"
+    "md5": "6d7f2b8b764cf7b41c9371645d051df8"
   },
   {
     "name": "Main 4-1",
@@ -94,18 +94,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-4-2.png",
     "x1": -1024,
     "z1": -3072,
-    "x2": 511,
+    "x2": 1023,
     "z2": -2049,
-    "md5": "8210f97a2ecdabfc9cac53eb1699e189"
+    "md5": "e98d3b6ccab49a6f74488963efdc9883"
   },
   {
     "name": "Main 4-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-4-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -3072,
     "x2": 2047,
     "z2": -2049,
-    "md5": "247263ea885a8a2e301150099d9cb5dc"
+    "md5": "dba314b16f05c09fc2fbc63f47f17776"
   },
   {
     "name": "Main 5-1",
@@ -121,18 +121,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-5-2.png",
     "x1": -1024,
     "z1": -2048,
-    "x2": 511,
+    "x2": 1023,
     "z2": -1025,
-    "md5": "98205ee85b23128fd648f73cf0d9a1fc"
+    "md5": "24f7146a5ee48b9ee4ad689ae3061cf8"
   },
   {
     "name": "Main 5-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-5-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -2048,
     "x2": 2047,
     "z2": -1025,
-    "md5": "8a5102260dd1dffc8e830a1f4f2d8b5d"
+    "md5": "1f80ea77c19dce8540cbdceaeb25b7cd"
   },
   {
     "name": "Main 6-1",
@@ -148,18 +148,18 @@
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-6-2.png",
     "x1": -1024,
     "z1": -1024,
-    "x2": 511,
+    "x2": 1023,
     "z2": -1,
-    "md5": "dcbfbfe1adead874ea1aa92f39bdbabb"
+    "md5": "4c4a31c17d27933f444301de174d1c26"
   },
   {
     "name": "Main 6-3",
     "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-6-3.png",
-    "x1": 512,
+    "x1": 1024,
     "z1": -1024,
     "x2": 2047,
     "z2": -1,
-    "md5": "e02fccf6c61944adf6b92b7bd25e7b87"
+    "md5": "3e9dd82c1b6246c7ddfd827babd23c30"
   },
   {
     "name": "Ceralus Farm 1",
