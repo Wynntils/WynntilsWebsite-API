@@ -170,7 +170,7 @@
   },
   {
     "id": "linkWynndataItemLookup",
-    "url": "https://data.wynntils.com/i/%{itemname}"
+    "url": "https://data.wynntils.com/i/%{itemname}",
     "arguments": [
       "itemname"
     ]
