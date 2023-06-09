@@ -20,6 +20,11 @@
       "armorColor": "37,33,33",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 100,
       "identified": true,
@@ -56,6 +61,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "defense": 15,
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "50-110",
       "fireDamageBonus": 10,
@@ -100,6 +110,11 @@
       "accessoryType": "Necklace",
       "addedLore": "\"The fractures have ground the land to dust, our home to ruin, and our people to nothing.\"",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamageBonus": 10,
       "fireDefense": 40,
@@ -321,6 +336,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 15,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 250,
@@ -508,6 +528,11 @@
       "defensePoints": 6,
       "dexterity": 12,
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 45,
       "fireDefense": 45,
@@ -1335,6 +1360,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": -50,
       "identified": true,
@@ -1599,6 +1629,11 @@
       "category": "armor",
       "defensePoints": 5,
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -150,
       "elementalDamageBonus": 20,
@@ -1619,6 +1654,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "40-70",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "210-330",
       "identified": true,
@@ -2056,6 +2096,11 @@
       "category": "accessory",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 70,
       "identified": true,
@@ -2355,6 +2400,11 @@
       "attackSpeed": "VERY_SLOW",
       "bonusThunderDefense": -24,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "intelligence": 25,
       "intelligencePoints": 10,
@@ -2667,6 +2717,15 @@
       "damage": "100-100",
       "defense": 25,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "fireDamage": "40-60",
       "healthRegenRaw": 100,
@@ -2713,6 +2772,11 @@
       "bonusWaterDefense": 5,
       "category": "armor",
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 300,
@@ -2837,6 +2901,11 @@
       "defense": 35,
       "dexterity": 40,
       "dexterityPoints": 15,
+      "dropMeta": {
+        "coordinates": "1332,11,-516",
+        "name": "Bottomless Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": -175,
       "fireDefense": -125,
@@ -2992,6 +3061,11 @@
       "armorType": "Golden",
       "category": "armor",
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDamageBonus": 15,
       "earthDefense": 15,
@@ -3331,6 +3405,11 @@
       "category": "armor",
       "defense": 50,
       "defensePoints": 15,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 100,
       "health": 3900,
@@ -3788,6 +3867,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 40,
       "earthDefense": 90,
@@ -3831,6 +3915,11 @@
       "airDefense": 50,
       "category": "accessory",
       "defense": 55,
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": 30,
       "health": 725,
@@ -4101,6 +4190,15 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "earthDefense": 25,
       "fireDamageBonus": -10,
@@ -4487,6 +4585,11 @@
       "defense": 50,
       "defensePoints": 7,
       "displayName": "Back-Up Plan",
+      "dropMeta": {
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
+        "type": "altar"
+      },
       "dropType": "never",
       "health": 625,
       "level": 70,
@@ -4807,6 +4910,11 @@
       "category": "armor",
       "dexterity": 50,
       "dexterityPoints": 17,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "exploding": 30,
       "health": 700,
@@ -4923,6 +5031,11 @@
       "bonusAirDefense": -12,
       "category": "accessory",
       "defense": 45,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "exploding": 12,
       "fireDamageBonus": 6,
@@ -4941,6 +5054,11 @@
       "damage": "30-40",
       "defensePoints": 5,
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 56,
@@ -5489,6 +5607,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 64,
       "manaSteal": 3,
@@ -5603,6 +5726,11 @@
       "category": "accessory",
       "dexterity": 25,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "51,68,-485",
+        "name": "Prison of Souls",
+        "type": "altar"
+      },
       "dropType": "never",
       "level": 50,
       "manaSteal": -4,
@@ -5808,6 +5936,11 @@
       "bonusEarthDefense": 30,
       "category": "weapon",
       "damage": "60-120",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "210-250",
       "earthDamageBonus": 30,
@@ -5882,6 +6015,11 @@
       "category": "accessory",
       "defensePoints": -2,
       "dexterityPoints": -2,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": -325,
       "identified": true,
@@ -5972,6 +6110,11 @@
       "armorType": "Golden",
       "category": "armor",
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 250,
       "identified": true,
@@ -6179,6 +6322,11 @@
       "damage": "30-55",
       "defense": 20,
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-802,76,-5394",
+        "name": "Challenge of the Blades",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDamage": "65-80",
       "fireDamageBonus": 20,
@@ -6315,6 +6463,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 500,
       "identified": true,
@@ -6337,6 +6490,11 @@
       "category": "weapon",
       "defense": 45,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "emeraldStealing": 5,
       "exploding": 25,
@@ -7028,6 +7186,11 @@
       "category": "armor",
       "dexterity": 16,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 150,
       "level": 23,
@@ -7121,6 +7284,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "210-270",
+      "dropMeta": {
+        "coordinates": "1296,19,-4670",
+        "name": "??????????",
+        "type": "altar"
+      },
       "dropType": "never",
       "exploding": -500,
       "healthRegen": 30,
@@ -7585,6 +7753,11 @@
     {
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 55,
@@ -7630,6 +7803,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 550,
       "identified": true,
@@ -7680,6 +7858,11 @@
       "bonusWaterDefense": 20,
       "category": "weapon",
       "damage": "405-555",
+      "dropMeta": {
+        "coordinates": "1296,19,-4670",
+        "name": "??????????",
+        "type": "altar"
+      },
       "dropType": "never",
       "exploding": 77,
       "healthBonus": -2050,
@@ -7826,6 +8009,11 @@
       "category": "weapon",
       "damage": "90-150",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "-1573,27,-3204",
+        "name": "Geyser Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamage": "60-130",
       "exploding": 57,
@@ -7901,6 +8089,11 @@
       "category": "accessory",
       "defensePoints": -5,
       "dexterityPoints": -3,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -45,
       "fireDefense": -30,
@@ -8053,6 +8246,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -10,
       "fireDefense": -100,
@@ -8163,6 +8361,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 135,
       "identified": true,
@@ -8788,6 +8991,11 @@
       "armorType": "Golden",
       "bonusAirDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 70,
       "identified": true,
@@ -8872,6 +9080,11 @@
       "bonusThunderDefense": 14,
       "bonusWaterDefense": 14,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 512,
       "identified": true,
@@ -8887,6 +9100,11 @@
       "agility": 55,
       "airDefense": -15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -15,
       "fireDefense": -15,
@@ -9532,6 +9750,11 @@
       "bonusAirDefense": -90,
       "category": "armor",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "-1025,95,-3657",
+        "name": "Magmastream Core",
+        "type": "altar"
+      },
       "dropType": "never",
       "exploding": 25,
       "fireDamageBonus": 30,
@@ -9914,6 +10137,11 @@
       "bonusAirDefense": 10,
       "category": "weapon",
       "damage": "14-24",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "fireDamageBonus": 15,
@@ -10169,6 +10397,11 @@
       "category": "armor",
       "defense": 45,
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -50,
       "emeraldStealing": 8,
@@ -10211,6 +10444,11 @@
       "armorType": "Leather",
       "category": "armor",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 75,
       "identified": true,
@@ -11017,6 +11255,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "20-24",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 39,
@@ -11388,6 +11631,15 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "20-50",
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "earthDamage": "125-175",
       "earthDamageBonus": 25,
@@ -12084,6 +12336,11 @@
       "damage": "120-225",
       "defense": 45,
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 80,
       "identified": true,
@@ -12289,6 +12546,11 @@
       "damage": "12-22",
       "dexterity": 20,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "healthBonus": -50,
       "identified": true,
@@ -12794,6 +13056,11 @@
       "damage": "500-685",
       "defensePoints": 20,
       "dexterityPoints": 20,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "identified": true,
@@ -12818,6 +13085,11 @@
       "bonusWaterDefense": 15,
       "category": "accessory",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "fireDefense": 60,
@@ -12975,6 +13247,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 2800,
       "identified": true,
@@ -13149,6 +13426,11 @@
       "accessoryType": "Necklace",
       "category": "accessory",
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "51,68,-485",
+        "name": "Prison of Souls",
+        "type": "altar"
+      },
       "dropType": "never",
       "health": 100,
       "healthBonus": 96,
@@ -13194,6 +13476,11 @@
       "bonusFireDefense": 31,
       "category": "weapon",
       "damage": "0-100",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamage": "100-700",
       "level": 105,
@@ -13429,6 +13716,11 @@
       "accessoryType": "Necklace",
       "bonusAirDefense": -15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 160,
       "healthRegenRaw": 26,
@@ -13604,6 +13896,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "8-10",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "4-9",
       "identified": true,
@@ -13625,6 +13922,11 @@
       "category": "armor",
       "defense": 65,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 20,
       "fireDefense": 100,
@@ -13643,6 +13945,11 @@
       "armorType": "Iron",
       "bonusWaterDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 1625,
       "identified": true,
@@ -13665,6 +13972,11 @@
       "bonusWaterDefense": 15,
       "category": "armor",
       "defense": 50,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 50,
       "health": 1650,
@@ -13689,6 +14001,11 @@
       "category": "armor",
       "defense": 75,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 15,
       "fireDefense": 150,
@@ -13710,6 +14027,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 2350,
       "identified": true,
@@ -13729,6 +14051,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "defense": 85,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 75,
       "health": 3400,
@@ -13752,6 +14079,11 @@
       "damage": "37-80",
       "dexterity": 75,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 74,
@@ -14459,6 +14791,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": 65,
       "health": 880,
@@ -14479,6 +14816,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 49,
@@ -14602,6 +14944,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "60-100",
+      "dropMeta": {
+        "coordinates": "321,32,-2035",
+        "name": "Rotten Passage",
+        "type": "altar"
+      },
       "dropType": "never",
       "level": 25,
       "mainAttackDamageBonus": 50,
@@ -14871,6 +15218,11 @@
       "attackSpeedBonus": -13,
       "category": "armor",
       "defensePoints": 15,
+      "dropMeta": {
+        "coordinates": "-1025,95,-3657",
+        "name": "Magmastream Core",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 70,
@@ -15208,6 +15560,11 @@
       "damage": "40-65",
       "defense": 40,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "65-105",
       "healthBonus": 980,
@@ -15383,6 +15740,11 @@
       "damage": "70-100",
       "defense": 20,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 32,
       "identified": true,
@@ -15883,6 +16245,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": -6,
       "fireDefense": -6,
@@ -15992,6 +16359,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 10,
       "health": 150,
@@ -16033,6 +16405,11 @@
       "category": "weapon",
       "damage": "577-578",
       "dexterityPoints": 30,
+      "dropMeta": {
+        "coordinates": "1417,100,-1462",
+        "name": "Sunrise Canyon",
+        "type": "altar"
+      },
       "dropType": "never",
       "level": 45,
       "majorIds": [
@@ -16082,6 +16459,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "42-55",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "44-55",
       "earthDamageBonus": 35,
@@ -16287,6 +16669,11 @@
       "category": "weapon",
       "damage": "4-6",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 9,
@@ -16496,6 +16883,11 @@
       "category": "weapon",
       "damage": "90-110",
       "defense": 60,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "exploding": 30,
@@ -16560,6 +16952,11 @@
       "damage": "45-55",
       "defense": 20,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "30-45",
       "fireDamageBonus": 12,
@@ -16691,6 +17088,11 @@
       "attackSpeed": "SUPER_FAST",
       "category": "weapon",
       "defense": 50,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "0-76",
       "healthBonus": -1000,
@@ -16759,6 +17161,11 @@
       "category": "weapon",
       "damage": "460-500",
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 25,
       "exploding": 100,
@@ -16783,6 +17190,11 @@
       "airDefense": 60,
       "category": "accessory",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 105,
       "mainAttackDamageBonusRaw": -85,
@@ -17885,6 +18297,11 @@
       "category": "armor",
       "dexterity": 80,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -150,
       "health": 2800,
@@ -18030,6 +18447,11 @@
       "agilityPoints": 6,
       "airDefense": 60,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 100,
       "mainAttackDamageBonusRaw": 85,
@@ -18064,6 +18486,11 @@
       "bonusThunderDefense": 75,
       "category": "armor",
       "defensePoints": -35,
+      "dropMeta": {
+        "coordinates": "1332,11,-516",
+        "name": "Bottomless Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthBonus": 3550,
       "intelligencePoints": -20,
@@ -18109,6 +18536,11 @@
       "bonusAirDefense": 35,
       "category": "weapon",
       "damage": "0-30",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamage": "0-400",
       "earthDamageBonus": 20,
@@ -18305,6 +18737,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1746,65,-3069",
+        "name": "Aerie of the Recluse",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamageBonus": 25,
       "earthDefense": 150,
@@ -18772,6 +19209,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 375,
       "identified": true,
@@ -18890,6 +19332,11 @@
       "attackSpeedBonus": -2,
       "category": "armor",
       "defense": 110,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "exploding": 60,
       "fireDamageBonus": 20,
@@ -19211,6 +19658,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 400,
       "identified": true,
@@ -19256,6 +19708,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 48,
       "earthDefense": 190,
@@ -19340,6 +19797,11 @@
       "accessoryType": "Necklace",
       "addedLore": "Carried by the Durum Protector, this small necklace holds but an ounce of the vibrance and life of the Durum Isles.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "471,44,-2912",
+        "name": "Bovine Barn",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": 7,
       "health": 30,
@@ -19480,6 +19942,11 @@
       "armorType": "Diamond",
       "bonusAirDefense": 45,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": -80,
@@ -19554,6 +20021,11 @@
       "accessoryType": "Bracelet",
       "airDefense": 25,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 25,
       "fireDefense": 25,
@@ -19860,6 +20332,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 85,
       "earthDefense": 330,
@@ -20237,6 +20714,11 @@
       "bonusAirDefense": 30,
       "bonusThunderDefense": 25,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-1746,65,-3069",
+        "name": "Aerie of the Recluse",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDamageBonus": -20,
       "level": 95,
@@ -20491,6 +20973,44 @@
       "spellDamageBonusRaw": 11,
       "tier": "Unique",
       "type": "Dagger"
+    },
+    {
+      "airDefense": 100,
+      "armorColor": "216,88,0",
+      "armorType": "Leather",
+      "category": "armor",
+      "defense": 30,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "earthDefense": 100,
+      "fireDefense": 100,
+      "identified": true,
+      "level": 80,
+      "mainAttackDamageBonus": 25,
+      "majorIds": [
+        "HERO"
+      ],
+      "name": "Eleventh Hour",
+      "reflection": 25,
+      "restrictions": "Untradable",
+      "sockets": 2,
+      "speed": -15,
+      "spellCostRaw4": -3,
+      "strength": 55,
+      "strengthPoints": 5,
+      "thorns": 25,
+      "thunderDefense": 100,
+      "tier": "Fabled",
+      "type": "Chestplate",
+      "waterDefense": 100
     },
     {
       "agility": 35,
@@ -20955,6 +21475,11 @@
       "damage": "20-30",
       "defense": 20,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "exploding": 15,
       "fireDamageBonus": 16,
@@ -21508,6 +22033,44 @@
       "name": "Enzan's Lucky Charm",
       "tier": "Rare",
       "xpBonus": 3
+    },
+    {
+      "agility": 25,
+      "airDefense": 75,
+      "armorColor": "160,101,64",
+      "armorType": "Diamond",
+      "category": "armor",
+      "defense": 25,
+      "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "earthDefense": 100,
+      "elementalDamageBonusRaw": 235,
+      "fireDefense": 75,
+      "health": 3200,
+      "healthRegenRaw": 200,
+      "identified": true,
+      "intelligence": 30,
+      "level": 89,
+      "manaRegen": 15,
+      "name": "Epilogue",
+      "restrictions": "Untradable",
+      "sockets": 3,
+      "speed": 25,
+      "sprintRegen": 15,
+      "strength": 30,
+      "thunderDefense": 50,
+      "tier": "Legendary",
+      "type": "Boots",
+      "waterDefense": 100
     },
     {
       "agility": 70,
@@ -22164,6 +22727,11 @@
       "category": "accessory",
       "defense": 60,
       "displayName": "Collection",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "fireDefense": -60,
@@ -22251,6 +22819,11 @@
       "attackSpeedBonus": -6,
       "category": "accessory",
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "intelligence": 45,
       "level": 60,
@@ -22462,6 +23035,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "8-12",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 2,
@@ -22822,6 +23400,11 @@
       "category": "armor",
       "dexterity": 35,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 700,
       "identified": true,
@@ -22889,6 +23472,11 @@
       "airDamageBonus": 7,
       "airDefense": 4,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 9,
       "earthDefense": 6,
@@ -23079,6 +23667,11 @@
       "category": "weapon",
       "damage": "270-315",
       "defense": 50,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "130-170",
       "fireDamage": "130-170",
@@ -23387,6 +23980,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "defense": 70,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 85,
       "fireDefense": 350,
@@ -23850,6 +24448,11 @@
       "category": "accessory",
       "defense": 40,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 40,
       "health": 900,
@@ -23866,6 +24469,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 10,
       "health": 450,
@@ -25097,6 +25705,33 @@
       "waterDamage": "55-60"
     },
     {
+      "accessoryType": "Ring",
+      "category": "accessory",
+      "defensePoints": 4,
+      "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "fireDefense": 10,
+      "health": 100,
+      "healthRegenRaw": 25,
+      "identified": true,
+      "intelligence": 15,
+      "level": 48,
+      "mainAttackDamageBonus": 4,
+      "material": "259:8",
+      "name": "Folklore",
+      "restrictions": "Untradable",
+      "tier": "Rare"
+    },
+    {
       "accessoryType": "Bracelet",
       "addedLore": "A lost relic from the Wind Fortress, a mythical stronghold of the Sky Islands that fell into the Void long ago. A small mechanism within the bracelet points towards its place of origin.",
       "agility": 60,
@@ -25142,6 +25777,11 @@
       "category": "accessory",
       "dexterity": 60,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "intelligence": 60,
       "intelligencePoints": 5,
@@ -25188,6 +25828,11 @@
       "attackSpeed": "NORMAL",
       "bonusAirDefense": -25,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "healthBonus": -1000,
       "identified": true,
@@ -25381,6 +26026,11 @@
       "bonusAirDefense": 64,
       "category": "weapon",
       "damage": "64-64",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "jumpHeight": 1,
       "level": 105,
@@ -25572,6 +26222,11 @@
       "armorType": "Diamond",
       "attackSpeedBonus": 1,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -75,
       "health": 2500,
@@ -26327,6 +26982,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": -80,
       "identified": true,
@@ -26418,6 +27078,11 @@
       "armorType": "Golden",
       "bonusFireDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 30,
       "fireDefense": 15,
@@ -26471,6 +27136,11 @@
       "armorType": "Diamond",
       "attackSpeedBonus": -2,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 40,
       "emeraldStealing": 8,
@@ -27058,6 +27728,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "50-60",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 76,
@@ -27202,6 +27877,11 @@
       "category": "accessory",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": -512,
       "healthRegenRaw": 48,
@@ -27306,6 +27986,41 @@
       "waterDefense": 30
     },
     {
+      "airDefense": 15,
+      "armorColor": "160,101,64",
+      "armorType": "Golden",
+      "category": "armor",
+      "defense": 12,
+      "defensePoints": 5,
+      "dexterity": 12,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "earthDamageBonus": 10,
+      "fireDamageBonus": 10,
+      "health": 450,
+      "healthRegenRaw": 25,
+      "identified": true,
+      "level": 40,
+      "mainAttackDamageBonusRaw": 85,
+      "name": "Gladiator",
+      "restrictions": "Untradable",
+      "sockets": 2,
+      "strength": 12,
+      "strengthPoints": 5,
+      "thunderDamageBonus": 15,
+      "tier": "Rare",
+      "type": "Chestplate",
+      "waterDefense": 15
+    },
+    {
       "addedLore": "The blazing sun has been revered by many druidic sects as a god in its own right, and the jewel in this brilliant wand glows with the brightness of their holy star.",
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
@@ -27325,6 +28040,36 @@
       "tier": "Legendary",
       "type": "Wand",
       "xpBonus": 10
+    },
+    {
+      "agility": 25,
+      "agilityPoints": 6,
+      "armorColor": "160,101,64",
+      "armorType": "Iron",
+      "category": "armor",
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "emeraldStealing": 5,
+      "health": 1350,
+      "identified": true,
+      "intelligence": 25,
+      "level": 64,
+      "manaRegen": -5,
+      "name": "Gleeman's Tale",
+      "restrictions": "Untradable",
+      "sockets": 3,
+      "spellDamageBonusRaw": 150,
+      "sprint": 25,
+      "tier": "Rare",
+      "type": "Leggings"
     },
     {
       "accessoryType": "Ring",
@@ -27668,6 +28413,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 120,
       "identified": true,
@@ -28084,6 +28834,11 @@
       "category": "armor",
       "dexterity": 80,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -64,
       "emeraldStealing": 8,
@@ -28294,6 +29049,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "health": 800,
@@ -28638,6 +29398,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "471,44,-2912",
+        "name": "Bovine Barn",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "health": 105,
@@ -28851,6 +29616,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "120-140",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "100-200",
       "identified": true,
@@ -29512,6 +30282,11 @@
       "bonusAirDefense": -35,
       "bonusWaterDefense": -20,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "145-149",
       "earthDamageBonus": 30,
@@ -29599,6 +30374,11 @@
       "category": "weapon",
       "damage": "25-37",
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "321,32,-2035",
+        "name": "Rotten Passage",
+        "type": "altar"
+      },
       "dropType": "never",
       "intelligence": 15,
       "level": 30,
@@ -29680,6 +30460,11 @@
       "category": "weapon",
       "damage": "10-15",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 39,
@@ -29799,6 +30584,11 @@
       "category": "armor",
       "dexterity": 50,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 550,
       "identified": true,
@@ -29818,6 +30608,11 @@
       "category": "armor",
       "defense": 30,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 50,
       "health": 900,
@@ -29924,6 +30719,11 @@
       "category": "armor",
       "defense": 45,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 15,
       "fireDefense": 160,
@@ -30279,6 +31079,11 @@
       "attackSpeedBonus": -1,
       "category": "weapon",
       "damage": "714-1114",
+      "dropMeta": {
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
+        "type": "altar"
+      },
       "dropType": "never",
       "level": 70,
       "lootBonus": 10,
@@ -30684,7 +31489,7 @@
       "waterDefense": -130
     },
     {
-      "addedLore": "It bears the visage of a great hero. Thank you for participating in the 2022 Festival of the Heroes!",
+      "addedLore": "It bears the visage of a great hero. Thank you for participating in the Festival of the Heroes!",
       "airDefense": 20,
       "armorColor": "160,101,64",
       "armorType": "Chain",
@@ -30700,7 +31505,7 @@
       "sockets": 2,
       "soulPoints": 10,
       "speed": 12,
-      "tier": "Legendary",
+      "tier": "Rare",
       "type": "Helmet",
       "xpBonus": 15
     },
@@ -31230,6 +32035,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 35,
       "level": 60,
@@ -31495,6 +32305,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "0-1",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 19,
@@ -31751,6 +32566,11 @@
       "airDamageBonus": 20,
       "attackSpeed": "NORMAL",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 31,
@@ -31924,6 +32744,11 @@
       "category": "weapon",
       "damage": "22-32",
       "dexterityPoints": -10,
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "NORMAL",
       "intelligence": 30,
       "intelligencePoints": 8,
@@ -32146,6 +32971,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 20,
@@ -33210,6 +34040,11 @@
       "damage": "0-875",
       "dexterity": 50,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 45,
@@ -33252,6 +34087,11 @@
       "damage": "51-101",
       "defense": 70,
       "defensePoints": 11,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamage": "51-101",
       "fireDamageBonus": 11,
@@ -33488,6 +34328,11 @@
       "category": "accessory",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "earthDefense": 55,
@@ -33798,6 +34643,11 @@
       "bonusEarthDefense": 20,
       "bonusFireDefense": -10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "health": 650,
@@ -34249,6 +35099,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "60-80",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "105-135",
       "exploding": 15,
@@ -34576,6 +35431,11 @@
       "damage": "0-90",
       "dexterity": 60,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 89,
@@ -34668,6 +35528,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "55-70",
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 55,
@@ -34829,6 +35694,11 @@
       "category": "weapon",
       "defense": 10,
       "dexterityPoints": -15,
+      "dropMeta": {
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamage": "150-260",
       "exploding": 35,
@@ -34993,6 +35863,11 @@
       "airDamageBonus": 20,
       "attackSpeed": "NORMAL",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 25,
@@ -35434,6 +36309,11 @@
       "defense": 45,
       "defensePoints": 10,
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeon"
+      },
       "dropType": "never",
       "earthDefense": -80,
       "health": 2725,
@@ -35562,6 +36442,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 38,
       "identified": true,
@@ -36008,6 +36893,11 @@
       "addedLore": "An uncountably old relic of Time Valley which has changed owners only through death, there is an inscription carved on it: '⒠⒜⒯ ⒪⒭ ⒝⒠ ⒠⒜⒯⒠⒩'",
       "category": "accessory",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": -70,
       "level": 27,
@@ -36178,6 +37068,11 @@
       "accessoryType": "Necklace",
       "agility": 40,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": -25,
       "fireDefense": -25,
@@ -36311,6 +37206,11 @@
       "classRequirement": "Warrior",
       "defense": 50,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "-692,73,-1068",
+        "name": "Arena of the Legends",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": 40,
       "fireDefense": 40,
@@ -36756,6 +37656,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 65,
       "healthRegen": 10,
@@ -37178,6 +38083,11 @@
       "armorType": "Diamond",
       "bonusEarthDefense": 40,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 120,
@@ -37328,6 +38238,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 640,
       "identified": true,
@@ -37566,6 +38481,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "350-430",
+      "dropMeta": {
+        "coordinates": "1296,19,-4670",
+        "name": "??????????",
+        "type": "altar"
+      },
       "dropType": "never",
       "level": 99,
       "material": "273:7",
@@ -37905,6 +38825,11 @@
       "category": "weapon",
       "damage": "10-12",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "12-16",
       "fireDamageBonus": 6,
@@ -38557,6 +39482,11 @@
       "bonusWaterDefense": 15,
       "category": "weapon",
       "damage": "140-240",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "healthBonus": 1800,
@@ -38677,6 +39607,11 @@
       "armorType": "Iron",
       "bonusWaterDefense": 15,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 1200,
       "level": 63,
@@ -38716,6 +39651,11 @@
       "armorType": "Chain",
       "attackSpeedBonus": -1,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "51,68,-485",
+        "name": "Prison of Souls",
+        "type": "altar"
+      },
       "dropType": "never",
       "health": 700,
       "intelligence": 45,
@@ -38811,6 +39751,15 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "earthDefense": 120,
       "fireDamageBonus": 10,
@@ -39126,6 +40075,11 @@
       "addedLore": "\"If you squish a spider egg, sometimes little spiders pop out. So, squish the whole area instead!\" -Captain Fenor, Detlas Legion",
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "86-114",
       "identified": true,
@@ -39301,6 +40255,11 @@
       "accessoryType": "Bracelet",
       "airDamageBonus": 14,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 14,
       "fireDamageBonus": 14,
@@ -39775,6 +40734,11 @@
       "addedLore": "What you have seen will mark you forever.",
       "airDefense": 20,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "fireDefense": 20,
@@ -39861,6 +40825,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "20-40",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 38,
@@ -39914,6 +40883,15 @@
       "defensePoints": 4,
       "dexterity": 6,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "health": 250,
       "identified": true,
@@ -40300,6 +41278,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -100,
       "emeraldStealing": 7,
@@ -40554,6 +41537,11 @@
       "armorType": "Chain",
       "category": "armor",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 50,
@@ -41085,6 +42073,15 @@
       "damage": "25-45",
       "defensePoints": -7,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "identified": true,
       "level": 62,
@@ -41269,6 +42266,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "health": 280,
@@ -41648,6 +42650,33 @@
       "waterDamageBonus": -7
     },
     {
+      "accessoryType": "Ring",
+      "category": "accessory",
+      "defense": 15,
+      "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "health": 100,
+      "identified": true,
+      "intelligence": 15,
+      "level": 48,
+      "lifeSteal": 25,
+      "material": "259:6",
+      "name": "Mythos",
+      "restrictions": "Untradable",
+      "spellDamageBonus": 4,
+      "thunderDefense": 10,
+      "tier": "Rare"
+    },
+    {
       "agility": 11,
       "agilityPoints": 3,
       "airDefense": 30,
@@ -41839,6 +42868,11 @@
       "damage": "75-77",
       "dexterity": 45,
       "dexterityPoints": 15,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 60,
@@ -42246,6 +43280,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "20-100",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "40-90",
       "earthDamageBonus": 35,
@@ -42683,6 +43722,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "defense": 70,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "200-225",
       "fireDamageBonus": 10,
@@ -43009,6 +44053,11 @@
       "attackSpeedBonus": 1,
       "bonusFireDefense": -100,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-1746,65,-3069",
+        "name": "Aerie of the Recluse",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamage": "62-85",
       "healthRegenRaw": -180,
@@ -43032,6 +44081,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 60,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "health": 4000,
       "intelligence": 30,
@@ -43345,6 +44399,11 @@
       "armorType": "Golden",
       "category": "armor",
       "defensePoints": 9,
+      "dropMeta": {
+        "coordinates": "321,32,-2035",
+        "name": "Rotten Passage",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": 25,
       "fireDefense": 35,
@@ -43446,6 +44505,11 @@
       "airDamageBonus": 15,
       "airDefense": 50,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": -60,
       "intelligence": 50,
@@ -43675,6 +44739,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "defense": 15,
+      "dropMeta": {
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthBonus": 770,
       "healthRegen": 25,
@@ -44084,6 +45153,11 @@
       "category": "armor",
       "defense": 85,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "fireDefense": 100,
@@ -44162,6 +45236,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDamage": "250-300",
       "fireDamage": "270-280",
@@ -44298,6 +45377,11 @@
       "bonusAirDefense": -100,
       "category": "weapon",
       "damage": "75-140",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "165-235",
       "earthDamageBonus": 20,
@@ -44435,6 +45519,11 @@
       "category": "accessory",
       "defense": 15,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": 20,
       "fireDefense": 20,
@@ -44594,6 +45683,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 2550,
       "identified": true,
@@ -44618,6 +45712,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "35-50",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 35,
@@ -45040,6 +46139,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "65-185",
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "exploding": 100,
       "identified": true,
@@ -45244,6 +46348,11 @@
       "attackSpeedBonus": 3,
       "category": "weapon",
       "damage": "46-60",
+      "dropMeta": {
+        "coordinates": "1332,11,-516",
+        "name": "Bottomless Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthBonus": -5000,
       "level": 101,
@@ -45439,6 +46548,11 @@
       "category": "weapon",
       "damage": "81-81",
       "defense": 35,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "80-80",
       "healthRegenRaw": -100,
@@ -45551,6 +46665,11 @@
       "category": "weapon",
       "damage": "16-24",
       "defense": 45,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "52-60",
       "identified": true,
@@ -45842,6 +46961,11 @@
       "armorType": "Iron",
       "category": "armor",
       "defense": 60,
+      "dropMeta": {
+        "coordinates": "-1025,95,-3657",
+        "name": "Magmastream Core",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 75,
@@ -46393,6 +47517,11 @@
       "armorType": "Chain",
       "category": "armor",
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "dungeon",
       "health": 470,
       "identified": true,
@@ -46540,6 +47669,11 @@
       "defense": 45,
       "defensePoints": 10,
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "exploding": 30,
       "fireDamage": "500-720",
@@ -46562,6 +47696,11 @@
       "armorType": "Chain",
       "category": "armor",
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "-1833,46,-5259",
+        "name": "Plague Laboratory",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDefense": 70,
       "fireDefense": 10,
@@ -46587,6 +47726,11 @@
       "attackSpeed": "SUPER_FAST",
       "category": "weapon",
       "damage": "0-1",
+      "dropMeta": {
+        "coordinates": "-1833,46,-5259",
+        "name": "Plague Laboratory",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthRegenRaw": 100,
       "intelligence": 50,
@@ -47185,6 +48329,11 @@
       "accessoryType": "Necklace",
       "airDefense": 4,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": 4,
       "emeraldStealing": 2,
@@ -47550,6 +48699,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "identified": true,
@@ -47565,6 +48719,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 63,
       "lifeSteal": 50,
@@ -47644,6 +48803,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 40,
@@ -47654,6 +48818,45 @@
       "restrictions": "Untradable",
       "tier": "Rare",
       "waterDamageBonus": 12
+    },
+    {
+      "agility": 5,
+      "airDefense": 5,
+      "armorColor": "160,101,64",
+      "armorType": "Golden",
+      "category": "armor",
+      "defense": 5,
+      "dexterity": 5,
+      "dropMeta": {
+        "coordinates": "-307,36,-4102",
+        "event": "heroes",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
+      "dropType": "never",
+      "earthDefense": 15,
+      "elementalDamageBonusRaw": 80,
+      "fireDefense": 5,
+      "health": 400,
+      "healthRegenRaw": 25,
+      "identified": true,
+      "intelligence": 10,
+      "level": 36,
+      "lootBonus": 15,
+      "manaRegen": 8,
+      "name": "Prologue",
+      "restrictions": "Untradable",
+      "sockets": 1,
+      "speed": 15,
+      "strength": 10,
+      "thunderDefense": 5,
+      "tier": "Legendary",
+      "type": "Boots",
+      "waterDefense": 15,
+      "xpBonus": 25
     },
     {
       "airDefense": -120,
@@ -47744,6 +48947,11 @@
       "agility": 40,
       "agilityPoints": 3,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 80,
       "mainAttackDamageBonus": -10,
@@ -48007,6 +49215,11 @@
       "category": "accessory",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 7,
       "fireDefense": 35,
@@ -48027,6 +49240,11 @@
       "category": "accessory",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "healthRegen": -10,
@@ -48903,6 +50121,11 @@
       "category": "accessory",
       "defense": 20,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-1833,46,-5259",
+        "name": "Plague Laboratory",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthRegen": 10,
       "healthRegenRaw": 30,
@@ -48981,6 +50204,11 @@
       "addedLore": "\"Leave us down here to die, why don't you all. Just turn us into another statistic and be done, huh?\" -Ragamal, Nemract Sewer Dweller ",
       "attackSpeed": "NORMAL",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "16-22",
       "healthBonus": 150,
@@ -49259,6 +50487,11 @@
       "classRequirement": "Assassin",
       "dexterity": 60,
       "dexterityPoints": 20,
+      "dropMeta": {
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
+        "type": "altar"
+      },
       "dropType": "never",
       "health": 1525,
       "level": 70,
@@ -49387,6 +50620,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "Undecipherable symbols are carved into this long arm band, though the fiery glow and bright jewel has led archaeologists to believe it is somehow related to the sun.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "fireDamageBonus": 6,
       "healthRegen": 12,
@@ -49614,6 +50852,11 @@
       "category": "armor",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 85,
       "earthDefense": 50,
@@ -49807,6 +51050,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 40,
       "level": 10,
@@ -49986,6 +51234,11 @@
       "airDefense": -45,
       "attackSpeedBonus": 1,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamageBonus": 11,
       "earthDefense": 65,
@@ -50042,6 +51295,11 @@
       "agility": 45,
       "airDefense": 30,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "health": -400,
       "intelligence": 45,
@@ -50096,6 +51354,11 @@
       "category": "weapon",
       "damage": "140-140",
       "defense": 70,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamage": "140-140",
       "fireDamageBonus": 22,
@@ -50251,6 +51514,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "35-45",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDamage": "75-105",
       "exploding": 20,
@@ -50272,6 +51540,11 @@
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
       "damage": "960-1223",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "emeraldStealing": 10,
       "exploding": 40,
@@ -50334,6 +51607,11 @@
       "bonusFireDefense": 19,
       "category": "armor",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "1417,100,-1462",
+        "name": "Sunrise Canyon",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDamageBonus": 19,
       "fireDefense": 25,
@@ -51750,6 +53028,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 5,
@@ -52182,6 +53465,11 @@
       "armorType": "Golden",
       "bonusEarthDefense": 17,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDamageBonus": 28,
       "earthDefense": 5,
@@ -52623,6 +53911,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "8-12",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 65,
@@ -52722,6 +54015,11 @@
       "category": "weapon",
       "damage": "6-39",
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "fireDamageBonus": -10,
@@ -52746,6 +54044,11 @@
       "bonusFireDefense": 15,
       "bonusWaterDefense": 10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": -25,
       "health": 1000,
@@ -52962,6 +54265,11 @@
       "accessoryType": "Bracelet",
       "airDefense": 20,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDefense": 20,
       "healthRegenRaw": 50,
@@ -53005,6 +54313,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "80-85",
       "earthDamageBonus": 10,
@@ -53267,6 +54580,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "113-167",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 88,
@@ -53288,6 +54606,11 @@
       "airDefense": 15,
       "bonusAirDefense": -15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": 15,
       "health": 160,
@@ -53315,6 +54638,11 @@
       "airDamage": "315-815",
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "95-495",
       "identified": true,
@@ -53532,6 +54860,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "20-42",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "identified": true,
@@ -53890,6 +55223,11 @@
       "damage": "20-45",
       "defense": 20,
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "10-35",
       "earthDamageBonus": 10,
@@ -54115,6 +55453,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "fireDamage": "30-48",
       "fireDamageBonus": 20,
@@ -54200,6 +55543,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 250,
       "level": 36,
@@ -54389,6 +55737,11 @@
       "category": "weapon",
       "damage": "180-230",
       "defensePoints": -20,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 40,
@@ -54428,6 +55781,15 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "fireDefense": 20,
       "health": 350,
@@ -54604,6 +55966,11 @@
       "bonusWaterDefense": 10,
       "category": "weapon",
       "damage": "40-60",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "intelligence": 45,
       "intelligencePoints": 6,
@@ -54928,6 +56295,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "2-4",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 11,
@@ -54999,6 +56371,11 @@
       "category": "accessory",
       "defense": 10,
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "-802,76,-5394",
+        "name": "Challenge of the Blades",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDefense": 50,
       "health": 500,
@@ -55017,6 +56394,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "51,68,-485",
+        "name": "Prison of Souls",
+        "type": "altar"
+      },
       "dropType": "never",
       "exploding": 20,
       "health": 525,
@@ -55043,6 +56425,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -10,
       "fireDamageBonus": -10,
@@ -55088,6 +56475,11 @@
       "category": "armor",
       "classRequirement": "Archer",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "-802,76,-5394",
+        "name": "Challenge of the Blades",
+        "type": "altar"
+      },
       "dropType": "never",
       "health": -275,
       "healthRegenRaw": -45,
@@ -55378,6 +56770,15 @@
       "bonusFireDefense": 15,
       "category": "weapon",
       "damage": "60-90",
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 30,
@@ -56332,6 +57733,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "defense": 5,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "health": 15,
       "healthRegenRaw": 4,
@@ -56913,6 +58319,11 @@
       "addedLore": "An anomaly of replication, for the assemblers who seek purpose outside of reality.",
       "category": "accessory",
       "defense": 45,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -70,
       "fireDefense": -90,
@@ -56934,6 +58345,11 @@
       "category": "armor",
       "dexterity": 75,
       "dexterityPoints": 15,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 2550,
       "identified": true,
@@ -57024,6 +58440,11 @@
       "category": "weapon",
       "damage": "30-30",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "exploding": 15,
       "fireDamage": "180-220",
@@ -57198,6 +58619,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "7-10",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 7,
@@ -57238,6 +58664,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 3500,
       "healthRegenRaw": 200,
@@ -57377,6 +58808,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 98,
@@ -57394,6 +58830,11 @@
       "attackSpeedBonus": 1,
       "category": "armor",
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": -70,
       "emeraldStealing": 8,
@@ -57414,6 +58855,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "40-49",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 10,
@@ -57840,6 +59286,11 @@
       "category": "weapon",
       "damage": "140-240",
       "dexterityPoints": -30,
+      "dropMeta": {
+        "coordinates": "1296,19,-4670",
+        "name": "??????????",
+        "type": "altar"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "level": 99,
@@ -58574,6 +60025,11 @@
       "category": "weapon",
       "damage": "20-30",
       "defense": 15,
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "fireDamage": "30-40",
@@ -58866,6 +60322,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 1400,
       "identified": true,
@@ -59545,6 +61006,11 @@
       "accessoryType": "Bracelet",
       "agilityPoints": 4,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDefense": 5,
       "level": 19,
@@ -59558,6 +61024,11 @@
       "addedLore": "\"Crawly things. They crawl on the mushrooms. Mushrooms shouldn't be crawly!\" -Yahya, Mushroom Man ",
       "airDefense": 3,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 18,
@@ -59588,6 +61059,11 @@
       "accessoryType": "Necklace",
       "category": "accessory",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 20,
       "mainAttackDamageBonus": 8,
@@ -59599,6 +61075,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "40-52",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 17,
       "lifeSteal": 15,
@@ -59732,6 +61213,11 @@
       "armorType": "Leather",
       "category": "armor",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 95,
       "identified": true,
@@ -59767,6 +61253,11 @@
       "accessoryType": "Necklace",
       "agilityPoints": 2,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "intelligencePoints": -4,
       "level": 25,
@@ -59950,6 +61441,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 50,
       "exploding": 40,
@@ -60028,6 +61524,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "40-50",
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "110-130",
       "earthDamageBonus": 12,
@@ -60430,6 +61931,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "10-14",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 3,
@@ -60739,6 +62245,11 @@
       "damage": "50-70",
       "defensePoints": 10,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-692,73,-1068",
+        "name": "Arena of the Legends",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamage": "15-35",
       "fireDamage": "10-40",
@@ -61112,6 +62623,11 @@
       "category": "weapon",
       "damage": "10-18",
       "defense": 5,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "14-22",
       "identified": true,
@@ -61148,6 +62664,11 @@
       "attackSpeedBonus": -99,
       "category": "weapon",
       "damage": "1200-1555",
+      "dropMeta": {
+        "coordinates": "1296,19,-4670",
+        "name": "??????????",
+        "type": "altar"
+      },
       "dropType": "never",
       "exploding": 30,
       "healthRegenRaw": -240,
@@ -61189,6 +62710,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 105,
       "identified": true,
@@ -61503,6 +63029,15 @@
       "category": "weapon",
       "damage": "20-40",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-345,35,-3970",
+        "event": "bonfire",
+        "name": "Isles of Fiction",
+        "type": [
+          "event",
+          "merchant"
+        ]
+      },
       "dropType": "never",
       "earthDamage": "30-50",
       "fireDamage": "30-50",
@@ -61902,6 +63437,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "15-25",
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 12,
@@ -62007,6 +63547,11 @@
       "category": "accessory",
       "defense": 30,
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "healthRegenRaw": 100,
       "intelligence": 60,
@@ -62093,6 +63638,11 @@
       "category": "accessory",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-1573,27,-3204",
+        "name": "Geyser Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDefense": -25,
       "healthRegenRaw": -35,
@@ -62190,6 +63740,11 @@
       "defensePoints": 9,
       "dexterity": 15,
       "dexterityPoints": 9,
+      "dropMeta": {
+        "coordinates": "1417,100,-1462",
+        "name": "Sunrise Canyon",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDamageBonus": 30,
       "fireDefense": 25,
@@ -63495,6 +65050,11 @@
       "category": "armor",
       "dexterity": 50,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-1573,27,-3204",
+        "name": "Geyser Pit",
+        "type": "altar"
+      },
       "dropType": "never",
       "earthDamageBonus": 36,
       "earthDefense": 100,
@@ -63584,6 +65144,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "intelligence": 40,
       "level": 65,
@@ -64136,6 +65701,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -75,
       "health": 3000,
@@ -64332,6 +65902,11 @@
     {
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "40-50",
       "healthBonus": 2250,
@@ -64380,6 +65955,11 @@
       "category": "weapon",
       "damage": "15-25",
       "defense": 65,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "emeraldStealing": 10,
       "fireDamage": "45-65",
@@ -64452,6 +66032,11 @@
       "bonusFireDefense": -50,
       "category": "weapon",
       "damage": "55-100",
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 60,
@@ -64910,6 +66495,11 @@
       "category": "weapon",
       "defense": 55,
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamage": "0-1",
       "identified": true,
@@ -65164,6 +66754,11 @@
       "armorType": "Leather",
       "category": "armor",
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "471,44,-2912",
+        "name": "Bovine Barn",
+        "type": "altar"
+      },
       "dropType": "never",
       "fireDefense": -5,
       "health": 150,
@@ -65412,6 +67007,11 @@
       "category": "weapon",
       "defense": 30,
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "57-63",
       "fireDamage": "57-63",
@@ -65709,6 +67309,11 @@
       "category": "weapon",
       "damage": "6-28",
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "284,18,-1952",
+        "name": "Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "healthBonus": -100,
       "identified": true,
@@ -65998,6 +67603,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 70,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -70,
       "identified": true,
@@ -66611,6 +68221,11 @@
       "defensePoints": 5,
       "dexterity": 40,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Underworld Crypt",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "exploding": 35,
@@ -66910,6 +68525,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-692,73,-1068",
+        "name": "Arena of the Legends",
+        "type": "altar"
+      },
       "dropType": "never",
       "healthRegen": 20,
       "healthRegenRaw": 20,
@@ -67044,6 +68664,11 @@
       "category": "weapon",
       "dexterity": 13,
       "dexterityPoints": 11,
+      "dropMeta": {
+        "coordinates": "1390,90,-1835",
+        "name": "Sand-Swept Tomb",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "jumpHeight": 1,
@@ -68948,6 +70573,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 77,
@@ -68985,6 +70615,11 @@
       "accessoryType": "Ring",
       "bonusFireDefense": 15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "132,85,-660",
+        "name": "Ice Barrows",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 15,
       "identified": true,
@@ -69174,6 +70809,11 @@
       "category": "accessory",
       "defense": 45,
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamageBonus": 16,
       "level": 80,
@@ -69359,6 +70999,11 @@
       "accessoryType": "Bracelet",
       "category": "accessory",
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "healthBonus": 8,
       "level": 8,
@@ -69788,6 +71433,11 @@
       "addedLore": "\"They say the eyes are the windows to the soul. That's ridiculous, ocular fluids are primarily opaque.\" -Ragon, Elemental Researcher ",
       "category": "accessory",
       "defensePoints": -5,
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 5,
@@ -69859,6 +71509,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "health": 1400,
       "identified": true,
@@ -70280,6 +71935,11 @@
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
       "damage": "225-335",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamage": "100-1125",
       "exploding": 100,
@@ -70772,6 +72432,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Lost Sanctuary",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 70,
@@ -71008,6 +72673,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "earthDefense": 5,
@@ -71032,6 +72702,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "13-26",
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 20,
@@ -71062,6 +72737,11 @@
       "damage": "14-38",
       "dexterity": 5,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "-157,63,-1819",
+        "name": "Infested Pit",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "emeraldStealing": 3,
       "level": 17,
@@ -71149,6 +72829,11 @@
       "airDefense": 20,
       "bonusThunderDefense": -10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-581,30,-3545",
+        "name": "Galleon's Graveyard",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "earthDamageBonus": -10,
       "intelligence": 20,
@@ -71186,6 +72871,11 @@
       "bonusWaterDefense": 20,
       "category": "weapon",
       "damage": "55-80",
+      "dropMeta": {
+        "coordinates": "-635,61,-864",
+        "name": "Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 55,
@@ -71455,6 +73145,11 @@
       "category": "weapon",
       "damage": "58-90",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "-1682,79,-2605",
+        "name": "Fallen Factory",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -25,
       "identified": true,
@@ -71649,6 +73344,11 @@
       "attackSpeed": "SUPER_FAST",
       "bonusFireDefense": -28,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-11118,109,-10436",
+        "name": "Lost Sanctuary",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 22,
       "mainAttackAirDamageBonus": 20,
@@ -71987,6 +73687,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "3-10",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeon"
+      },
       "dropType": "dungeon",
       "level": 12,
       "manaSteal": 4,
@@ -72002,6 +73707,11 @@
       "accessoryType": "Necklace",
       "addedLore": "\"My dear boy should never have to go through the horrors of losing a mother like that.\" -Momo, adoptive mother of Bob ",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-901,62,-1886",
+        "name": "Decrepit Sewers",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 12,
@@ -72316,6 +74026,11 @@
       "category": "armor",
       "defense": 37,
       "dexterity": 31,
+      "dropMeta": {
+        "coordinates": "1290,55,-738",
+        "name": "Eldritch Outlook",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": 106,
       "fireDefense": 129,
@@ -72493,6 +74208,11 @@
       "accessoryType": "Necklace",
       "airDefense": -30,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Galleon's Graveyard",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "earthDefense": -30,
       "fireDefense": -30,
@@ -72638,6 +74358,11 @@
       "category": "weapon",
       "defensePoints": -30,
       "dexterity": 60,
+      "dropMeta": {
+        "coordinates": "-861,123,-4896",
+        "name": "Corrupted Undergrowth Ruins",
+        "type": "dungeonMerchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 30,
