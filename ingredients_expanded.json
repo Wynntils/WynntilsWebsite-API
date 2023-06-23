@@ -479,8 +479,8 @@
           "minimum": 5
         },
         "LOOT_QUALITY": {
-          "maximum": 4,
-          "minimum": 3
+          "maximum": 5,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
@@ -834,7 +834,7 @@
     },
     {
       "consumableOnlyIDs": {
-        "duration": -300
+        "duration": -275
       },
       "ingredientPositionModifiers": {
         "above": 110,
@@ -845,7 +845,7 @@
         "under": 110
       },
       "itemOnlyIDs": {
-        "durabilityModifier": -175
+        "durabilityModifier": -160
       },
       "level": 100,
       "name": "Aspect of the Void",
@@ -1034,7 +1034,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 7
+        "durabilityModifier": 37
       },
       "level": 80,
       "name": "Bamboo",
@@ -1046,7 +1046,8 @@
       ],
       "sprite": {
         "id": 338
-      }
+      },
+      "tier": 1
     },
     {
       "consumableOnlyIDs": {
@@ -1566,7 +1567,7 @@
         "under": 25
       },
       "itemOnlyIDs": {
-        "durabilityModifier": -70
+        "durabilityModifier": -30
       },
       "level": 4,
       "name": "Bob's Tear",
@@ -1626,8 +1627,8 @@
     },
     {
       "ingredientPositionModifiers": {
-        "notTouching": 12,
-        "touching": 12
+        "notTouching": 15,
+        "touching": 15
       },
       "level": 100,
       "name": "Borange Fluff",
@@ -3705,7 +3706,7 @@
     },
     {
       "ingredientPositionModifiers": {
-        "notTouching": 75,
+        "notTouching": 55,
         "touching": -100
       },
       "itemOnlyIDs": {
@@ -4012,7 +4013,7 @@
           "minimum": 3
         },
         "MANASTEAL": {
-          "maximum": 4,
+          "maximum": 5,
           "minimum": 4
         }
       },
@@ -4177,11 +4178,11 @@
         "duration": -300
       },
       "ingredientPositionModifiers": {
-        "above": -50,
-        "left": -75,
-        "right": -75,
+        "above": -75,
+        "left": -50,
+        "right": -50,
         "touching": 120,
-        "under": -50
+        "under": -75
       },
       "itemOnlyIDs": {
         "durabilityModifier": -125
@@ -4200,10 +4201,10 @@
     },
     {
       "ingredientPositionModifiers": {
-        "above": 75,
+        "above": 60,
         "left": -100,
         "right": -100,
-        "under": 75
+        "under": 60
       },
       "itemOnlyIDs": {
         "durabilityModifier": -160
@@ -5410,8 +5411,8 @@
       },
       "identifications": {
         "MANASTEAL": {
-          "maximum": 4,
-          "minimum": 4
+          "maximum": 8,
+          "minimum": 7
         },
         "SPEED": {
           "maximum": 11,
@@ -5900,12 +5901,12 @@
     {
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 8,
+          "maximum": 7,
           "minimum": 5
         },
         "HEALTHBONUS": {
-          "maximum": -444,
-          "minimum": -486
+          "maximum": -102,
+          "minimum": -118
         }
       },
       "itemOnlyIDs": {
@@ -6674,7 +6675,7 @@
         "duration": -170
       },
       "ingredientPositionModifiers": {
-        "above": 30
+        "above": 25
       },
       "level": 86,
       "name": "Golden Avia Feather",
@@ -7570,13 +7571,13 @@
         "durabilityModifier": -45
       },
       "level": 42,
-      "name": "Ice Fragment",
+      "name": "Ice Silver",
       "skills": [
         "WOODWORKING",
         "TAILORING"
       ],
       "sprite": {
-        "id": 174
+        "id": 42
       },
       "tier": 1
     },
@@ -7607,7 +7608,8 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6
+          "maximum": 5,
+          "minimum": 4
         }
       },
       "level": 75,
@@ -8568,7 +8570,7 @@
         "duration": -220
       },
       "ingredientPositionModifiers": {
-        "notTouching": 65
+        "notTouching": 55
       },
       "level": 63,
       "name": "Lashing Hellfire",
@@ -9016,7 +9018,7 @@
           "minimum": 3
         },
         "MANASTEAL": {
-          "maximum": 4,
+          "maximum": 5,
           "minimum": 4
         },
         "THUNDERDAMAGEBONUS": {
@@ -9202,10 +9204,10 @@
         }
       },
       "ingredientPositionModifiers": {
-        "left": -45,
-        "notTouching": 45,
-        "right": -45,
-        "touching": 45
+        "left": -30,
+        "notTouching": 30,
+        "right": -30,
+        "touching": 30
       },
       "itemOnlyIDs": {
         "durabilityModifier": -131
@@ -9225,8 +9227,8 @@
         "duration": -170
       },
       "ingredientPositionModifiers": {
-        "notTouching": 33,
-        "touching": 33
+        "notTouching": 25,
+        "touching": 25
       },
       "itemOnlyIDs": {
         "durabilityModifier": -87
@@ -9289,7 +9291,8 @@
     {
       "identifications": {
         "MANASTEAL": {
-          "maximum": 4
+          "maximum": 4,
+          "minimum": 2
         }
       },
       "itemOnlyIDs": {
@@ -11141,9 +11144,9 @@
       },
       "ingredientPositionModifiers": {
         "left": -122,
-        "notTouching": -29,
+        "notTouching": -15,
         "right": -122,
-        "touching": -29
+        "touching": -15
       },
       "itemOnlyIDs": {
         "defenceRequirement": 29,
@@ -11659,7 +11662,7 @@
     },
     {
       "ingredientPositionModifiers": {
-        "above": -180
+        "above": -140
       },
       "itemOnlyIDs": {
         "durabilityModifier": -154
@@ -11744,7 +11747,7 @@
       },
       "itemOnlyIDs": {
         "durabilityModifier": -106,
-        "strengthRequirement": 15
+        "strengthRequirement": 10
       },
       "level": 103,
       "name": "Plutonium Waste",
@@ -11910,7 +11913,7 @@
           "minimum": 8
         },
         "MANASTEAL": {
-          "maximum": 4,
+          "maximum": 5,
           "minimum": 4
         }
       },
@@ -12443,7 +12446,7 @@
       },
       "identifications": {
         "LOOTBONUS": {
-          "maximum": 10,
+          "maximum": 6,
           "minimum": 4
         }
       },
@@ -13892,7 +13895,7 @@
           "minimum": 3
         },
         "MANASTEAL": {
-          "maximum": 4,
+          "maximum": 5,
           "minimum": 4
         }
       },
@@ -16583,8 +16586,8 @@
         }
       },
       "ingredientPositionModifiers": {
-        "notTouching": 20,
-        "touching": 20
+        "notTouching": 15,
+        "touching": 15
       },
       "itemOnlyIDs": {
         "defenceRequirement": 9,
@@ -16934,7 +16937,7 @@
         "agilityRequirement": -25,
         "defenceRequirement": -25,
         "dexterityRequirement": -25,
-        "durabilityModifier": -150,
+        "durabilityModifier": -140,
         "intelligenceRequirement": -25,
         "strengthRequirement": -25
       },
@@ -17147,8 +17150,8 @@
         "duration": -1100
       },
       "ingredientPositionModifiers": {
-        "notTouching": 80,
-        "touching": 40
+        "notTouching": 50,
+        "touching": 25
       },
       "itemOnlyIDs": {
         "durabilityModifier": -192
