@@ -21,7 +21,7 @@
 [WikiDiscoveryQuery] = https://wynncraft.gamepedia.com/api.php?action=parse&format=json&prop=wikitext&section=0&redirects=true&page=
 [WynnApiKey] = XRSxAkA6OXKek9Zvds5sRqZ4ZK0YcE6wRyHx5IE6wSfr
 [EnableSocket] = false
-[Splashes] = You're Amazing!, Have a nice day, Drink Water, We love you <3, Smile!, Take care of your Health, Be good to yourself, Everything is fine, We care about you, Shine like a star, We believe in you, Be fearless, Fight for your future, See the good, Be brave, Create your own sunshine, Life is amazing, Care about yourself, You can do it, ⒲⒠ ⒧⒪⒱⒠ ⒴⒪⒰ <⑶, Think big, Be amazing, You deserve love, Don't push yourself too hard, Be the best of you, Don't give up!, Be bright, Care about others, Not just 24 Emeralds, Keep going, Just keep swimming, I forgor, Ascend like an Idol, Heroes never die!, Onwards to victory!, Technoblade never dies!
+[Splashes] = You're Amazing!, Have a nice day, Drink Water, We love you <3, Smile!, Take care of your Health, Be good to yourself, Everything is fine, We care about you, Shine like a star, We believe in you, Be fearless, Fight for your future, See the good, Be brave, Create your own sunshine, Life is amazing, Care about yourself, You can do it, ⒲⒠ ⒧⒪⒱⒠ ⒴⒪⒰ <⑶, Think big, Be amazing, You deserve love, Don't push yourself too hard, Be the best of you, Don't give up!, Be bright, Care about others, Not just 24 Emeralds, Keep going, Just keep swimming, I forgor, Ascend like an Idol, Heroes never die!, Onwards to victory!, Technoblade never dies!, Idol > Convergence, The cookie lord will steal all your cookies, Supporting trans rights since 2017
 [ClassSelectionSplash] = https://cdn.wynntils.com/splashes/spellbound_v1.png
 [BlockHeroBetaStable] = true
 [WarnHeroBetaStable] = true
