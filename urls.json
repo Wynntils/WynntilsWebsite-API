@@ -25,8 +25,11 @@
     "url": "https://athena.wynntils.com/crash/report"
   },
   {
+    "arguments": [
+      "stream"
+    ],
     "id": "apiAthenaUpdateCheck",
-    "url": "https://athena.wynntils.com/version/latest/ce"
+    "url": "https://athena.wynntils.com/version/latest/%{stream}"
   },
   {
     "arguments": [
