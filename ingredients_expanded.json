@@ -22,16 +22,16 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 14,
+          "maximum": 11,
           "minimum": 8
         },
         "MANASTEAL": {
           "maximum": 4,
-          "minimum": 4
+          "minimum": 3
         },
         "SPEED": {
-          "maximum": -10,
-          "minimum": -12
+          "maximum": -7,
+          "minimum": -10
         }
       },
       "itemOnlyIDs": {
@@ -55,8 +55,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 100,
-          "minimum": 90
+          "maximum": 995,
+          "minimum": 970
         },
         "WATERDEFENSE": {
           "maximum": -8,
@@ -80,8 +80,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 150,
-          "minimum": 140
+          "maximum": 225,
+          "minimum": 175
         }
       },
       "itemOnlyIDs": {
@@ -101,8 +101,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 12,
-          "minimum": 9
+          "maximum": 10,
+          "minimum": 8
         },
         "HEALTHREGENRAW": {
           "maximum": -50,
@@ -127,8 +127,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 290,
-          "minimum": 260
+          "maximum": 550,
+          "minimum": 500
         }
       },
       "itemOnlyIDs": {
@@ -200,11 +200,11 @@
     {
       "identifications": {
         "HEALTHREGEN": {
-          "maximum": 12,
-          "minimum": 8
+          "maximum": 16,
+          "minimum": 12
         },
         "STRENGTHPOINTS": {
-          "maximum": 7,
+          "maximum": 8,
           "minimum": 5
         }
       },
@@ -245,8 +245,8 @@
     {
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 4,
-          "minimum": 3
+          "maximum": 3,
+          "minimum": 2
         },
         "XPBONUS": {
           "maximum": 4,
@@ -349,12 +349,12 @@
       },
       "identifications": {
         "REFLECTION": {
-          "maximum": 15,
-          "minimum": 9
+          "maximum": 8,
+          "minimum": 5
         },
         "THORNS": {
-          "maximum": 18,
-          "minimum": 12
+          "maximum": 10,
+          "minimum": 6
         }
       },
       "level": 36,
@@ -444,13 +444,38 @@
     },
     {
       "identifications": {
+        "HEALTHREGENRAW": {
+          "maximum": 60,
+          "minimum": 55
+        }
+      },
+      "ingredientPositionModifiers": {
+        "touching": 15
+      },
+      "itemOnlyIDs": {
+        "defenceRequirement": 35,
+        "durabilityModifier": -185
+      },
+      "level": 94,
+      "name": "Amber-Encased Fleris",
+      "skills": [
+        "JEWELING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 3
+    },
+    {
+      "identifications": {
         "LOOTBONUS": {
           "maximum": 6,
           "minimum": 4
         },
         "SPEED": {
-          "maximum": -7,
-          "minimum": -8
+          "maximum": -5,
+          "minimum": -6
         },
         "XPBONUS": {
           "maximum": 6,
@@ -639,6 +664,27 @@
     },
     {
       "identifications": {
+        "MAIN_ATTACK_WATER_DAMAGE_BONUS_RAW": {
+          "maximum": 45,
+          "minimum": 40
+        },
+        "THUNDERDEFENSE": {
+          "maximum": 10,
+          "minimum": 6
+        }
+      },
+      "level": 91,
+      "name": "Angler's Light",
+      "skills": [
+        "ALCHEMISM"
+      ],
+      "sprite": {
+        "id": 50
+      },
+      "tier": 1
+    },
+    {
+      "identifications": {
         "DEFENSEPOINTS": {
           "maximum": 3,
           "minimum": 2
@@ -687,8 +733,8 @@
       },
       "identifications": {
         "WATERDAMAGEBONUS": {
-          "maximum": 24,
-          "minimum": 18
+          "maximum": 17,
+          "minimum": 15
         }
       },
       "level": 60,
@@ -711,20 +757,20 @@
           "minimum": 2
         },
         "DEFENSEPOINTS": {
-          "maximum": 5,
-          "minimum": 3
+          "maximum": 4,
+          "minimum": 4
         },
         "DEXTERITYPOINTS": {
-          "maximum": 7,
-          "minimum": 1
+          "maximum": 5,
+          "minimum": 2
         },
         "INTELLIGENCEPOINTS": {
-          "maximum": 6,
+          "maximum": 4,
           "minimum": 2
         },
         "STRENGTHPOINTS": {
-          "maximum": 5,
-          "minimum": 3
+          "maximum": 3,
+          "minimum": 2
         }
       },
       "level": 60,
@@ -741,17 +787,17 @@
     {
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 3,
+          "minimum": 3
         },
         "SPELLDAMAGE": {
-          "maximum": -16,
-          "minimum": -22
+          "maximum": -8,
+          "minimum": -11
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -44,
-        "intelligenceRequirement": 20
+        "intelligenceRequirement": 10
       },
       "level": 75,
       "name": "Arcane Anomaly",
@@ -766,12 +812,12 @@
     {
       "identifications": {
         "HEALTHREGEN": {
-          "maximum": 15,
-          "minimum": 12
+          "maximum": 8,
+          "minimum": 6
         },
         "SPELLDAMAGE": {
-          "maximum": -5,
-          "minimum": -7
+          "maximum": -3,
+          "minimum": -5
         }
       },
       "itemOnlyIDs": {
@@ -907,8 +953,8 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "DAMAGEBONUS": {
           "maximum": -12,
@@ -919,8 +965,8 @@
           "minimum": 65
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -942,8 +988,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         },
         "GATHER_XP_BONUS": {
           "maximum": 2,
@@ -1210,6 +1256,30 @@
       }
     },
     {
+      "consumableOnlyIDs": {
+        "duration": -180
+      },
+      "identifications": {
+        "SOULPOINTS": {
+          "maximum": 20,
+          "minimum": 15
+        },
+        "THUNDERDAMAGEBONUS": {
+          "maximum": 13,
+          "minimum": 11
+        }
+      },
+      "level": 92,
+      "name": "Bioluminescent Blood",
+      "skills": [
+        "SCRIBING"
+      ],
+      "sprite": {
+        "id": 437
+      },
+      "tier": 2
+    },
+    {
       "identifications": {
         "DEXTERITYPOINTS": {
           "maximum": 5,
@@ -1287,8 +1357,8 @@
       },
       "identifications": {
         "EXPLODING": {
-          "maximum": 24,
-          "minimum": 12
+          "maximum": 14,
+          "minimum": 10
         },
         "FIREDAMAGEBONUS": {
           "maximum": 12,
@@ -1424,12 +1494,12 @@
     {
       "identifications": {
         "SPEED": {
-          "maximum": -2,
-          "minimum": -4
+          "maximum": 4,
+          "minimum": 3
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 12
+        "durabilityModifier": 22
       },
       "level": 96,
       "name": "Blighted Skull",
@@ -1473,7 +1543,7 @@
       "identifications": {
         "MANASTEAL": {
           "maximum": 4,
-          "minimum": 4
+          "minimum": 2
         },
         "REFLECTION": {
           "maximum": 4,
@@ -1714,7 +1784,7 @@
       },
       "itemOnlyIDs": {
         "defenceRequirement": 20,
-        "durabilityModifier": -133
+        "durabilityModifier": -120
       },
       "level": 78,
       "name": "Braveheart",
@@ -2019,8 +2089,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 7
+          "maximum": 6,
+          "minimum": 3
         },
         "WATERDEFENSE": {
           "maximum": -4,
@@ -2124,8 +2194,8 @@
       },
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 4,
+          "minimum": 3
         },
         "GATHER_XP_BONUS": {
           "maximum": 2,
@@ -2149,9 +2219,9 @@
     },
     {
       "identifications": {
-        "DAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 7
+        "DAMAGEBONUSRAW": {
+          "maximum": 16,
+          "minimum": 15
         },
         "SPEED": {
           "maximum": -3,
@@ -2205,8 +2275,8 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 3,
+          "minimum": 3
         },
         "XPBONUS": {
           "maximum": -8,
@@ -2247,12 +2317,12 @@
     {
       "identifications": {
         "HEALTHREGEN": {
-          "maximum": -8,
-          "minimum": -10
+          "maximum": -4,
+          "minimum": -6
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 45
+        "durabilityModifier": 39
       },
       "level": 100,
       "name": "Cataratite",
@@ -2314,6 +2384,26 @@
         "id": 385
       },
       "tier": 2
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": 40
+      },
+      "identifications": {
+        "DEFENSEPOINTS": {
+          "maximum": 2,
+          "minimum": 1
+        }
+      },
+      "level": 89,
+      "name": "Charcoal Lump",
+      "skills": [
+        "ALCHEMISM"
+      ],
+      "sprite": {
+        "damage": 1,
+        "id": 263
+      }
     },
     {
       "identifications": {
@@ -2418,12 +2508,12 @@
           "minimum": 2
         },
         "HEALTHBONUS": {
-          "maximum": 320,
-          "minimum": 260
+          "maximum": 210,
+          "minimum": 175
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 25,
+        "dexterityRequirement": 20,
         "durabilityModifier": -56
       },
       "level": 64,
@@ -2482,6 +2572,33 @@
         "id": 19
       },
       "tier": 3
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -270
+      },
+      "identifications": {
+        "EARTHDAMAGEBONUS": {
+          "maximum": 4,
+          "minimum": 3
+        },
+        "EXPLODING": {
+          "maximum": 4,
+          "minimum": 3
+        },
+        "FIREDAMAGEBONUS": {
+          "maximum": 4,
+          "minimum": 3
+        }
+      },
+      "level": 89,
+      "name": "Chunky Ash",
+      "skills": [
+        "COOKING"
+      ],
+      "sprite": {
+        "id": 289
+      }
     },
     {
       "consumableOnlyIDs": {
@@ -2694,16 +2811,16 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "DAMAGEBONUSRAW": {
           "maximum": -80,
           "minimum": -80
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHREGENRAW": {
           "maximum": 55,
@@ -2762,8 +2879,8 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 6
+          "maximum": 7,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
@@ -2880,23 +2997,23 @@
       },
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 4,
+          "maximum": 2,
           "minimum": 2
         },
         "DEFENSEPOINTS": {
-          "maximum": 4,
+          "maximum": 2,
           "minimum": 2
         },
         "DEXTERITYPOINTS": {
-          "maximum": 4,
+          "maximum": 2,
           "minimum": 2
         },
         "INTELLIGENCEPOINTS": {
-          "maximum": 4,
+          "maximum": 2,
           "minimum": 2
         },
         "STRENGTHPOINTS": {
-          "maximum": 4,
+          "maximum": 2,
           "minimum": 2
         }
       },
@@ -3207,8 +3324,8 @@
           "minimum": -8
         },
         "DEFENSEPOINTS": {
-          "maximum": 3,
-          "minimum": 2
+          "maximum": 2,
+          "minimum": 1
         }
       },
       "itemOnlyIDs": {
@@ -3363,7 +3480,7 @@
           "minimum": -5
         },
         "SPELLDAMAGE": {
-          "maximum": 8,
+          "maximum": 6,
           "minimum": 4
         }
       },
@@ -3459,7 +3576,7 @@
       },
       "identifications": {
         "MANASTEAL": {
-          "maximum": 4,
+          "maximum": 5,
           "minimum": 4
         }
       },
@@ -3479,8 +3596,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 60,
-          "minimum": 50
+          "maximum": 195,
+          "minimum": 165
         }
       },
       "level": 53,
@@ -3495,22 +3612,22 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 23,
-          "minimum": 18
+          "maximum": 16,
+          "minimum": 13
         },
         "HEALTHBONUS": {
-          "maximum": -800,
-          "minimum": -1000
+          "maximum": -500,
+          "minimum": -650
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 25,
-          "minimum": 19
+          "maximum": 18,
+          "minimum": 15
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 28,
+        "dexterityRequirement": 21,
         "durabilityModifier": -157,
-        "strengthRequirement": 28
+        "strengthRequirement": 21
       },
       "level": 99,
       "name": "Cursed Wings",
@@ -3570,6 +3687,30 @@
         "id": 397
       },
       "tier": 1
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -100
+      },
+      "identifications": {
+        "POISON": {
+          "maximum": 1100,
+          "minimum": 1000
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -54
+      },
+      "level": 102,
+      "name": "Cystic Lard",
+      "skills": [
+        "ALCHEMISM",
+        "WOODWORKING"
+      ],
+      "sprite": {
+        "damage": 55,
+        "id": 383
+      }
     },
     {
       "consumableOnlyIDs": {
@@ -3691,7 +3832,7 @@
           "minimum": -60
         },
         "SPELLDAMAGE": {
-          "maximum": 10,
+          "maximum": 9,
           "minimum": 8
         }
       },
@@ -3727,8 +3868,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 15,
+          "minimum": 15
         }
       },
       "itemOnlyIDs": {
@@ -3750,17 +3891,17 @@
           "minimum": -24
         },
         "SPELLDAMAGE": {
-          "maximum": 12,
-          "minimum": 8
+          "maximum": 6,
+          "minimum": 5
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 18,
-          "minimum": 12
+          "maximum": 16,
+          "minimum": 14
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -156,
-        "intelligenceRequirement": 45
+        "intelligenceRequirement": 37
       },
       "level": 100,
       "name": "Deep Ice Core",
@@ -3775,6 +3916,30 @@
       "tier": 3
     },
     {
+      "consumableOnlyIDs": {
+        "duration": -380
+      },
+      "identifications": {
+        "DAMAGEBONUSRAW": {
+          "maximum": 32,
+          "minimum": 27
+        },
+        "LIFESTEAL": {
+          "maximum": 35,
+          "minimum": 30
+        }
+      },
+      "level": 91,
+      "name": "Deepborn Scavenger",
+      "skills": [
+        "COOKING"
+      ],
+      "sprite": {
+        "id": 423
+      },
+      "tier": 1
+    },
+    {
       "identifications": {
         "DEXTERITYPOINTS": {
           "maximum": 6,
@@ -3785,7 +3950,7 @@
           "minimum": 3
         },
         "SPELLDAMAGERAW": {
-          "maximum": 65,
+          "maximum": 60,
           "minimum": 55
         }
       },
@@ -3859,10 +4024,13 @@
       "tier": 2
     },
     {
+      "consumableOnlyIDs": {
+        "duration": 60
+      },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 4,
+          "minimum": 4
         }
       },
       "level": 42,
@@ -3905,12 +4073,12 @@
       },
       "identifications": {
         "LIFESTEAL": {
-          "maximum": 40,
-          "minimum": 30
+          "maximum": 80,
+          "minimum": 70
         },
         "POISON": {
-          "maximum": 80,
-          "minimum": 60
+          "maximum": 580,
+          "minimum": 530
         }
       },
       "itemOnlyIDs": {
@@ -3931,7 +4099,7 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 6,
+          "maximum": 5,
           "minimum": 5
         },
         "SPEED": {
@@ -3977,8 +4145,8 @@
     {
       "identifications": {
         "INTELLIGENCEPOINTS": {
-          "maximum": 11,
-          "minimum": 7
+          "maximum": 9,
+          "minimum": 8
         },
         "SPELLDAMAGE": {
           "maximum": 7,
@@ -3996,6 +4164,56 @@
       ],
       "sprite": {
         "id": 370
+      },
+      "tier": 3
+    },
+    {
+      "identifications": {
+        "AGILITYPOINTS": {
+          "maximum": -5,
+          "minimum": -5
+        },
+        "DAMAGEBONUS": {
+          "maximum": 24,
+          "minimum": 22
+        },
+        "DEFENSEPOINTS": {
+          "maximum": -5,
+          "minimum": -5
+        },
+        "DEXTERITYPOINTS": {
+          "maximum": -5,
+          "minimum": -5
+        },
+        "INTELLIGENCEPOINTS": {
+          "maximum": -5,
+          "minimum": -5
+        },
+        "SPELLDAMAGE": {
+          "maximum": 24,
+          "minimum": 22
+        },
+        "STRENGTHPOINTS": {
+          "maximum": -5,
+          "minimum": -5
+        }
+      },
+      "itemOnlyIDs": {
+        "agilityRequirement": -10,
+        "defenceRequirement": -10,
+        "dexterityRequirement": -10,
+        "durabilityModifier": -162,
+        "intelligenceRequirement": -10,
+        "strengthRequirement": -10
+      },
+      "level": 105,
+      "name": "Depurinated Genome",
+      "skills": [
+        "WEAPONSMITHING",
+        "WOODWORKING"
+      ],
+      "sprite": {
+        "id": 441
       },
       "tier": 3
     },
@@ -4060,16 +4278,16 @@
       },
       "identifications": {
         "LIFESTEAL": {
-          "maximum": 165,
-          "minimum": 150
+          "maximum": 105,
+          "minimum": 90
         },
         "MANAREGEN": {
           "maximum": -2,
           "minimum": -4
         },
         "MANASTEAL": {
-          "maximum": -4,
-          "minimum": -6
+          "maximum": -2,
+          "minimum": -3
         }
       },
       "level": 68,
@@ -4118,8 +4336,8 @@
           "minimum": -357
         },
         "POISON": {
-          "maximum": 173,
-          "minimum": 147
+          "maximum": 1001,
+          "minimum": 999
         }
       },
       "itemOnlyIDs": {
@@ -4140,20 +4358,20 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHBONUS": {
-          "maximum": -775,
-          "minimum": -775
+          "maximum": -475,
+          "minimum": -475
         },
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 4,
+          "minimum": 4
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -4246,12 +4464,12 @@
       },
       "identifications": {
         "DAMAGEBONUSRAW": {
-          "maximum": 60,
-          "minimum": 55
+          "maximum": 75,
+          "minimum": 60
         },
         "SPELLDAMAGERAW": {
-          "maximum": 60,
-          "minimum": 55
+          "maximum": 75,
+          "minimum": 60
         }
       },
       "level": 98,
@@ -4266,7 +4484,7 @@
     },
     {
       "consumableOnlyIDs": {
-        "duration": -400
+        "duration": -350
       },
       "identifications": {
         "AIRDEFENSE": {
@@ -4433,14 +4651,14 @@
           "minimum": 2
         },
         "EARTHDEFENSE": {
-          "maximum": 6,
-          "minimum": 4
+          "maximum": 7,
+          "minimum": 6
         }
       },
       "itemOnlyIDs": {
         "defenceRequirement": 8,
         "durabilityModifier": -61,
-        "strengthRequirement": 10
+        "strengthRequirement": 5
       },
       "level": 77,
       "name": "Durable Skin",
@@ -4664,15 +4882,15 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 14,
-          "minimum": 6
+          "maximum": 10,
+          "minimum": 7
         },
         "MANAREGEN": {
-          "maximum": -6,
-          "minimum": -6
+          "maximum": -4,
+          "minimum": -4
         },
         "SPELLDAMAGE": {
-          "maximum": 12,
+          "maximum": 9,
           "minimum": 8
         }
       },
@@ -4779,13 +4997,13 @@
           "minimum": 6
         },
         "SPELLDAMAGE": {
-          "maximum": 12,
-          "minimum": 6
+          "maximum": 9,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -98,
-        "intelligenceRequirement": 35
+        "intelligenceRequirement": 30
       },
       "level": 90,
       "name": "Enhanced Behaviour Microchip",
@@ -4802,8 +5020,8 @@
     {
       "identifications": {
         "DAMAGEBONUSRAW": {
-          "maximum": 55,
-          "minimum": 50
+          "maximum": 70,
+          "minimum": 65
         },
         "MANASTEAL": {
           "maximum": 4,
@@ -4811,7 +5029,7 @@
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 35,
+        "dexterityRequirement": 30,
         "durabilityModifier": -98
       },
       "level": 90,
@@ -4833,13 +5051,13 @@
           "minimum": 12
         },
         "POISON": {
-          "maximum": 200,
-          "minimum": 160
+          "maximum": 1300,
+          "minimum": 1200
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -98,
-        "strengthRequirement": 35
+        "strengthRequirement": 30
       },
       "level": 90,
       "name": "Enhanced Pathfinding Microchip",
@@ -4860,12 +5078,12 @@
           "minimum": 9
         },
         "REFLECTION": {
-          "maximum": 30,
-          "minimum": 20
+          "maximum": 22,
+          "minimum": 18
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 35,
+        "agilityRequirement": 30,
         "durabilityModifier": -98
       },
       "level": 90,
@@ -4892,7 +5110,7 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 35,
+        "defenceRequirement": 30,
         "durabilityModifier": -98
       },
       "level": 90,
@@ -4910,12 +5128,12 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 16,
-          "minimum": 4
+          "maximum": 10,
+          "minimum": 10
         },
         "SPELLDAMAGE": {
-          "maximum": 16,
-          "minimum": 4
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -4936,8 +5154,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 9,
-          "minimum": 7
+          "maximum": 7,
+          "minimum": 6
         }
       },
       "itemOnlyIDs": {
@@ -4957,9 +5175,39 @@
     },
     {
       "identifications": {
+        "INTELLIGENCEPOINTS": {
+          "maximum": 3,
+          "minimum": 2
+        },
+        "MAIN_ATTACK_WATER_DAMAGE_BONUS_RAW": {
+          "maximum": 18,
+          "minimum": 16
+        }
+      },
+      "itemOnlyIDs": {
+        "agilityRequirement": -5,
+        "defenceRequirement": -5,
+        "dexterityRequirement": -5,
+        "durabilityModifier": -99,
+        "intelligenceRequirement": 12,
+        "strengthRequirement": -5
+      },
+      "level": 92,
+      "name": "Epipelagic Eye",
+      "skills": [
+        "JEWELING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 2
+    },
+    {
+      "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHREGEN": {
           "maximum": -15,
@@ -4970,8 +5218,8 @@
           "minimum": 70
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -4997,12 +5245,12 @@
       "displayName": "Essence of Dusk",
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 5,
+          "minimum": 4
         },
         "SPELLDAMAGERAW": {
-          "maximum": 35,
-          "minimum": 25
+          "maximum": 24,
+          "minimum": 17
         }
       },
       "level": 64,
@@ -5014,6 +5262,29 @@
       "sprite": {
         "damage": 1,
         "id": 263
+      },
+      "tier": 1
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -410
+      },
+      "identifications": {
+        "AGILITYPOINTS": {
+          "maximum": 2
+        },
+        "AIRDAMAGEBONUS": {
+          "maximum": 4,
+          "minimum": 3
+        }
+      },
+      "level": 99,
+      "name": "Essence of Dissolution",
+      "skills": [
+        "COOKING"
+      ],
+      "sprite": {
+        "id": 437
       },
       "tier": 1
     },
@@ -5075,8 +5346,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHREGEN": {
           "maximum": 20,
@@ -5087,8 +5358,8 @@
           "minimum": -4
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -5265,16 +5536,16 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 4,
+          "minimum": 3
         },
         "SPELLDAMAGE": {
           "maximum": 13,
           "minimum": 10
         },
         "SPELLDAMAGERAW": {
-          "maximum": 80,
-          "minimum": 70
+          "maximum": 60,
+          "minimum": 45
         }
       },
       "level": 99,
@@ -5346,8 +5617,8 @@
           "minimum": 25
         },
         "HEALTHBONUS": {
-          "maximum": 2500,
-          "minimum": 2250
+          "maximum": 2150,
+          "minimum": 1900
         }
       },
       "level": 99,
@@ -5357,6 +5628,42 @@
       ],
       "sprite": {
         "id": 378
+      },
+      "tier": 3
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -820
+      },
+      "identifications": {
+        "AGILITYPOINTS": {
+          "maximum": -3,
+          "minimum": -3
+        },
+        "DEFENSEPOINTS": {
+          "maximum": -3,
+          "minimum": -3
+        },
+        "DEXTERITYPOINTS": {
+          "maximum": -3,
+          "minimum": -3
+        },
+        "INTELLIGENCEPOINTS": {
+          "maximum": 10,
+          "minimum": 10
+        },
+        "STRENGTHPOINTS": {
+          "maximum": -3,
+          "minimum": -3
+        }
+      },
+      "level": 93,
+      "name": "Fathomflooded Flesh",
+      "skills": [
+        "COOKING"
+      ],
+      "sprite": {
+        "id": 22
       },
       "tier": 3
     },
@@ -5452,7 +5759,7 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 16,
+        "defenceRequirement": 14,
         "durabilityModifier": -97
       },
       "level": 90,
@@ -5519,8 +5826,8 @@
           "minimum": 1
         },
         "DAMAGEBONUSRAW": {
-          "maximum": -100,
-          "minimum": -100
+          "maximum": -70,
+          "minimum": -70
         },
         "SPEED": {
           "maximum": 5,
@@ -5590,8 +5897,8 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 7,
+          "minimum": 5
         },
         "WATERDEFENSE": {
           "maximum": 10,
@@ -5614,16 +5921,16 @@
       },
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 800,
-          "minimum": 600
+          "maximum": 700,
+          "minimum": 550
         },
         "HEALTHREGENRAW": {
-          "maximum": 72,
-          "minimum": 54
+          "maximum": 66,
+          "minimum": 52
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 35,
+        "defenceRequirement": 30,
         "durabilityModifier": -93
       },
       "level": 84,
@@ -5663,13 +5970,43 @@
     },
     {
       "identifications": {
+        "SPEED": {
+          "maximum": -3,
+          "minimum": -5
+        },
+        "SPELL_EARTH_DAMAGE_BONUS_RAW": {
+          "maximum": 65,
+          "minimum": 60
+        },
+        "STRENGTHPOINTS": {
+          "maximum": 4,
+          "minimum": 3
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -102,
+        "strengthRequirement": 30
+      },
+      "level": 92,
+      "name": "Flerisi Bark",
+      "skills": [
+        "ARMOURING",
+        "TAILORING"
+      ],
+      "sprite": {
+        "id": 25
+      },
+      "tier": 2
+    },
+    {
+      "identifications": {
         "DEXTERITYPOINTS": {
-          "maximum": 5,
+          "maximum": 4,
           "minimum": 3
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 6,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
@@ -5697,8 +6034,8 @@
           "minimum": -100
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 24,
-          "minimum": 20
+          "maximum": 20,
+          "minimum": 16
         }
       },
       "level": 100,
@@ -5850,12 +6187,12 @@
     {
       "identifications": {
         "MANAREGEN": {
-          "maximum": -12,
-          "minimum": -12
+          "maximum": -7,
+          "minimum": -8
         },
         "SPELLDAMAGE": {
-          "maximum": 28,
-          "minimum": 24
+          "maximum": 16,
+          "minimum": 12
         }
       },
       "itemOnlyIDs": {
@@ -5880,8 +6217,8 @@
           "minimum": -30
         },
         "POISON": {
-          "maximum": 280,
-          "minimum": 240
+          "maximum": 690,
+          "minimum": 650
         }
       },
       "itemOnlyIDs": {
@@ -6095,18 +6432,18 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 14,
-          "minimum": 10
+          "maximum": 10,
+          "minimum": 8
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 16,
+          "maximum": 12,
           "minimum": 8
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 8,
+        "defenceRequirement": 12,
         "durabilityModifier": -105,
-        "strengthRequirement": 8
+        "strengthRequirement": 12
       },
       "level": 54,
       "name": "Galvanic Stone",
@@ -6288,6 +6625,40 @@
     },
     {
       "consumableOnlyIDs": {
+        "duration": -270
+      },
+      "identifications": {
+        "DAMAGEBONUSRAW": {
+          "maximum": 95,
+          "minimum": 80
+        },
+        "HEALTHBONUS": {
+          "maximum": -90,
+          "minimum": -105
+        },
+        "HEALTHREGEN": {
+          "maximum": -8,
+          "minimum": -7
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -110,
+        "strengthRequirement": 22
+      },
+      "level": 104,
+      "name": "Giant Teratoma",
+      "skills": [
+        "TAILORING",
+        "COOKING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 2
+    },
+    {
+      "consumableOnlyIDs": {
         "duration": -720
       },
       "identifications": {
@@ -6320,12 +6691,12 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 8,
+          "minimum": 8
         },
         "SPELLDAMAGERAW": {
-          "maximum": 110,
-          "minimum": 110
+          "maximum": 65,
+          "minimum": 60
         }
       },
       "itemOnlyIDs": {
@@ -6455,16 +6826,16 @@
           "minimum": -12
         },
         "HEALTHREGENRAW": {
-          "maximum": 145,
-          "minimum": 130
+          "maximum": 120,
+          "minimum": 110
         },
         "INTELLIGENCEPOINTS": {
-          "maximum": 12,
-          "minimum": 10
+          "maximum": 10,
+          "minimum": 9
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 35,
+        "defenceRequirement": 30,
         "durabilityModifier": -160
       },
       "level": 105,
@@ -6565,7 +6936,7 @@
           "minimum": 1
         },
         "XPBONUS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         }
       },
@@ -6772,12 +7143,12 @@
           "minimum": 5
         },
         "HEALTHBONUS": {
-          "maximum": 800,
-          "minimum": 750
+          "maximum": 550,
+          "minimum": 500
         },
         "SPEED": {
-          "maximum": -7,
-          "minimum": -10
+          "maximum": -6,
+          "minimum": -8
         }
       },
       "itemOnlyIDs": {
@@ -6802,8 +7173,8 @@
           "minimum": 4
         },
         "HEALTHREGENRAW": {
-          "maximum": 55,
-          "minimum": 50
+          "maximum": 40,
+          "minimum": 35
         }
       },
       "itemOnlyIDs": {
@@ -6924,7 +7295,7 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": -35,
+        "defenceRequirement": -25,
         "durabilityModifier": -160
       },
       "level": 103,
@@ -6944,8 +7315,8 @@
       },
       "identifications": {
         "EXPLODING": {
-          "maximum": 20,
-          "minimum": 15
+          "maximum": 16,
+          "minimum": 11
         }
       },
       "level": 37,
@@ -6997,10 +7368,11 @@
       "identifications": {
         "MANAREGEN": {
           "maximum": 6,
-          "minimum": 6
+          "minimum": 4
         },
         "MANASTEAL": {
-          "maximum": 4
+          "maximum": 3,
+          "minimum": 2
         }
       },
       "level": 23,
@@ -7070,12 +7442,12 @@
           "minimum": 1
         },
         "SPELLDAMAGE": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 3,
+          "minimum": 1
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 12,
+        "dexterityRequirement": 9,
         "durabilityModifier": -82
       },
       "level": 30,
@@ -7167,11 +7539,11 @@
       "identifications": {
         "DEFENSEPOINTS": {
           "maximum": 6,
-          "minimum": 4
+          "minimum": 5
         },
         "SPELLDAMAGE": {
-          "maximum": 14,
-          "minimum": 8
+          "maximum": 5,
+          "minimum": 4
         },
         "WATERDEFENSE": {
           "maximum": -20,
@@ -7179,7 +7551,7 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 25,
+        "defenceRequirement": 16,
         "durabilityModifier": -78
       },
       "level": 63,
@@ -7227,12 +7599,12 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 130,
-          "minimum": 100
+          "maximum": 320,
+          "minimum": 270
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 16,
-          "minimum": 12
+          "maximum": 12,
+          "minimum": 9
         }
       },
       "level": 56,
@@ -7271,6 +7643,34 @@
       ],
       "sprite": {
         "id": 295
+      },
+      "tier": 2
+    },
+    {
+      "identifications": {
+        "MANASTEAL": {
+          "maximum": 5,
+          "minimum": 3
+        },
+        "SPELLDAMAGE": {
+          "maximum": 6,
+          "minimum": 5
+        }
+      },
+      "itemOnlyIDs": {
+        "dexterityRequirement": 30,
+        "durabilityModifier": -115,
+        "intelligenceRequirement": 20
+      },
+      "level": 97,
+      "name": "Hollow Psyche",
+      "skills": [
+        "ARMOURING",
+        "WEAPONSMITHING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
       },
       "tier": 2
     },
@@ -7377,8 +7777,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 230,
-          "minimum": 200
+          "maximum": 1700,
+          "minimum": 1600
         },
         "WATERDAMAGEBONUS": {
           "maximum": 12,
@@ -7501,15 +7901,15 @@
     {
       "identifications": {
         "DAMAGEBONUSRAW": {
-          "maximum": 15,
+          "maximum": 10,
           "minimum": 10
         },
         "HEALTHBONUS": {
-          "maximum": 75,
-          "minimum": 50
+          "maximum": 40,
+          "minimum": 25
         },
         "SPELLDAMAGERAW": {
-          "maximum": 15,
+          "maximum": 10,
           "minimum": 10
         }
       },
@@ -7676,16 +8076,16 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHBONUS": {
-          "maximum": 600,
-          "minimum": 600
+          "maximum": 500,
+          "minimum": 500
         },
         "SPELLDAMAGE": {
           "maximum": -10,
@@ -7711,6 +8111,31 @@
     },
     {
       "identifications": {
+        "AGILITYPOINTS": {
+          "maximum": -3,
+          "minimum": -4
+        },
+        "SPELL_FIRE_DAMAGE_BONUS_RAW": {
+          "maximum": 58,
+          "minimum": 52
+        }
+      },
+      "itemOnlyIDs": {
+        "defenceRequirement": 25,
+        "durabilityModifier": -57
+      },
+      "level": 90,
+      "name": "Igneous Thread",
+      "skills": [
+        "TAILORING"
+      ],
+      "sprite": {
+        "id": 369
+      },
+      "tier": 1
+    },
+    {
+      "identifications": {
         "AIRDAMAGEBONUS": {
           "maximum": -8,
           "minimum": -10
@@ -7720,8 +8145,8 @@
           "minimum": -10
         },
         "MANASTEAL": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 7,
+          "minimum": 6
         },
         "STRENGTHPOINTS": {
           "maximum": 8,
@@ -7757,12 +8182,12 @@
       },
       "identifications": {
         "LIFESTEAL": {
-          "maximum": 18,
+          "maximum": 16,
           "minimum": 12
         },
         "POISON": {
-          "maximum": 25,
-          "minimum": 20
+          "maximum": 40,
+          "minimum": 35
         }
       },
       "itemOnlyIDs": {
@@ -7872,12 +8297,12 @@
       },
       "identifications": {
         "INTELLIGENCEPOINTS": {
-          "maximum": 3,
-          "minimum": 2
+          "maximum": 2,
+          "minimum": 1
         },
         "SPELLDAMAGERAW": {
-          "maximum": 20,
-          "minimum": 15
+          "maximum": 12,
+          "minimum": 10
         }
       },
       "itemOnlyIDs": {
@@ -7921,7 +8346,7 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 7,
+          "maximum": 6,
           "minimum": 5
         },
         "GATHER_XP_BONUS": {
@@ -7949,21 +8374,46 @@
     },
     {
       "identifications": {
-        "HEALTHBONUS": {
-          "maximum": -650,
-          "minimum": -750
+        "DAMAGEBONUS": {
+          "maximum": 8,
+          "minimum": 5
         },
-        "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
-        },
-        "SPEED": {
-          "maximum": 20,
-          "minimum": 16
+        "MAIN_ATTACK_THUNDER_DAMAGE_BONUS_RAW": {
+          "maximum": 25,
+          "minimum": 19
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 60,
+        "dexterityRequirement": 16,
+        "durabilityModifier": -73
+      },
+      "level": 99,
+      "name": "Impure Nullity",
+      "skills": [
+        "ARMOURING"
+      ],
+      "sprite": {
+        "id": 16
+      },
+      "tier": 1
+    },
+    {
+      "identifications": {
+        "HEALTHBONUS": {
+          "maximum": -475,
+          "minimum": -575
+        },
+        "MANAREGEN": {
+          "maximum": 6,
+          "minimum": 5
+        },
+        "SPEED": {
+          "maximum": 14,
+          "minimum": 11
+        }
+      },
+      "itemOnlyIDs": {
+        "agilityRequirement": 40,
         "durabilityModifier": -149
       },
       "level": 90,
@@ -7982,8 +8432,8 @@
         "duration": 200
       },
       "ingredientPositionModifiers": {
-        "above": -45,
-        "under": -45
+        "above": -25,
+        "under": -25
       },
       "level": 104,
       "name": "Infected Mass",
@@ -8178,7 +8628,7 @@
           "minimum": -10
         },
         "SPEED": {
-          "maximum": 9,
+          "maximum": 8,
           "minimum": 6
         }
       },
@@ -8266,8 +8716,8 @@
           "minimum": 20
         },
         "POISON": {
-          "maximum": -80,
-          "minimum": -100
+          "maximum": -155,
+          "minimum": -175
         }
       },
       "itemOnlyIDs": {
@@ -8297,8 +8747,8 @@
           "minimum": 1
         },
         "POISON": {
-          "maximum": 55,
-          "minimum": 40
+          "maximum": 200,
+          "minimum": 160
         }
       },
       "level": 73,
@@ -8420,8 +8870,8 @@
           "minimum": 30
         },
         "POISON": {
-          "maximum": 180,
-          "minimum": 150
+          "maximum": 425,
+          "minimum": 350
         }
       },
       "level": 66,
@@ -8433,6 +8883,30 @@
         "id": 200
       },
       "tier": 3
+    },
+    {
+      "identifications": {
+        "POISON": {
+          "maximum": 1825,
+          "minimum": 1700
+        },
+        "SOULPOINTS": {
+          "maximum": -4,
+          "minimum": -7
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -71
+      },
+      "level": 103,
+      "name": "Lactic Acid Crystal",
+      "skills": [
+        "WOODWORKING"
+      ],
+      "sprite": {
+        "id": 406
+      },
+      "tier": 1
     },
     {
       "identifications": {
@@ -8450,7 +8924,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": -70
+        "durabilityModifier": 42
       },
       "level": 103,
       "name": "Larbonic Sheddings",
@@ -8490,8 +8964,8 @@
     {
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 900,
-          "minimum": 850
+          "maximum": 640,
+          "minimum": 600
         },
         "REFLECTION": {
           "maximum": -10,
@@ -8709,24 +9183,24 @@
       },
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         },
         "EARTHDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         }
       },
       "level": 70,
@@ -8800,8 +9274,8 @@
           "minimum": -820
         },
         "SPELLDAMAGERAW": {
-          "maximum": 100,
-          "minimum": 85
+          "maximum": 85,
+          "minimum": 60
         },
         "THUNDERDAMAGEBONUS": {
           "maximum": 16,
@@ -8809,7 +9283,7 @@
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 30,
+        "dexterityRequirement": 25,
         "durabilityModifier": -150
       },
       "level": 95,
@@ -9046,10 +9520,10 @@
       },
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 15
+          "maximum": 8
         },
         "SPELLDAMAGERAW": {
-          "maximum": 100
+          "maximum": 75
         }
       },
       "itemOnlyIDs": {
@@ -9178,8 +9652,8 @@
       },
       "identifications": {
         "SOULPOINTS": {
-          "maximum": 40,
-          "minimum": 20
+          "maximum": 15,
+          "minimum": 10
         }
       },
       "level": 14,
@@ -9249,7 +9723,7 @@
     {
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 10,
+          "maximum": 7,
           "minimum": 5
         }
       },
@@ -9273,8 +9747,8 @@
       },
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 6,
-          "minimum": 4
+          "maximum": 4,
+          "minimum": 3
         }
       },
       "level": 32,
@@ -9312,8 +9786,8 @@
     {
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 520,
-          "minimum": 480
+          "maximum": 420,
+          "minimum": 380
         }
       },
       "itemOnlyIDs": {
@@ -9483,16 +9957,16 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 14,
-          "minimum": 10
+          "maximum": 12,
+          "minimum": 8
         },
         "FIREDEFENSE": {
           "maximum": -8,
           "minimum": -10
         },
         "STRENGTHPOINTS": {
-          "maximum": 8,
-          "minimum": 5
+          "maximum": 6,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
@@ -9570,12 +10044,12 @@
       },
       "identifications": {
         "THUNDERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 6
+          "maximum": 8,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 12,
+        "dexterityRequirement": 10,
         "durabilityModifier": -52
       },
       "level": 26,
@@ -9667,8 +10141,8 @@
     {
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 4,
-          "minimum": 3
+          "maximum": 5,
+          "minimum": 4
         },
         "FIREDEFENSE": {
           "maximum": 10,
@@ -9760,12 +10234,12 @@
           "minimum": 35
         },
         "HEALTHBONUS": {
-          "maximum": 600,
-          "minimum": 500
+          "maximum": 425,
+          "minimum": 375
         },
         "HEALTHREGENRAW": {
           "maximum": 50,
-          "minimum": 40
+          "minimum": 45
         },
         "SPELLDAMAGERAW": {
           "maximum": 45,
@@ -9883,11 +10357,11 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 5,
+          "maximum": 4,
           "minimum": 3
         },
         "SPELLDAMAGE": {
-          "maximum": 5,
+          "maximum": 4,
           "minimum": 3
         }
       },
@@ -9912,8 +10386,8 @@
           "minimum": 7
         },
         "HEALTHBONUS": {
-          "maximum": 900,
-          "minimum": 850
+          "maximum": 660,
+          "minimum": 600
         },
         "SPELLDAMAGERAW": {
           "maximum": -60,
@@ -9990,7 +10464,7 @@
       },
       "itemOnlyIDs": {
         "durabilityModifier": -124,
-        "intelligenceRequirement": 12
+        "intelligenceRequirement": 15
       },
       "level": 70,
       "name": "More-Pearlescent Jewel",
@@ -10011,12 +10485,12 @@
         },
         "MANAREGEN": {
           "maximum": 6,
-          "minimum": 6
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -131,
-        "strengthRequirement": 27
+        "strengthRequirement": 17
       },
       "level": 87,
       "name": "Mountain's Heart",
@@ -10176,23 +10650,23 @@
     {
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         },
         "DEFENSEPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         },
         "DEXTERITYPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         },
         "INTELLIGENCEPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         },
         "STRENGTHPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 3
         }
       },
@@ -10260,8 +10734,8 @@
     {
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 5,
-          "minimum": 4
+          "maximum": 3,
+          "minimum": 3
         }
       },
       "itemOnlyIDs": {
@@ -10306,13 +10780,13 @@
           "minimum": -5
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
         "durabilityModifier": -79,
-        "intelligenceRequirement": 20
+        "intelligenceRequirement": 15
       },
       "level": 63,
       "name": "Naval Shard",
@@ -10331,8 +10805,8 @@
           "minimum": -8
         },
         "SPELLDAMAGE": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
@@ -10417,12 +10891,12 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 5,
-          "minimum": 4
+          "maximum": 2,
+          "minimum": 1
         },
         "SPEED": {
           "maximum": -3,
-          "minimum": -5
+          "minimum": -4
         }
       },
       "itemOnlyIDs": {
@@ -10494,26 +10968,50 @@
       "tier": 3
     },
     {
+      "consumableOnlyIDs": {
+        "duration": -135
+      },
+      "identifications": {
+        "DEXTERITYPOINTS": {
+          "maximum": 8,
+          "minimum": 6
+        },
+        "HEALTHREGENRAW": {
+          "maximum": -27,
+          "minimum": -35
+        }
+      },
+      "level": 91,
+      "name": "Obsidian Shards",
+      "skills": [
+        "ALCHEMISM"
+      ],
+      "sprite": {
+        "id": 318
+      },
+      "tier": 1
+    },
+    {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 16
+          "maximum": 18,
+          "minimum": 15
         },
         "EARTHDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 16
+          "maximum": 18,
+          "minimum": 15
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 16
+          "maximum": 18,
+          "minimum": 15
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 16
+          "maximum": 18,
+          "minimum": 15
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 16
+          "maximum": 18,
+          "minimum": 15
         }
       },
       "itemOnlyIDs": {
@@ -10865,7 +11363,7 @@
           "minimum": 6
         },
         "HEALTHBONUS": {
-          "maximum": 115,
+          "maximum": 100,
           "minimum": 90
         }
       },
@@ -10948,8 +11446,8 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 14,
-        "dexterityRequirement": 14,
+        "defenceRequirement": 12,
+        "dexterityRequirement": 12,
         "durabilityModifier": -145
       },
       "level": 90,
@@ -10969,16 +11467,16 @@
           "minimum": -100
         },
         "MANASTEAL": {
-          "maximum": 4,
-          "minimum": 4
+          "maximum": 2,
+          "minimum": 2
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -11104,16 +11602,16 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         },
         "SPEED": {
           "maximum": -6,
           "minimum": -8
         },
         "SPELLDAMAGE": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
@@ -11178,7 +11676,7 @@
       },
       "itemOnlyIDs": {
         "durabilityModifier": -58,
-        "intelligenceRequirement": 16
+        "intelligenceRequirement": 10
       },
       "level": 70,
       "name": "Pearlescent Jewel",
@@ -11190,6 +11688,35 @@
         "id": 351
       },
       "tier": 1
+    },
+    {
+      "identifications": {
+        "SPELLDAMAGERAW": {
+          "maximum": 60,
+          "minimum": -60
+        }
+      },
+      "ingredientPositionModifiers": {
+        "above": -120,
+        "left": -60,
+        "right": -60,
+        "touching": 120,
+        "under": -120
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -155
+      },
+      "level": 100,
+      "name": "Peculiar Oddity",
+      "skills": [
+        "WEAPONSMITHING",
+        "WOODWORKING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 2
     },
     {
       "identifications": {
@@ -11736,9 +12263,35 @@
     },
     {
       "identifications": {
+        "DAMAGEBONUS": {
+          "maximum": 6,
+          "minimum": 4
+        },
+        "EARTHDAMAGEBONUS": {
+          "maximum": -1,
+          "minimum": -2
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -110,
+        "strengthRequirement": 10
+      },
+      "level": 103,
+      "name": "Pluripotent Tissue",
+      "skills": [
+        "JEWELING"
+      ],
+      "sprite": {
+        "damage": 15,
+        "id": 351
+      },
+      "tier": 2
+    },
+    {
+      "identifications": {
         "POISON": {
-          "maximum": 155,
-          "minimum": 140
+          "maximum": 600,
+          "minimum": 560
         },
         "SPEED": {
           "maximum": -4,
@@ -11765,8 +12318,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 55,
-          "minimum": 50
+          "maximum": 160,
+          "minimum": 140
         }
       },
       "level": 44,
@@ -11882,7 +12435,7 @@
       "identifications": {
         "MANAREGEN": {
           "maximum": 6,
-          "minimum": 6
+          "minimum": 5
         },
         "SPELLDAMAGE": {
           "maximum": -6,
@@ -12128,7 +12681,7 @@
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 15,
+        "dexterityRequirement": 6,
         "durabilityModifier": -58
       },
       "level": 70,
@@ -12202,9 +12755,38 @@
       }
     },
     {
+      "consumableOnlyIDs": {
+        "duration": -190
+      },
+      "identifications": {
+        "SPEED": {
+          "maximum": 6,
+          "minimum": 5
+        },
+        "THUNDERDAMAGEBONUS": {
+          "maximum": 9,
+          "minimum": 4
+        }
+      },
+      "itemOnlyIDs": {
+        "dexterityRequirement": 20,
+        "durabilityModifier": -107
+      },
+      "level": 100,
+      "name": "Psionic Quill",
+      "skills": [
+        "ARMOURING",
+        "SCRIBING"
+      ],
+      "sprite": {
+        "id": 296
+      },
+      "tier": 2
+    },
+    {
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 7,
+          "maximum": 6,
           "minimum": 5
         },
         "SPELLDAMAGERAW": {
@@ -12292,8 +12874,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 115,
-          "minimum": 100
+          "maximum": 510,
+          "minimum": 460
         }
       },
       "level": 62,
@@ -12423,8 +13005,8 @@
     {
       "identifications": {
         "DAMAGEBONUS": {
-          "maximum": 6,
-          "minimum": 3
+          "maximum": 7,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
@@ -12487,12 +13069,11 @@
           "minimum": 40
         },
         "DEXTERITYPOINTS": {
-          "maximum": 3,
+          "maximum": 2,
           "minimum": 2
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 25,
         "durabilityModifier": -94
       },
       "level": 86,
@@ -12509,8 +13090,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 300,
-          "minimum": 250
+          "maximum": 710,
+          "minimum": 640
         }
       },
       "itemOnlyIDs": {
@@ -12652,8 +13233,8 @@
     {
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 65,
-          "minimum": 54
+          "maximum": 56,
+          "minimum": 45
         },
         "STRENGTHPOINTS": {
           "maximum": 3,
@@ -12677,17 +13258,48 @@
     },
     {
       "identifications": {
+        "HEALTHBONUS": {
+          "maximum": 779,
+          "minimum": 721
+        },
+        "HEALTHREGENRAW": {
+          "maximum": -20,
+          "minimum": -28
+        },
+        "STRENGTHPOINTS": {
+          "maximum": 5,
+          "minimum": 3
+        }
+      },
+      "itemOnlyIDs": {
+        "defenceRequirement": 30,
+        "durabilityModifier": -150,
+        "strengthRequirement": 16
+      },
+      "level": 104,
+      "name": "Rejected Geode",
+      "skills": [
+        "ARMOURING",
+        "TAILORING"
+      ],
+      "sprite": {
+        "id": 121
+      },
+      "tier": 3
+    },
+    {
+      "identifications": {
         "SPELLDAMAGERAW": {
           "maximum": 14,
           "minimum": 8
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 11,
-          "minimum": 7
+          "maximum": 7,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 6,
+        "dexterityRequirement": 8,
         "durabilityModifier": -70
       },
       "level": 15,
@@ -12728,6 +13340,32 @@
     },
     {
       "identifications": {
+        "MANAREGEN": {
+          "maximum": 4,
+          "minimum": 4
+        },
+        "STRENGTHPOINTS": {
+          "maximum": -2,
+          "minimum": -3
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -172,
+        "intelligenceRequirement": 40
+      },
+      "level": 102,
+      "name": "Remnant of the Ruined",
+      "skills": [
+        "JEWELING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 3
+    },
+    {
+      "identifications": {
         "DEFENSEPOINTS": {
           "maximum": 2,
           "minimum": 1
@@ -12757,16 +13395,16 @@
           "minimum": 15
         },
         "EARTHDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "HEALTHREGENRAW": {
           "maximum": -55,
           "minimum": -55
         },
         "THUNDERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -12851,8 +13489,8 @@
           "minimum": 6
         },
         "POISON": {
-          "maximum": 70,
-          "minimum": 60
+          "maximum": 170,
+          "minimum": 140
         },
         "THUNDERDEFENSE": {
           "maximum": 3,
@@ -12872,8 +13510,8 @@
     {
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 15,
-          "minimum": 12
+          "maximum": 13,
+          "minimum": 10
         },
         "THORNS": {
           "maximum": 20,
@@ -12946,8 +13584,8 @@
           "minimum": -1
         },
         "EARTHDAMAGEBONUS": {
-          "maximum": -18,
-          "minimum": -22
+          "maximum": -10,
+          "minimum": -8
         },
         "MANASTEAL": {
           "maximum": 8,
@@ -13088,8 +13726,8 @@
           "minimum": -14
         },
         "STRENGTHPOINTS": {
-          "maximum": 15,
-          "minimum": 12
+          "maximum": 12,
+          "minimum": 11
         }
       },
       "itemOnlyIDs": {
@@ -13109,16 +13747,15 @@
     },
     {
       "consumableOnlyIDs": {
-        "charges": -1,
         "duration": 125
       },
       "identifications": {
         "LOOTBONUS": {
-          "maximum": 7,
+          "maximum": 6,
           "minimum": 5
         },
         "XPBONUS": {
-          "maximum": 7,
+          "maximum": 6,
           "minimum": 5
         }
       },
@@ -13248,8 +13885,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 10,
-          "minimum": 9
+          "maximum": 15,
+          "minimum": 12
         },
         "WATERDAMAGEBONUS": {
           "maximum": 4,
@@ -13272,8 +13909,8 @@
     {
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         },
         "HEALTHBONUS": {
           "maximum": 80,
@@ -13333,8 +13970,8 @@
           "minimum": 6
         },
         "SPEED": {
-          "maximum": 10,
-          "minimum": 8
+          "maximum": 5,
+          "minimum": 4
         }
       },
       "level": 1,
@@ -13356,8 +13993,8 @@
           "minimum": 1
         },
         "POISON": {
-          "maximum": 75,
-          "minimum": 70
+          "maximum": 130,
+          "minimum": 120
         },
         "STRENGTHPOINTS": {
           "maximum": 3,
@@ -13555,7 +14192,7 @@
       "identifications": {
         "DEFENSEPOINTS": {
           "maximum": 2,
-          "minimum": 2
+          "minimum": 1
         },
         "FIREDAMAGEBONUS": {
           "maximum": 4,
@@ -13734,7 +14371,7 @@
       },
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 5,
+          "maximum": 4,
           "minimum": 3
         },
         "AIRDEFENSE": {
@@ -13838,6 +14475,41 @@
     },
     {
       "identifications": {
+        "ATTACKSPEED": {
+          "maximum": -1,
+          "minimum": -1
+        },
+        "DAMAGEBONUS": {
+          "maximum": 16,
+          "minimum": 13
+        },
+        "HEALTHBONUS": {
+          "maximum": -220,
+          "minimum": -245
+        },
+        "STRENGTHPOINTS": {
+          "maximum": 4,
+          "minimum": 2
+        }
+      },
+      "itemOnlyIDs": {
+        "defenceRequirement": -50,
+        "durabilityModifier": -158,
+        "strengthRequirement": 15
+      },
+      "level": 93,
+      "name": "Searing Heartwood",
+      "skills": [
+        "ARMOURING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 3
+    },
+    {
+      "identifications": {
         "AIRDEFENSE": {
           "maximum": 8,
           "minimum": 6
@@ -13920,11 +14592,11 @@
           "minimum": 1
         },
         "HEALTHBONUS": {
-          "maximum": -140,
-          "minimum": -175
+          "maximum": -120,
+          "minimum": -150
         },
         "SPELLDAMAGE": {
-          "maximum": 5,
+          "maximum": 4,
           "minimum": 3
         }
       },
@@ -13975,8 +14647,8 @@
           "minimum": 70
         },
         "POISON": {
-          "maximum": 920,
-          "minimum": 650
+          "maximum": 3500,
+          "minimum": 3200
         }
       },
       "itemOnlyIDs": {
@@ -14042,8 +14714,8 @@
           "minimum": 12
         },
         "HEALTHREGENRAW": {
-          "maximum": -40,
-          "minimum": -45
+          "maximum": -30,
+          "minimum": -35
         }
       },
       "itemOnlyIDs": {
@@ -14136,16 +14808,16 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "DAMAGEBONUSRAW": {
           "maximum": 80,
           "minimum": 80
         },
         "EARTHDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "SPELLDAMAGERAW": {
           "maximum": -65,
@@ -14196,12 +14868,12 @@
           "minimum": 3
         },
         "SPELLDAMAGE": {
-          "maximum": 15,
-          "minimum": 12
+          "maximum": 12,
+          "minimum": 10
         },
         "WATERDAMAGEBONUS": {
-          "maximum": -12,
-          "minimum": -15
+          "maximum": -10,
+          "minimum": -12
         }
       },
       "itemOnlyIDs": {
@@ -14220,7 +14892,7 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 13,
+          "maximum": 9,
           "minimum": 5
         },
         "AIRDEFENSE": {
@@ -14273,7 +14945,7 @@
           "minimum": 5
         },
         "SPELLDAMAGE": {
-          "maximum": 12,
+          "maximum": 10,
           "minimum": 6
         }
       },
@@ -14467,8 +15139,8 @@
           "minimum": 1150
         },
         "INTELLIGENCEPOINTS": {
-          "maximum": -5,
-          "minimum": -7
+          "maximum": -7,
+          "minimum": -9
         },
         "SPEED": {
           "maximum": -5,
@@ -14503,8 +15175,8 @@
         }
       },
       "itemOnlyIDs": {
-        "dexterityRequirement": 18,
-        "durabilityModifier": -100
+        "dexterityRequirement": 14,
+        "durabilityModifier": -95
       },
       "level": 95,
       "name": "Silver Bullet",
@@ -14566,16 +15238,16 @@
     {
       "identifications": {
         "HEALTHREGEN": {
-          "maximum": 14,
-          "minimum": 6
+          "maximum": 9,
+          "minimum": 7
         },
         "REFLECTION": {
-          "maximum": 20,
-          "minimum": 13
+          "maximum": 12,
+          "minimum": 8
         },
         "THORNS": {
-          "maximum": 15,
-          "minimum": 8
+          "maximum": 11,
+          "minimum": 7
         }
       },
       "itemOnlyIDs": {
@@ -14596,16 +15268,16 @@
     {
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 14,
-          "minimum": 12
+          "maximum": 12,
+          "minimum": 11
         },
         "SPELLDAMAGE": {
-          "maximum": 16,
-          "minimum": 13
+          "maximum": 8,
+          "minimum": 7
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 24,
+        "agilityRequirement": 22,
         "durabilityModifier": -159
       },
       "level": 102,
@@ -14648,12 +15320,12 @@
       },
       "identifications": {
         "MANAREGEN": {
-          "maximum": 6,
-          "minimum": 6
+          "maximum": 5,
+          "minimum": 5
         },
         "MANASTEAL": {
-          "maximum": -4,
-          "minimum": -4
+          "maximum": -3,
+          "minimum": -3
         },
         "WATERDAMAGEBONUS": {
           "maximum": 10,
@@ -14677,8 +15349,8 @@
           "minimum": -4
         },
         "POISON": {
-          "maximum": 120,
-          "minimum": 100
+          "maximum": 1150,
+          "minimum": 1050
         }
       },
       "itemOnlyIDs": {
@@ -14699,16 +15371,16 @@
       },
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         },
         "HEALTHBONUS": {
-          "maximum": -400,
-          "minimum": -450
+          "maximum": -350,
+          "minimum": -400
         },
         "SPEED": {
-          "maximum": 14,
-          "minimum": 12
+          "maximum": 12,
+          "minimum": 11
         }
       },
       "itemOnlyIDs": {
@@ -14815,8 +15487,8 @@
           "minimum": -300
         },
         "SPEED": {
-          "maximum": 12,
-          "minimum": 8
+          "maximum": 8,
+          "minimum": 6
         }
       },
       "level": 66,
@@ -15027,8 +15699,8 @@
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 11,
-        "defenceRequirement": 11,
+        "agilityRequirement": 8,
+        "defenceRequirement": 8,
         "durabilityModifier": -78
       },
       "level": 62,
@@ -15115,8 +15787,8 @@
           "minimum": 2
         },
         "FIREDAMAGEBONUS": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 3,
+          "minimum": 3
         },
         "STAMINA": {
           "maximum": 6,
@@ -15124,8 +15796,8 @@
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 9,
-        "defenceRequirement": 12,
+        "agilityRequirement": 12,
+        "defenceRequirement": 9,
         "durabilityModifier": -117
       },
       "level": 62,
@@ -15224,8 +15896,8 @@
           "minimum": 1
         },
         "SPEED": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 5,
+          "minimum": 3
         }
       },
       "itemOnlyIDs": {
@@ -15275,8 +15947,8 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 20,
-          "minimum": 17
+          "maximum": 16,
+          "minimum": 15
         },
         "GATHER_XP_BONUS": {
           "maximum": 5,
@@ -15303,12 +15975,12 @@
       },
       "identifications": {
         "DAMAGEBONUSRAW": {
-          "maximum": 32,
-          "minimum": 32
+          "maximum": 28,
+          "minimum": 28
         },
         "SPELLDAMAGERAW": {
-          "maximum": 40,
-          "minimum": 40
+          "maximum": 32,
+          "minimum": 32
         }
       },
       "itemOnlyIDs": {
@@ -15548,8 +16220,8 @@
       },
       "identifications": {
         "MANASTEAL": {
-          "maximum": 4,
-          "minimum": 4
+          "maximum": 3,
+          "minimum": 2
         },
         "SPELLDAMAGERAW": {
           "maximum": 12,
@@ -15577,7 +16249,7 @@
       },
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 10,
+          "maximum": 8,
           "minimum": 7
         },
         "FIREDEFENSE": {
@@ -15605,8 +16277,8 @@
       },
       "identifications": {
         "MANASTEAL": {
-          "maximum": 8,
-          "minimum": 8
+          "maximum": 6,
+          "minimum": 6
         }
       },
       "level": 68,
@@ -15816,7 +16488,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 60
+        "durabilityModifier": 50
       },
       "level": 35,
       "name": "Stolen Pearls",
@@ -15834,12 +16506,12 @@
       },
       "identifications": {
         "EMERALDSTEALING": {
-          "maximum": 7,
+          "maximum": 5,
           "minimum": 3
         },
         "THORNS": {
-          "maximum": 13,
-          "minimum": 8
+          "maximum": 7,
+          "minimum": 4
         }
       },
       "level": 92,
@@ -16019,8 +16691,8 @@
           "minimum": 2
         },
         "DAMAGEBONUSRAW": {
-          "maximum": 4,
-          "minimum": 3
+          "maximum": 2,
+          "minimum": 1
         }
       },
       "itemOnlyIDs": {
@@ -16042,8 +16714,8 @@
     {
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 40,
-          "minimum": 30
+          "maximum": 25,
+          "minimum": 15
         }
       },
       "itemOnlyIDs": {
@@ -16061,6 +16733,45 @@
         "id": 367
       },
       "tier": 3
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -600
+      },
+      "identifications": {
+        "EARTHDAMAGEBONUS": {
+          "maximum": 4,
+          "minimum": 3
+        },
+        "FIREDAMAGEBONUS": {
+          "maximum": -4,
+          "minimum": -6
+        },
+        "THUNDERDAMAGEBONUS": {
+          "maximum": 5,
+          "minimum": 2
+        },
+        "WATERDAMAGEBONUS": {
+          "maximum": 4,
+          "minimum": 2
+        }
+      },
+      "itemOnlyIDs": {
+        "dexterityRequirement": 9,
+        "durabilityModifier": -109,
+        "intelligenceRequirement": 9,
+        "strengthRequirement": 9
+      },
+      "level": 105,
+      "name": "Subjoined Brain",
+      "skills": [
+        "JEWELING",
+        "COOKING"
+      ],
+      "sprite": {
+        "id": 376
+      },
+      "tier": 2
     },
     {
       "identifications": {
@@ -16168,6 +16879,29 @@
     },
     {
       "consumableOnlyIDs": {
+        "duration": -90
+      },
+      "identifications": {
+        "WATERDAMAGEBONUS": {
+          "maximum": 3,
+          "minimum": 2
+        },
+        "WATERDEFENSE": {
+          "maximum": 8,
+          "minimum": 6
+        }
+      },
+      "level": 90,
+      "name": "Sunken Scales",
+      "skills": [
+        "SCRIBING"
+      ],
+      "sprite": {
+        "id": 410
+      }
+    },
+    {
+      "consumableOnlyIDs": {
         "duration": -750
       },
       "identifications": {
@@ -16180,8 +16914,8 @@
           "minimum": 2
         },
         "POISON": {
-          "maximum": 250,
-          "minimum": 175
+          "maximum": 500,
+          "minimum": 400
         }
       },
       "level": 83,
@@ -16320,12 +17054,12 @@
     {
       "identifications": {
         "FIREDAMAGEBONUS": {
-          "maximum": 28,
-          "minimum": 22
+          "maximum": 22,
+          "minimum": 17
         },
         "HEALTHBONUS": {
-          "maximum": -800,
-          "minimum": -1000
+          "maximum": -500,
+          "minimum": -550
         }
       },
       "itemOnlyIDs": {
@@ -16525,7 +17259,7 @@
           "minimum": 16
         },
         "HEALTHBONUS": {
-          "maximum": 400,
+          "maximum": 350,
           "minimum": 320
         },
         "SPEED": {
@@ -16590,7 +17324,7 @@
         "touching": 15
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 9,
+        "defenceRequirement": 16,
         "durabilityModifier": -100
       },
       "level": 65,
@@ -16731,7 +17465,7 @@
     {
       "identifications": {
         "HEALTHBONUS": {
-          "maximum": 400,
+          "maximum": 375,
           "minimum": 350
         },
         "THORNS": {
@@ -16785,8 +17519,8 @@
       },
       "identifications": {
         "POISON": {
-          "maximum": 50,
-          "minimum": 45
+          "maximum": 155,
+          "minimum": 135
         }
       },
       "level": 50,
@@ -16880,8 +17614,8 @@
           "minimum": 4
         },
         "POISON": {
-          "maximum": 8,
-          "minimum": 4
+          "maximum": 15,
+          "minimum": 10
         }
       },
       "level": 16,
@@ -17039,7 +17773,7 @@
         }
       },
       "itemOnlyIDs": {
-        "defenceRequirement": 30,
+        "defenceRequirement": 20,
         "durabilityModifier": -122
       },
       "level": 63,
@@ -17078,6 +17812,30 @@
     },
     {
       "consumableOnlyIDs": {
+        "duration": -90
+      },
+      "identifications": {
+        "HEALTHREGEN": {
+          "maximum": 8,
+          "minimum": 7
+        },
+        "HEALTHREGENRAW": {
+          "maximum": -55,
+          "minimum": -65
+        }
+      },
+      "level": 90,
+      "name": "Twisted Coral",
+      "skills": [
+        "ALCHEMISM"
+      ],
+      "sprite": {
+        "damage": 1,
+        "id": 175
+      }
+    },
+    {
+      "consumableOnlyIDs": {
         "duration": -370
       },
       "identifications": {
@@ -17103,11 +17861,11 @@
     {
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 3,
+          "maximum": 2,
           "minimum": 1
         },
         "HEALTHBONUS": {
-          "maximum": 30,
+          "maximum": 15,
           "minimum": 10
         }
       },
@@ -17170,19 +17928,17 @@
     },
     {
       "identifications": {
-        "FIREDEFENSE": {
+        "FIREDAMAGEBONUS": {
           "maximum": 2,
           "minimum": 1
         },
-        "WATERDEFENSE": {
-          "maximum": 2,
+        "WATERDAMAGEBONUS": {
+          "maximum": 3,
           "minimum": 2
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 8,
-        "durabilityModifier": -51,
-        "intelligenceRequirement": 8
+        "durabilityModifier": -51
       },
       "level": 92,
       "name": "Unmeltable Ice",
@@ -17218,8 +17974,8 @@
     {
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 24,
-          "minimum": 20
+          "maximum": 17,
+          "minimum": 15
         },
         "FIREDEFENSE": {
           "maximum": -20,
@@ -17355,12 +18111,12 @@
     {
       "identifications": {
         "INTELLIGENCEPOINTS": {
-          "maximum": 4,
+          "maximum": 3,
           "minimum": 2
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 8,
-          "minimum": 5
+          "maximum": 6,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
@@ -17410,12 +18166,12 @@
     {
       "identifications": {
         "DEFENSEPOINTS": {
-          "maximum": 4,
-          "minimum": 3
+          "maximum": 3,
+          "minimum": 2
         },
         "HEALTHBONUS": {
-          "maximum": 300,
-          "minimum": 250
+          "maximum": 200,
+          "minimum": 175
         }
       },
       "itemOnlyIDs": {
@@ -17439,7 +18195,7 @@
       },
       "identifications": {
         "EARTHDAMAGEBONUS": {
-          "maximum": 11,
+          "maximum": 9,
           "minimum": 6
         },
         "STRENGTHPOINTS": {
@@ -17461,8 +18217,8 @@
     {
       "identifications": {
         "POISON": {
-          "maximum": 105,
-          "minimum": 90
+          "maximum": 195,
+          "minimum": 175
         }
       },
       "itemOnlyIDs": {
@@ -17578,6 +18334,33 @@
         "id": 433
       },
       "tier": 1
+    },
+    {
+      "identifications": {
+        "AGILITYPOINTS": {
+          "maximum": 11,
+          "minimum": 10
+        },
+        "THUNDER_DAMAGE_BONUS_RAW": {
+          "maximum": 25,
+          "minimum": 19
+        }
+      },
+      "itemOnlyIDs": {
+        "agilityRequirement": 30,
+        "dexterityRequirement": 9,
+        "durabilityModifier": -159
+      },
+      "level": 103,
+      "name": "Voidtossed Memory",
+      "skills": [
+        "ARMOURING"
+      ],
+      "sprite": {
+        "damage": 34,
+        "id": 259
+      },
+      "tier": 3
     },
     {
       "identifications": {
@@ -17719,6 +18502,34 @@
         "id": 397
       },
       "tier": 3
+    },
+    {
+      "consumableOnlyIDs": {
+        "duration": -390
+      },
+      "identifications": {
+        "DEFENSEPOINTS": {
+          "maximum": 5,
+          "minimum": 5
+        },
+        "HEALTHREGENRAW": {
+          "maximum": 25,
+          "minimum": 20
+        }
+      },
+      "ingredientPositionModifiers": {
+        "touching": -10
+      },
+      "level": 90,
+      "name": "Warm Fleris",
+      "skills": [
+        "COOKING"
+      ],
+      "sprite": {
+        "damage": 3,
+        "id": 397
+      },
+      "tier": 1
     },
     {
       "identifications": {
@@ -17955,12 +18766,12 @@
           "minimum": -10
         },
         "SPEED": {
-          "maximum": 7,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 5
         }
       },
       "itemOnlyIDs": {
-        "agilityRequirement": 24,
+        "agilityRequirement": 18,
         "durabilityModifier": -105
       },
       "level": 100,
@@ -17976,16 +18787,16 @@
     {
       "identifications": {
         "AGILITYPOINTS": {
-          "maximum": 7,
-          "minimum": 5
+          "maximum": 6,
+          "minimum": 4
         },
         "DAMAGEBONUS": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 4
         },
         "SPELLDAMAGE": {
-          "maximum": 8,
-          "minimum": 6
+          "maximum": 6,
+          "minimum": 4
         }
       },
       "itemOnlyIDs": {
@@ -18030,20 +18841,20 @@
     {
       "identifications": {
         "AIRDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         },
         "MANAREGEN": {
           "maximum": -6,
           "minimum": -6
         },
         "SPELLDAMAGE": {
-          "maximum": 15,
-          "minimum": 15
+          "maximum": 8,
+          "minimum": 8
         },
         "WATERDAMAGEBONUS": {
-          "maximum": 10,
-          "minimum": 10
+          "maximum": 8,
+          "minimum": 8
         }
       },
       "itemOnlyIDs": {
@@ -18062,6 +18873,29 @@
         "id": 397
       },
       "tier": 2
+    },
+    {
+      "identifications": {
+        "SPEED": {
+          "maximum": 6,
+          "minimum": 4
+        },
+        "THUNDERDEFENSE": {
+          "maximum": -2,
+          "minimum": -5
+        }
+      },
+      "itemOnlyIDs": {
+        "durabilityModifier": -64
+      },
+      "level": 92,
+      "name": "Withered Root",
+      "skills": [
+        "WEAPONSMITHING"
+      ],
+      "sprite": {
+        "id": 32
+      }
     },
     {
       "identifications": {
@@ -18094,7 +18928,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": -87,
+        "durabilityModifier": -42,
         "strengthRequirement": 6
       },
       "level": 75,
@@ -18206,7 +19040,7 @@
       },
       "identifications": {
         "INTELLIGENCEPOINTS": {
-          "maximum": 6,
+          "maximum": 7,
           "minimum": 5
         },
         "WATERDEFENSE": {
