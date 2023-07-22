@@ -6,7 +6,7 @@
     "z1": -6144,
     "x2": -1025,
     "z2": -5121,
-    "md5": "445eb886fa4855d438127d7443b7b288"
+    "md5": "68261bf4659d37b077be22e03822fdba"
   },
   {
     "name": "Main 1-2",
@@ -15,7 +15,7 @@
     "z1": -6144,
     "x2": 1023,
     "z2": -5121,
-    "md5": "17b3098b1a787b4d4ddb26a58746176f"
+    "md5": "8265be0c7743b8494fbc736920691522"
   },
   {
     "name": "Main 1-3",
@@ -24,7 +24,7 @@
     "z1": -6144,
     "x2": 2047,
     "z2": -5121,
-    "md5": "42c4dd91fe88d6465cd16cd26e6d5336"
+    "md5": "12b8abd5b71859f6fbd7ea53796073d0"
   },
   {
     "name": "Main 2-1",
@@ -33,7 +33,7 @@
     "z1": -5120,
     "x2": -1025,
     "z2": -4097,
-    "md5": "15505de19aae75ce961afabe9cfe81f0"
+    "md5": "e0874670ae0f9a5f7207f36c50c772c1"
   },
   {
     "name": "Main 2-2",
@@ -42,7 +42,7 @@
     "z1": -5120,
     "x2": 1023,
     "z2": -4097,
-    "md5": "3b9418157558d0246a3db193f052f578"
+    "md5": "fc24b53bbcc50ad8e660f77d2fd586ef"
   },
   {
     "name": "Main 2-3",
@@ -51,7 +51,7 @@
     "z1": -5120,
     "x2": 2047,
     "z2": -4097,
-    "md5": "e6a1d2a492ce44fecc0a7aa2814d2a24"
+    "md5": "7af8daff0d82d570706604d1ab2f0e26"
   },
   {
     "name": "Main 3-1",
@@ -60,7 +60,7 @@
     "z1": -4096,
     "x2": -1025,
     "z2": -3073,
-    "md5": "a741fb64abbfc60ddce82ca8bfffc06e"
+    "md5": "a2ed4cb0fe16449a2a0e1f53a8e29574"
   },
   {
     "name": "Main 3-2",
@@ -69,7 +69,7 @@
     "z1": -4096,
     "x2": 1023,
     "z2": -3073,
-    "md5": "1fc11b725fc4dcd1cf68caac9f23ca1d"
+    "md5": "2458b73c33c8dd42315faf3834f4bc4a"
   },
   {
     "name": "Main 3-3",
@@ -87,7 +87,7 @@
     "z1": -3072,
     "x2": -1025,
     "z2": -2049,
-    "md5": "e1977c0d5297b20fc3a26ae920b18551"
+    "md5": "ea2b28c0a5915efdffdc7194d6d51a5f"
   },
   {
     "name": "Main 4-2",
@@ -96,7 +96,7 @@
     "z1": -3072,
     "x2": 1023,
     "z2": -2049,
-    "md5": "6715e5fecaa791824b8e36c073d2ec94"
+    "md5": "1877e537b8890c7ee7693c43231f540f"
   },
   {
     "name": "Main 4-3",
@@ -105,7 +105,7 @@
     "z1": -3072,
     "x2": 2047,
     "z2": -2049,
-    "md5": "10d290991700da4d12ba0a628fa98b34"
+    "md5": "6f78feaae634faa1eb225c5636af8165"
   },
   {
     "name": "Main 5-1",
@@ -114,7 +114,7 @@
     "z1": -2048,
     "x2": -1025,
     "z2": -1025,
-    "md5": "95f484b2d852efebc2147cda246eff29"
+    "md5": "1215384a92ca93427d282e6eda1b42d0"
   },
   {
     "name": "Main 5-2",
@@ -123,7 +123,7 @@
     "z1": -2048,
     "x2": 1023,
     "z2": -1025,
-    "md5": "5821ed11c78875b900ba69a36a81fe1a"
+    "md5": "33febba50a4796b26f66f71b7f06f2d8"
   },
   {
     "name": "Main 5-3",
@@ -132,7 +132,7 @@
     "z1": -2048,
     "x2": 2047,
     "z2": -1025,
-    "md5": "cde314dc1d77904262dd794124743540"
+    "md5": "24abfdb2d7cfe85eadf9f3ade34d41e0"
   },
   {
     "name": "Main 6-1",
@@ -141,7 +141,7 @@
     "z1": -1024,
     "x2": -1025,
     "z2": -1,
-    "md5": "0c7e1a8d56befcf384a46bef6918d422"
+    "md5": "cca93b6b44d8ac4751f0d47b81a9ea6e"
   },
   {
     "name": "Main 6-2",
@@ -150,7 +150,7 @@
     "z1": -1024,
     "x2": 1023,
     "z2": -1,
-    "md5": "e248c992ed583d24ef3511a2f95acc42"
+    "md5": "f664f0394c54c61a3ee551ea3415c598"
   },
   {
     "name": "Main 6-3",
@@ -159,7 +159,16 @@
     "z1": -1024,
     "x2": 2047,
     "z2": -1,
-    "md5": "05d227033f79657440c3e9ae9db2cd43"
+    "md5": "dbf19887248b9febdb8766ee64073ebf"
+  },
+  {
+    "name": "Ceralus Farm 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ceralus-1.png",
+    "x1": -5120,
+    "z1": -1536,
+    "x2": -3073,
+    "z2": -1025,
+    "md5": "09c9dad8691152716337919575955768"
   },
   {
     "name": "Ceralus Farm 2",
@@ -223,15 +232,6 @@
     "x2": -1025,
     "z2": 10239,
     "md5": "e244990cf2f818efcfa07fc69882f120"
-  },
-  {
-    "name": "Talespun Citadel",
-    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-talespun-citadel.png",
-    "x1": -1536,
-    "z1": 9728,
-    "x2": -1025,
-    "z2": 10751,
-    "md5": "9ad11cb5e69391d1b70e5508c8fc66a8"
   },
   {
     "name": "The Void",
@@ -331,6 +331,15 @@
     "x2": 8703,
     "z2": -1537,
     "md5": "10d15e15b87d3500d1a291f931667c1e"
+  },
+  {
+    "name": "Talespun Citadel",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-talespun-citadel.png",
+    "x1": -1536,
+    "z1": 9728,
+    "x2": -1025,
+    "z2": 10751,
+    "md5": "9ad11cb5e69391d1b70e5508c8fc66a8"
   },
   {
     "name": "Ozoth's Nest",
