@@ -1,0 +1,393 @@
+{
+  "corkus": [
+    {
+      "location": {
+        "x": -1930,
+        "y": 0,
+        "z": -3325
+      },
+      "name": "Aquaculture Aquifer",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1867,
+        "y": 0,
+        "z": -3172
+      },
+      "name": "Feral Avos",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1847,
+        "y": 0,
+        "z": -2641
+      },
+      "name": "The Warehouse",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1782,
+        "y": 0,
+        "z": -2569
+      },
+      "name": "Junk Pit",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1775,
+        "y": 0,
+        "z": -2704
+      },
+      "name": "Bandit Hideout",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1759,
+        "y": 0,
+        "z": -2769
+      },
+      "name": "Fruit Crate",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1759,
+        "y": 0,
+        "z": -2450
+      },
+      "name": "Avos Animation Totem",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1757,
+        "y": 0,
+        "z": -2608
+      },
+      "name": "Sanitizing Robots",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1740,
+        "y": 0,
+        "z": -2452
+      },
+      "name": "Infested Underpass",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1686,
+        "y": 0,
+        "z": -3291
+      },
+      "name": "Shackles of the Past",
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1674,
+        "y": 0,
+        "z": -3060
+      },
+      "name": "Builder-Bot Central",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1603,
+        "y": 0,
+        "z": -3438
+      },
+      "name": "Treasure Grabbers",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": -1569,
+        "y": 0,
+        "z": -3143
+      },
+      "name": "Wireless Commander",
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": -1471,
+        "y": 0,
+        "z": -2376
+      },
+      "name": "Steamworks",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1447,
+        "y": 0,
+        "z": -3161
+      },
+      "name": "Cable Coolers",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1440,
+        "y": 0,
+        "z": -2438
+      },
+      "name": "Robot Pirates",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": -1394,
+        "y": 0,
+        "z": -2393
+      },
+      "name": "Pirate Lattice",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1365,
+        "y": 0,
+        "z": -2736
+      },
+      "name": "Corkus Quarry",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": -1310,
+        "y": 0,
+        "z": -2259
+      },
+      "name": "Fort Corkia",
+      "taskType": "slay"
+    }
+  ],
+  "silentExpanse": [
+    {
+      "location": {
+        "x": 602,
+        "y": 0,
+        "z": -407
+      },
+      "name": "Statue Necropolis",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 691,
+        "y": 0,
+        "z": -375
+      },
+      "name": "City Statue",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 695,
+        "y": 0,
+        "z": -496
+      },
+      "name": "Puppetry Performance",
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 775,
+        "y": 0,
+        "z": -950
+      },
+      "name": "Loot Symposium",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 822,
+        "y": 0,
+        "z": -903
+      },
+      "name": "Collapsed Passage",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 826,
+        "y": 0,
+        "z": -429
+      },
+      "name": "Statue Opening",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 854,
+        "y": 0,
+        "z": -668
+      },
+      "name": "Spiteful Crossing",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 866,
+        "y": 0,
+        "z": -337
+      },
+      "name": "Forlorn Library",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 879,
+        "y": 0,
+        "z": -803
+      },
+      "name": "The Place Coalesced",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 897,
+        "y": 0,
+        "z": -524
+      },
+      "name": "Reject Grove",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 907,
+        "y": 0,
+        "z": -999
+      },
+      "name": "Sludge Locus",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 948,
+        "y": 0,
+        "z": -1049
+      },
+      "name": "Haze Cave",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 957,
+        "y": 0,
+        "z": -410
+      },
+      "name": "Spire of Eyes",
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 983,
+        "y": 0,
+        "z": -470
+      },
+      "name": "The Gwanari",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1014,
+        "y": 0,
+        "z": -1053
+      },
+      "name": "Melting Architecture",
+      "taskType": "defend"
+    },
+    {
+      "location": {
+        "x": 1038,
+        "y": 0,
+        "z": -692
+      },
+      "name": "The Place Condensed",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1088,
+        "y": 0,
+        "z": -345
+      },
+      "name": "Eyeball Gauntlet",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1093,
+        "y": 0,
+        "z": -1137
+      },
+      "name": "Exiled Garden",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1117,
+        "y": 0,
+        "z": -992
+      },
+      "name": "Graveyard of the Thousand",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1125,
+        "y": 0,
+        "z": -1095
+      },
+      "name": "False Respite",
+      "taskType": "slay"
+    },
+    {
+      "location": {
+        "x": 1132,
+        "y": 0,
+        "z": -1127
+      },
+      "name": "Caged Creatures",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1147,
+        "y": 0,
+        "z": -954
+      },
+      "name": "Gateway to Nothing",
+      "taskType": "destroy"
+    },
+    {
+      "location": {
+        "x": 1285,
+        "y": 0,
+        "z": -1060
+      },
+      "name": "The Lantern Keeper's Abode",
+      "taskType": "loot"
+    },
+    {
+      "location": {
+        "x": 1393,
+        "y": 0,
+        "z": -1055
+      },
+      "name": "Blind Burrow",
+      "taskType": "loot"
+    }
+  ]
+}
