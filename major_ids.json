@@ -7,7 +7,7 @@
   {
     "id": "HAWKEYE",
     "name": "Hawkeye",
-    "lore": "Condense Arrow Storm into a tight beam. Arrows deal ✣ 10%, ✦ 1%, and ❋ 1%"
+    "lore": "Condense Arrow Storm into a tight beam. Arrows deal §6✢ §r10%, §e✦ §r1%, and §f❋ §r1%"
   },
   {
     "id": "GREED",
@@ -107,12 +107,12 @@
   {
     "id": "FISSION",
     "name": "Fission",
-    "lore": "Explosions from your \"Exploding\" ID are twice as big and twice as strong"
+    "lore": "Explosions from your Exploding ID are twice as big and twice as strong"
   },
   {
     "id": "EXPLOSIVE_IMPACT",
     "name": "Explosive Impact",
-    "lore": "Your \"Exploding\" ID can trigger when hitting mobs with your Main Attack"
+    "lore": "Your Exploding ID can trigger when hitting mobs with your Main Attack"
   },
   {
     "id": "GEOCENTRISM",
@@ -132,7 +132,7 @@
   {
     "id": "DIVINE_HONOR",
     "name": "Divine Honor",
-    "lore": "Increases the bonus from Radiance by 5%. Bash deals ✤ -15% per hit"
+    "lore": "Increases the bonus from Radiance by 5%. Bash deals §2✤ §3-15% per hit."
   },
   {
     "id": "ESCAPE_ROUTE",
@@ -142,7 +142,7 @@
   {
     "id": "FOREST_BLESSING",
     "name": "Forest's Blessing",
-    "lore": "Your archer summons have increased movement speed, attack speed, and vision. Bomb Arrow's damage is reduced by ✣ -30%"
+    "lore": "Your archer summons have increased movement speed, attack speed, and vision. Bomb Arrow's damage is reduced by §6✢ §3-30%."
   },
   {
     "id": "GENTLE_GLOW",
@@ -157,7 +157,7 @@
   {
     "id": "JUGGLE",
     "name": "Juggle",
-    "lore": "Stronger Multihit adds an additional 12 hits. All hits are reduced by ✣ -10%"
+    "lore": "Stronger Multihit adds an additional 12 hits. All hits are reduced by §6✢ §r-10%."
   },
   {
     "id": "OVERWHELM",
@@ -172,7 +172,7 @@
   {
     "id": "RECKLESS_ABANDON",
     "name": "Reckless Abandon",
-    "lore": "Increases the damage of Tempest by ✹ 15% and adds one charge. War Scream no longer grants a defence bonus"
+    "lore": "Tempest deals §c✹ §3+15% and gains one additional charge. War Scream no longer grants a defence bonus."
   },
   {
     "id": "SOUL_EATER",
