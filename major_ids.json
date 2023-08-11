@@ -32,7 +32,7 @@
   {
     "id": "HERO",
     "name": "Saviour's Sacrifice",
-    "lore": "While under 50% maximum health, nearby allies gain 30% bonus damage and defence"
+    "lore": "While under 50% maximum health, nearby allies gain 20% bonus damage and defence"
   },
   {
     "id": "ARCANES",
