@@ -21,7 +21,7 @@
       "armorType": "Leather",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -110,6 +110,11 @@
       "accessoryType": "Necklace",
       "addedLore": "\"The fractures have ground the land to dust, our home to ruin, and our people to nothing.\"",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamageBonus": 10,
       "fireDefense": 40,
@@ -174,6 +179,11 @@
       "category": "armor",
       "defensePoints": -30,
       "dexterityPoints": -30,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 175,
@@ -311,6 +321,11 @@
       "category": "weapon",
       "damage": "105-150",
       "defensePoints": -10,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 72,
@@ -637,6 +652,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 255,
       "identified": true,
@@ -936,6 +956,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 8,
       "identified": true,
@@ -1097,6 +1122,11 @@
       "airDamageBonus": 6,
       "airDefense": 15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 62,
@@ -1132,6 +1162,11 @@
       "armorType": "Diamond",
       "bonusAirDefense": -15,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 90,
@@ -1625,6 +1660,11 @@
       "category": "armor",
       "defensePoints": 5,
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -150,
       "elementalDamageBonus": 20,
@@ -1834,6 +1874,11 @@
       "bonusEarthDefense": -8,
       "category": "armor",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -4,
       "health": 60,
@@ -2041,6 +2086,11 @@
       "category": "armor",
       "defense": 30,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "fireDefense": 100,
@@ -2392,8 +2442,8 @@
       "bonusThunderDefense": -24,
       "category": "weapon",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -2619,6 +2669,11 @@
       "defensePoints": -30,
       "dexterity": 40,
       "displayName": "Boreal-Patterned Crown",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 3000,
       "identified": true,
@@ -2758,6 +2813,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDefense": 65,
       "fireDefense": 65,
@@ -2897,6 +2957,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 150,
       "healthRegenRaw": 25,
@@ -2967,6 +3032,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 70,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "exploding": 40,
       "fireDefense": -150,
@@ -2992,6 +3062,11 @@
       "addedLore": "Something must always rule the ecosystem, even one as warped as this.",
       "agility": 40,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": 20,
       "level": 60,
@@ -3124,7 +3199,7 @@
       "category": "armor",
       "dexterityPoints": 5,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -3334,6 +3409,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "earthDefense": 10,
@@ -3596,6 +3676,11 @@
       "armorType": "Leather",
       "category": "armor",
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 3,
       "health": 28,
@@ -3648,6 +3733,11 @@
       "defensePoints": -4,
       "dexterity": 25,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 72,
@@ -3672,6 +3762,11 @@
       "defense": 45,
       "defensePoints": 5,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 12,
       "fireDamageBonus": 14,
@@ -3976,6 +4071,11 @@
       "addedLore": "In the wake of the Decay, the land yearns to return to its old vibrance.",
       "category": "accessory",
       "defense": 35,
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": 30,
       "healingEfficiency": 8,
@@ -3996,6 +4096,11 @@
       "airDefense": 50,
       "category": "accessory",
       "defense": 55,
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": 30,
       "health": 725,
@@ -4480,6 +4585,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "health": -400,
       "intelligence": 65,
@@ -4677,8 +4787,8 @@
       "defensePoints": 7,
       "displayName": "Back-Up Plan",
       "dropMeta": {
-        "coordinates": "-711,58,-657",
-        "name": "Tribal Sanctuary",
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
         "type": "altar"
       },
       "dropType": "never",
@@ -4761,6 +4871,11 @@
       "bonusEarthDefense": 10,
       "category": "weapon",
       "damage": "14-18",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "6-10",
       "healthBonus": 60,
@@ -5022,6 +5137,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "90-130",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 40,
@@ -5099,6 +5219,11 @@
       "airDefense": 25,
       "bonusFireDefense": -8,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 25,
@@ -5229,6 +5354,11 @@
       "bonusFireDefense": -50,
       "category": "weapon",
       "damage": "60-85",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "160-180",
       "identified": true,
@@ -5312,6 +5442,11 @@
       "armorType": "Chain",
       "category": "armor",
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "health": 640,
@@ -5372,6 +5507,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-881,67,-1575",
+        "name": "Ragni",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 20,
       "healthRegen": 7,
@@ -5387,6 +5527,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "25-30",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "exploding": 5,
@@ -5592,6 +5737,11 @@
       "defensePoints": -6,
       "dexterity": 45,
       "dexterityPoints": 9,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 30,
       "earthDefense": 120,
@@ -6293,6 +6443,11 @@
       "category": "weapon",
       "damage": "4-8",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 8,
@@ -6362,6 +6517,11 @@
       "damage": "30-48",
       "defense": 10,
       "defensePoints": 2,
+      "dropMeta": {
+        "coordinates": "717,69,-2076",
+        "name": "Bremminglar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 30,
       "identified": true,
@@ -6577,8 +6737,8 @@
       "defense": 45,
       "defensePoints": 10,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -7250,6 +7410,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 290,
       "identified": true,
@@ -7273,12 +7438,12 @@
       "dexterity": 16,
       "dexterityPoints": 4,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
-      "health": 1585,
+      "health": 185,
       "level": 26,
       "mainAttackDamageBonus": 26,
       "mainAttackDamageBonusRaw": 52,
@@ -7444,6 +7609,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegen": -10,
       "healthRegenRaw": -30,
@@ -7574,6 +7744,11 @@
       "defense": 40,
       "dexterity": 40,
       "displayName": "Anima-Infused Cuirass",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDamageBonus": 20,
       "fireDefense": 200,
@@ -7630,6 +7805,11 @@
       "category": "accessory",
       "dexterity": 20,
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "identified": true,
       "level": 81,
@@ -7706,6 +7886,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "8-12",
+      "dropMeta": {
+        "coordinates": "717,69,-2076",
+        "name": "Bremminglar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "4-8",
       "healthRegenRaw": 5,
@@ -7994,6 +8179,11 @@
       "category": "accessory",
       "dexterity": 40,
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": -350,
       "identified": true,
@@ -8027,6 +8217,11 @@
       "category": "armor",
       "dexterity": 20,
       "dexterityPoints": 9,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 75,
@@ -8177,6 +8372,11 @@
       "category": "accessory",
       "defensePoints": -5,
       "dexterityPoints": -3,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -45,
       "fireDefense": -30,
@@ -8291,6 +8491,11 @@
       "attackSpeedBonus": 1,
       "category": "accessory",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "identified": true,
       "level": 85,
@@ -8304,6 +8509,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "10-40",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDamage": "220-260",
       "healthBonus": 1750,
@@ -8467,8 +8677,8 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -8591,6 +8801,11 @@
       "category": "accessory",
       "dexterity": 15,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 40,
       "identified": true,
@@ -8622,6 +8837,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "This bracelet is awarded to participants of the Legendary Challenge. Its modular design allows it to be upgraded in a number of different ways.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "health": 500,
@@ -8638,6 +8858,11 @@
       "accessoryType": "Necklace",
       "addedLore": "This necklace is awarded to participants of the Legendary Challenge. Its modular design allows it to be upgraded in a number of different ways.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": 500,
       "identified": true,
@@ -8654,6 +8879,11 @@
       "accessoryType": "Ring",
       "addedLore": "This ring is awarded to participants of the Legendary Challenge. Its modular design allows it to be upgraded in a number of different ways.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": 500,
       "identified": true,
@@ -9097,8 +9327,8 @@
       "bonusAirDefense": 10,
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -9205,6 +9435,11 @@
       "agility": 55,
       "airDefense": -15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -15,
       "fireDefense": -15,
@@ -9632,6 +9867,11 @@
       "category": "armor",
       "defense": 45,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 10,
       "fireDefense": 100,
@@ -9782,6 +10022,11 @@
       "bonusAirDefense": 12,
       "bonusEarthDefense": 12,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 70,
@@ -9947,6 +10192,11 @@
       "category": "armor",
       "defense": 35,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 70,
@@ -10256,6 +10506,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "earthDefense": 10,
@@ -10355,6 +10610,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "11-17",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -20,
       "identified": true,
@@ -10542,7 +10802,7 @@
       "category": "armor",
       "dexterityPoints": 4,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -10931,6 +11191,7 @@
       "level": 6,
       "material": "256:8",
       "name": "Chandelle",
+      "sockets": 1,
       "tier": "Unique",
       "type": "Spear"
     },
@@ -10997,6 +11258,11 @@
       "category": "armor",
       "defensePoints": -30,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 30,
       "earthDefense": 100,
@@ -11043,6 +11309,11 @@
       "bonusEarthDefense": -8,
       "category": "accessory",
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 10,
@@ -11093,6 +11364,11 @@
       "category": "armor",
       "dexterity": 15,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 850,
       "identified": true,
@@ -11378,6 +11654,11 @@
       "attackSpeed": "VERY_SLOW",
       "category": "weapon",
       "damage": "100-150",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "120-190",
       "identified": true,
@@ -11581,6 +11862,11 @@
       "accessoryType": "Ring",
       "addedLore": "There are little chips and cracks all over this... was someone trying to break it down for gold?",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 33,
       "identified": true,
@@ -11760,6 +12046,11 @@
       "damage": "28-60",
       "dexterity": 50,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 94,
@@ -11798,6 +12089,11 @@
       "defensePoints": 7,
       "dexterity": 30,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": -65,
       "earthDefense": -150,
@@ -11840,6 +12136,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "NEVER",
       "health": 10,
       "level": 1,
@@ -11880,6 +12181,11 @@
       "category": "weapon",
       "damage": "0-40",
       "defense": 60,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "fireDamage": "600-800",
       "healthBonus": 1050,
@@ -12057,6 +12363,11 @@
       "category": "weapon",
       "damage": "20-26",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "identified": true,
@@ -12415,6 +12726,11 @@
       "airDefense": 30,
       "category": "accessory",
       "defense": 60,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "fireDefense": 60,
@@ -12572,6 +12888,11 @@
       "armorType": "Diamond",
       "bonusAirDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 94,
@@ -12737,6 +13058,11 @@
       "defensePoints": 8,
       "dexterity": 40,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 10,
       "fireDamageBonus": 25,
@@ -12997,6 +13323,11 @@
       "bonusAirDefense": 10,
       "bonusWaterDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -15,
       "health": 1450,
@@ -13202,6 +13533,11 @@
       "bonusWaterDefense": 15,
       "category": "accessory",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "fireDefense": 60,
@@ -13220,6 +13556,11 @@
       "category": "weapon",
       "damage": "50-115",
       "displayName": "Pressure Blaster",
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 50,
@@ -13242,6 +13583,11 @@
       "damage": "125-215",
       "defense": 50,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "60-105",
       "healthBonus": 2250,
@@ -13588,6 +13934,11 @@
       "bonusFireDefense": 31,
       "category": "weapon",
       "damage": "0-100",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamage": "100-700",
       "level": 105,
@@ -13623,6 +13974,11 @@
       "accessoryType": "Necklace",
       "addedLore": "The runes carved onto the gold beads strung along this simple necklace translate into various words meaning variance. It provides many abilities though unexplainable means.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 900,
       "healthRegenRaw": 150,
@@ -13700,6 +14056,11 @@
       "bonusFireDefense": 8,
       "bonusWaterDefense": 6,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 25,
       "identified": true,
@@ -13843,6 +14204,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "dexterityPoints": -4,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 800,
       "healthRegen": 10,
@@ -13900,6 +14266,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2225,
       "identified": true,
@@ -13925,6 +14296,11 @@
       "bonusWaterDefense": -20,
       "category": "weapon",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 88,
@@ -13945,6 +14321,11 @@
       "agility": 15,
       "airDamageBonus": 8,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 15,
@@ -14392,6 +14773,11 @@
       "damage": "80-130",
       "dexterity": 15,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 70,
@@ -14479,6 +14865,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "8-14",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 14,
@@ -14632,6 +15023,11 @@
       "accessoryType": "Ring",
       "addedLore": "It looks like someone tried and failed to improve it. The re-smithing job was obviously rushed...",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "health": 35,
@@ -14707,6 +15103,11 @@
       "category": "armor",
       "defense": 30,
       "defensePoints": 14,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 40,
       "fireDefense": 60,
@@ -14807,6 +15208,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "fireDefense": -15,
@@ -14958,6 +15364,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 220,
       "identified": true,
@@ -14977,6 +15388,11 @@
       "category": "weapon",
       "damage": "120-140",
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "140-160",
       "earthDamageBonus": 20,
@@ -15250,6 +15666,11 @@
       "damage": "30-40",
       "dexterity": 25,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "identified": true,
@@ -15550,6 +15971,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "20-27",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 43,
@@ -15783,6 +16209,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDamageBonus": 24,
       "earthDefense": 150,
@@ -16029,6 +16460,11 @@
       "bonusAirDefense": -8,
       "category": "accessory",
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 25,
@@ -16162,6 +16598,11 @@
       "defense": 65,
       "defensePoints": 5,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 150,
       "health": 3275,
@@ -16367,8 +16808,8 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -16550,6 +16991,11 @@
       "category": "accessory",
       "dexterity": 50,
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 76,
@@ -16671,6 +17117,11 @@
       "category": "weapon",
       "damage": "114-194",
       "defense": 25,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 15,
       "fireDamage": "469-686",
@@ -16748,6 +17199,11 @@
       "damage": "100-110",
       "defense": 30,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "65-95",
       "healthBonus": 400,
@@ -17250,6 +17706,11 @@
       "category": "accessory",
       "dexterity": 50,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -20,
       "fireDefense": -10,
@@ -17296,6 +17757,11 @@
       "airDefense": 60,
       "category": "accessory",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 105,
       "mainAttackDamageBonusRaw": -85,
@@ -17559,6 +18025,11 @@
       "airDamageBonus": 15,
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 25,
       "identified": true,
@@ -17600,6 +18071,11 @@
       "bonusWaterDefense": 12,
       "category": "weapon",
       "damage": "56-97",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -10,
       "healthRegen": 20,
@@ -17621,6 +18097,11 @@
       "airDefense": 25,
       "category": "accessory",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 25,
       "fireDefense": 25,
@@ -17659,6 +18140,11 @@
       "addedLore": "Desired by many of the countless challengers, this bracelet allows you to sense movements over thousands of meters away. It is decorated with rough yet beautiful jewels.",
       "bonusEarthDefense": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 16,
       "earthDefense": 65,
@@ -17677,6 +18163,11 @@
       "addedLore": "This ultimate version of a necklace was given to less than a handful of adventurers. Once on your neck, you can communicate with the ground below as if you grew roots.",
       "bonusEarthDefense": 16,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 80,
@@ -17693,6 +18184,11 @@
       "accessoryType": "Ring",
       "addedLore": "This masterpiece of a ring utilizes powerful electromagic to expose its wearer to earth's heartbeat. Wearing it, you can feel a deep connection to the ground below.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 60,
       "exploding": 12,
@@ -17721,6 +18217,11 @@
       "category": "accessory",
       "defense": 20,
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 60,
       "fireDefense": 60,
@@ -17747,6 +18248,11 @@
       "defensePoints": 5,
       "dexterity": 20,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 15,
       "fireDefense": 15,
@@ -17771,6 +18277,11 @@
       "category": "accessory",
       "defense": 20,
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "fireDefense": 30,
@@ -17794,6 +18305,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "You'll fight strong like the tide, the merchant said, and no word was a lie. With this bracelet on your arm you could ride a wave with your bare feet.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 100,
@@ -17812,6 +18328,11 @@
       "accessoryType": "Necklace",
       "addedLore": "You'll be wise like the sea, the merchant said and every word was true. With this necklace equipped, you could hear the ocean whisper.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 100,
@@ -17831,6 +18352,11 @@
       "addedLore": "You'll move quick like a river, the merchant said, and no word was a lie. With this ring on your finger, you could catch a gnat without looking.",
       "bonusWaterDefense": 10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 100,
@@ -17866,6 +18392,11 @@
       "category": "accessory",
       "defense": 100,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "exploding": 15,
       "fireDamageBonus": 14,
@@ -17885,6 +18416,11 @@
       "category": "accessory",
       "defense": 100,
       "defensePoints": 12,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDamageBonus": 8,
       "fireDefense": 120,
@@ -17904,6 +18440,11 @@
       "category": "accessory",
       "defense": 100,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDefense": 60,
       "health": 1000,
@@ -17925,6 +18466,11 @@
       "category": "accessory",
       "dexterity": 100,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -450,
       "identified": true,
@@ -17944,6 +18490,11 @@
       "attackSpeedBonus": 1,
       "category": "accessory",
       "dexterity": 100,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -17962,6 +18513,11 @@
       "category": "accessory",
       "dexterity": 100,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -350,
       "healthRegen": -10,
@@ -17984,6 +18540,11 @@
       "airDefense": 135,
       "bonusAirDefense": 12,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -18002,6 +18563,11 @@
       "airDefense": 100,
       "bonusAirDefense": 16,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -240,
       "identified": true,
@@ -18022,6 +18588,11 @@
       "airDefense": 50,
       "bonusAirDefense": 7,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -240,
       "identified": true,
@@ -18087,6 +18658,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 10,
@@ -18110,6 +18686,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "The glass capsule holding the poison vial is too cloudy to see what's inside. The merchant's reassurances are anything but.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 12,
       "health": -35,
@@ -18178,6 +18759,11 @@
       "category": "accessory",
       "defensePoints": -2,
       "dexterityPoints": -2,
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 300,
       "identified": true,
@@ -18201,6 +18787,11 @@
       "category": "armor",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 320,
       "identified": true,
@@ -18219,6 +18810,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 40,
       "health": 650,
@@ -18548,6 +19144,11 @@
       "agilityPoints": 6,
       "airDefense": 60,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 100,
       "mainAttackDamageBonusRaw": 85,
@@ -18632,6 +19233,11 @@
       "bonusAirDefense": 35,
       "category": "weapon",
       "damage": "0-30",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamage": "0-400",
       "earthDamageBonus": 20,
@@ -18651,6 +19257,11 @@
       "armorType": "Leather",
       "bonusWaterDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 300,
       "level": 40,
@@ -18667,6 +19278,11 @@
       "armorType": "Leather",
       "bonusWaterDefense": 15,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 750,
       "level": 55,
@@ -18683,6 +19299,11 @@
       "armorType": "Leather",
       "bonusWaterDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1350,
       "level": 70,
@@ -18868,6 +19489,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 4,
       "exploding": 4,
@@ -18977,6 +19603,11 @@
       "damage": "30-130",
       "dexterity": 50,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -15,
       "healthBonus": -1000,
@@ -19132,6 +19763,11 @@
       "category": "armor",
       "defense": 45,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -60,
       "fireDamageBonus": 10,
@@ -19234,6 +19870,11 @@
       "damage": "40-50",
       "defense": 45,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 7,
       "fireDamage": "90-160",
@@ -19282,6 +19923,11 @@
       "bonusThunderDefense": 18,
       "bonusWaterDefense": 18,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 18,
       "fireDamageBonus": 18,
@@ -19563,6 +20209,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "18-24",
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 35,
       "healthRegen": 5,
@@ -19586,6 +20237,11 @@
       "bonusWaterDefense": -8,
       "category": "accessory",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 8,
       "fireDamageBonus": 6,
@@ -19640,6 +20296,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "6-14",
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 27,
@@ -19659,6 +20320,11 @@
       "category": "weapon",
       "damage": "22-28",
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 55,
@@ -19680,6 +20346,11 @@
       "bonusAirDefense": 20,
       "bonusThunderDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "991,38,-3455",
+        "name": "Dujgon Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 10,
       "health": 625,
@@ -19700,6 +20371,11 @@
       "category": "weapon",
       "dexterity": 5,
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "991,38,-3455",
+        "name": "Dujgon Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "46-67",
       "earthDamageBonus": 8,
@@ -19732,6 +20408,11 @@
       "addedLore": "The merchant insists the gem is real. It's easy to tell that the issue is the quality of the gem, though...",
       "category": "accessory",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 5,
       "health": 48,
@@ -19849,6 +20530,11 @@
       "category": "accessory",
       "defense": 60,
       "defensePoints": 6,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "exploding": 18,
       "fireDamageBonus": 24,
@@ -20202,6 +20888,11 @@
       "airDamage": "70-101",
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "32-50",
       "earthDamageBonus": 20,
@@ -20446,6 +21137,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 35,
       "health": 1850,
@@ -20659,6 +21355,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "9-13",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 10,
@@ -20766,6 +21467,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -16,
       "fireDefense": -140,
@@ -20902,6 +21608,11 @@
       "armorType": "Diamond",
       "bonusAirDefense": -25,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 120,
@@ -21308,6 +22019,11 @@
       "category": "armor",
       "defense": 40,
       "dexterityPoints": -30,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 200,
@@ -21384,6 +22100,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 89,
@@ -21486,6 +22207,11 @@
       "bonusElementalDefense": 10,
       "category": "armor",
       "defense": 75,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "fireDamageBonus": 15,
       "health": 5300,
@@ -21632,6 +22358,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 62,
@@ -21649,6 +22380,11 @@
       "damage": "80-130",
       "dexterity": 20,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -15,
       "identified": true,
@@ -21671,8 +22407,8 @@
       "defense": 20,
       "defensePoints": 5,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -21693,6 +22429,11 @@
       "armorType": "Chain",
       "category": "armor",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -15,
       "emeraldStealing": 4,
@@ -21713,6 +22454,11 @@
       "category": "armor",
       "defense": 10,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 6,
       "exploding": 6,
@@ -21737,6 +22483,11 @@
       "category": "armor",
       "defense": 5,
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "fireDefense": -12,
@@ -21761,6 +22512,11 @@
       "category": "armor",
       "dexterity": 10,
       "displayName": "Enhanced Duskshield",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -14,
       "fireDamageBonus": -14,
@@ -21784,6 +22540,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 24,
@@ -21807,6 +22568,11 @@
       "armorType": "Golden",
       "bonusEarthDefense": 5,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 18,
       "health": 350,
@@ -21830,6 +22596,11 @@
       "armorType": "Golden",
       "bonusFireDefense": -12,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": -14,
       "fireDefense": -30,
@@ -21849,6 +22620,11 @@
       "armorType": "golden",
       "bonusThunderDefense": -12,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 395,
       "identified": true,
@@ -21871,6 +22647,11 @@
       "armorType": "Golden",
       "category": "armor",
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -37,
       "health": 375,
@@ -21905,6 +22686,11 @@
       "defensePoints": 2,
       "dexterity": 6,
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 4,
       "fireDamageBonus": 4,
@@ -21929,6 +22715,11 @@
       "category": "armor",
       "defense": 10,
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 600,
       "identified": true,
@@ -21954,6 +22745,11 @@
       "defensePoints": -5,
       "dexterity": 15,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 4,
       "health": 330,
@@ -21973,6 +22769,11 @@
       "bonusWaterDefense": 7,
       "category": "armor",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 24,
       "health": 495,
@@ -21999,6 +22800,11 @@
       "armorType": "Golden",
       "bonusFireDefense": -12,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -22,
       "health": 345,
@@ -22019,6 +22825,11 @@
       "bonusWaterDefense": 6,
       "category": "armor",
       "dexterityPoints": -4,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 310,
       "identified": true,
@@ -22037,6 +22848,11 @@
       "armorType": "Golden",
       "category": "armor",
       "defense": 15,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 4,
       "health": 455,
@@ -22375,6 +23191,11 @@
       "category": "armor",
       "defense": 50,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -60,
       "fireDamageBonus": 5,
@@ -22922,6 +23743,11 @@
       "category": "accessory",
       "defense": 60,
       "displayName": "Collection",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "fireDefense": -60,
@@ -23012,6 +23838,11 @@
       "category": "accessory",
       "defense": 10,
       "dexterity": 20,
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -20,
       "fireDefense": -30,
@@ -23034,6 +23865,11 @@
       "attackSpeedBonus": -6,
       "category": "accessory",
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "intelligence": 45,
       "level": 60,
@@ -23193,6 +24029,11 @@
       "category": "armor",
       "defense": 40,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 90,
       "fireDefense": 120,
@@ -23213,6 +24054,11 @@
       "accessoryType": "Ring",
       "agility": 40,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -20,
       "healthRegenRaw": -20,
@@ -23229,6 +24075,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": -5,
@@ -23246,7 +24097,7 @@
       "category": "weapon",
       "damage": "8-12",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -23683,8 +24534,8 @@
       "airDefense": 4,
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -23856,6 +24707,11 @@
       "bonusAirDefense": 15,
       "bonusEarthDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 120,
@@ -23952,6 +24808,11 @@
       "bonusThunderDefense": -15,
       "category": "weapon",
       "damage": "25-55",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "50-80",
       "identified": true,
@@ -23971,6 +24832,11 @@
       "bonusFireDefense": 4,
       "category": "accessory",
       "defense": 50,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 6,
       "fireDamageBonus": 6,
@@ -24323,6 +25189,11 @@
       "category": "weapon",
       "damage": "130-216",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 5,
       "fireDamageBonus": 20,
@@ -24418,6 +25289,11 @@
       "armorType": "Golden",
       "category": "armor",
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 82,
       "healthRegen": 8,
@@ -24436,6 +25312,11 @@
       "category": "weapon",
       "damage": "12-16",
       "dexterity": 5,
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 5,
@@ -24605,6 +25486,11 @@
       "damage": "33-46",
       "defense": 5,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "793,59,-3350",
+        "name": "Nodguj Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "50-68",
       "fireDamageBonus": 15,
@@ -24735,6 +25621,11 @@
       "armorType": "Diamond",
       "bonusFireDefense": -20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 2350,
       "identified": true,
@@ -25642,6 +26533,11 @@
       "airDefense": 25,
       "bonusAirDefense": 6,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 80,
@@ -25744,6 +26640,11 @@
       "category": "weapon",
       "damage": "25-25",
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "jumpHeight": 1,
       "level": 83,
@@ -26010,6 +26911,11 @@
       "category": "accessory",
       "dexterity": 60,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "intelligence": 60,
       "intelligencePoints": 5,
@@ -26025,6 +26931,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 15,
@@ -26107,6 +27018,11 @@
       "category": "weapon",
       "damage": "0-15",
       "defense": 25,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "35-40",
       "healthRegenRaw": -55,
@@ -26126,6 +27042,11 @@
       "category": "weapon",
       "defense": 28,
       "dexterity": 28,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "95-105",
       "fireDamageBonus": 20,
@@ -26165,6 +27086,11 @@
       "bonusThunderDefense": 4,
       "category": "accessory",
       "defense": 5,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "earthDefense": 40,
@@ -26201,6 +27127,11 @@
       "armorType": "Golden",
       "category": "armor",
       "defensePoints": 2,
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 3,
@@ -26254,6 +27185,11 @@
       "bonusAirDefense": 64,
       "category": "weapon",
       "damage": "64-64",
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "jumpHeight": 1,
       "level": 105,
@@ -26335,6 +27271,11 @@
       "category": "weapon",
       "damage": "6-8",
       "dexterity": 5,
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "healthRegen": -5,
@@ -26495,6 +27436,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "12-17",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "6-11",
       "identified": true,
@@ -26664,6 +27610,11 @@
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
       "damage": "34-63",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "137-194",
       "identified": true,
@@ -26686,6 +27637,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 28,
       "healthRegen": 6,
@@ -26741,6 +27697,11 @@
       "damage": "90-120",
       "defense": 50,
       "defensePoints": 6,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 25,
       "fireDamage": "80-95",
@@ -26950,6 +27911,11 @@
       "category": "armor",
       "defense": 40,
       "dexterityPoints": -30,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 225,
@@ -27062,6 +28028,11 @@
       "category": "armor",
       "dexterity": 30,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 2225,
       "identified": true,
@@ -27302,8 +28273,8 @@
       "bonusFireDefense": 20,
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -27323,6 +28294,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "18-24",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 2,
@@ -27387,6 +28363,11 @@
       "category": "weapon",
       "damage": "55-150",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 20,
       "fireDamage": "25-75",
@@ -27519,6 +28500,11 @@
       "category": "weapon",
       "dexterity": 50,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 87,
@@ -28300,6 +29286,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 67,
@@ -28517,6 +29508,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "health": 3375,
       "healthRegen": -18,
@@ -28663,8 +29659,8 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -28684,6 +29680,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "This rough looking bracelet utilizes electromagic to expose its wearer to earth's heartbeat. You can feel a rhythm with each step...",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 11,
       "earthDefense": 50,
@@ -28702,6 +29703,11 @@
       "addedLore": "This improved version of a bracelet utilizes rare electromagic to expose its wearer to earth's heartbeat. You notice a rhythm with each step...",
       "bonusEarthDefense": 12,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "earthDefense": 60,
@@ -28718,6 +29724,11 @@
       "accessoryType": "Ring",
       "addedLore": "This improved ring utilizes electromagic to expose its wearer to earth's heartbeat. You can sense a rhythm with each step...",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 40,
       "exploding": 8,
@@ -28746,6 +29757,11 @@
       "category": "accessory",
       "defense": 15,
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 35,
       "fireDefense": 35,
@@ -28772,6 +29788,11 @@
       "defensePoints": 4,
       "dexterity": 15,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 5,
       "fireDefense": 5,
@@ -28796,6 +29817,11 @@
       "category": "accessory",
       "defense": 15,
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 10,
       "fireDefense": 10,
@@ -28819,6 +29845,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "You'll fight strong like the tide, the merchant said. Indeed, you begin to notice how your senses sharpen. But is that the limit...?",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 75,
@@ -28837,6 +29868,11 @@
       "accessoryType": "Necklace",
       "addedLore": "You'll be wise like the sea, the merchant said. Indeed, you begin to notice how your senses sharpen. But is that the limit...?",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 75,
@@ -28856,6 +29892,11 @@
       "addedLore": "You'll move quick like a river, the merchant insisted. Indeed, you begin to notice how your senses sharpen. But is that the limit...?",
       "bonusWaterDefense": 7,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 75,
@@ -28876,6 +29917,11 @@
       "category": "accessory",
       "defense": 75,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "exploding": 5,
       "fireDamageBonus": 9,
@@ -28895,6 +29941,11 @@
       "category": "accessory",
       "defense": 75,
       "defensePoints": 9,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "fireDefense": 90,
@@ -28914,6 +29965,11 @@
       "category": "accessory",
       "defense": 75,
       "defensePoints": 2,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDefense": 50,
       "health": 775,
@@ -28934,6 +29990,11 @@
       "category": "accessory",
       "dexterity": 75,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -350,
       "identified": true,
@@ -28952,6 +30013,11 @@
       "addedLore": "The strong shock coming from this improved version of the necklace is a small price for its strength, but it has yet to reach its peak.",
       "category": "accessory",
       "dexterity": 75,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -28970,6 +30036,11 @@
       "category": "accessory",
       "dexterity": 75,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -280,
       "healthRegen": -7,
@@ -28992,6 +30063,11 @@
       "airDefense": 105,
       "bonusAirDefense": 10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -29010,6 +30086,11 @@
       "airDefense": 75,
       "bonusAirDefense": 10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -180,
       "identified": true,
@@ -29030,6 +30111,11 @@
       "airDefense": 35,
       "bonusAirDefense": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -180,
       "identified": true,
@@ -29113,6 +30199,11 @@
       "category": "accessory",
       "defense": 20,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-1484,43,-4725",
+        "name": "Bucie",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 45,
@@ -29127,6 +30218,11 @@
       "airDefense": 50,
       "category": "accessory",
       "defense": 25,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "earthDefense": 50,
@@ -29407,6 +30503,11 @@
       "bonusEarthDefense": 5,
       "category": "weapon",
       "damage": "100-180",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "50-90",
       "emeraldStealing": 2,
@@ -29478,6 +30579,11 @@
       "airDefense": 30,
       "bonusWaterDefense": -10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "health": 525,
@@ -29709,6 +30815,11 @@
       "armorType": "Chain",
       "category": "armor",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "991,38,-3455",
+        "name": "Dujgon Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "fireDefense": -60,
@@ -29935,6 +31046,11 @@
       "category": "accessory",
       "defensePoints": 1,
       "dexterityPoints": 1,
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 1,
@@ -29972,6 +31088,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "12-16",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "2-6",
       "healthBonus": 15,
@@ -30027,6 +31148,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 6,
       "fireDefense": 15,
@@ -30693,6 +31819,11 @@
       "category": "weapon",
       "damage": "74-84",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 23,
@@ -30816,6 +31947,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "30-40",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 71,
@@ -31144,6 +32280,11 @@
       "armorType": "Iron",
       "bonusEarthDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 75,
@@ -31373,8 +32514,8 @@
       "category": "weapon",
       "damage": "714-1114",
       "dropMeta": {
-        "coordinates": "-711,58,-657",
-        "name": "Tribal Sanctuary",
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
         "type": "altar"
       },
       "dropType": "never",
@@ -31629,6 +32770,11 @@
       "defense": 40,
       "dexterityPoints": -30,
       "displayName": "Eden-Blessed Guards",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "fireDefense": 300,
@@ -31663,6 +32809,11 @@
       "category": "armor",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDamageBonus": 10,
       "fireDefense": 250,
@@ -32077,6 +33228,11 @@
       "attackSpeed": "SUPER_FAST",
       "bonusFireDefense": -20,
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -1200,
       "identified": true,
@@ -32314,6 +33470,11 @@
       "armorType": "Golden",
       "bonusAirDefense": 6,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -30,
       "health": 375,
@@ -32330,6 +33491,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "Stability is not necessarily found in stasis, but predictability.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 35,
       "level": 60,
@@ -32350,6 +33516,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 5,
       "emeraldStealing": 3,
@@ -32509,6 +33680,11 @@
       "agility": 15,
       "agilityPoints": 2,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1484,43,-4725",
+        "name": "Bucie",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 44,
@@ -32596,7 +33772,7 @@
       "category": "weapon",
       "damage": "0-1",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -32617,6 +33793,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 315,
       "identified": true,
@@ -32637,6 +33818,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1025,
       "identified": true,
@@ -32706,6 +33892,11 @@
       "attackSpeedBonus": 1,
       "category": "armor",
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 80,
       "health": 2400,
@@ -32782,6 +33973,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": -40,
@@ -32835,6 +34031,11 @@
       "damage": "32-40",
       "dexterity": 30,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 30,
@@ -33077,6 +34278,11 @@
       "bonusWaterDefense": 25,
       "category": "weapon",
       "damage": "65-95",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 55,
@@ -33257,7 +34463,7 @@
       "category": "weapon",
       "dexterityPoints": 2,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -34372,6 +35578,11 @@
       "damage": "51-101",
       "defense": 70,
       "defensePoints": 11,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamage": "51-101",
       "fireDamageBonus": 11,
@@ -34443,6 +35654,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -100,
       "health": 1600,
@@ -34465,6 +35681,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "250-300",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -34488,6 +35709,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "200-260",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -34511,6 +35737,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "260-290",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -34534,6 +35765,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "160-210",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -34557,6 +35793,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "125-150",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -34608,6 +35849,11 @@
       "category": "accessory",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "earthDefense": 55,
@@ -34682,6 +35928,11 @@
       "defense": 55,
       "defensePoints": 10,
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 150,
       "fireDefense": 150,
@@ -34723,6 +35974,11 @@
       "addedLore": "The runes carved into this simple gold ring translate into various words meaning power. It amplifies elemental energies in inexplicable ways.",
       "airDamageBonus": 15,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "fireDamageBonus": 15,
@@ -34761,6 +36017,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 30,
@@ -35076,6 +36337,11 @@
       "category": "armor",
       "defense": 35,
       "defensePoints": 9,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 120,
       "fireDefense": 110,
@@ -35182,6 +36448,11 @@
       "category": "weapon",
       "damage": "425-845",
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -1750,
       "identified": true,
@@ -35201,6 +36472,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "5-10",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 200,
       "identified": true,
@@ -35481,6 +36757,11 @@
       "bonusWaterDefense": -12,
       "category": "weapon",
       "damage": "100-170",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 4,
       "identified": true,
@@ -35499,6 +36780,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 2,
       "fireDefense": 2,
@@ -35522,6 +36808,11 @@
       "bonusThunderDefense": 6,
       "bonusWaterDefense": 6,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 10,
       "fireDefense": 10,
@@ -35971,8 +37262,8 @@
       "defense": 10,
       "dexterityPoints": -15,
       "dropMeta": {
-        "coordinates": "-911,73,-1068",
-        "name": "Altar of Sanctification",
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
         "type": "altar"
       },
       "dropType": "never",
@@ -36276,6 +37567,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "health": -1000,
       "healthRegenRaw": 173,
@@ -36423,6 +37719,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "30-50",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 6,
       "identified": true,
@@ -37168,6 +38469,11 @@
       "category": "armor",
       "dexterity": 50,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 18,
       "earthDefense": 30,
@@ -37193,8 +38499,8 @@
       "category": "accessory",
       "dexterityPoints": 3,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -37242,6 +38548,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "50-80",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "intelligence": 60,
       "intelligencePoints": 8,
@@ -37553,6 +38864,11 @@
       "accessoryType": "Necklace",
       "addedLore": "This medallion marks its wearer as a true champion. It is awarded to those who have put an unnecessary amount of time into attempting the Legendary Challenge.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "level": 100,
       "material": "259:19",
@@ -37810,6 +39126,11 @@
       "defensePoints": -10,
       "dexterity": 35,
       "dexterityPoints": 7,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 10,
       "health": 1050,
@@ -37975,8 +39296,8 @@
       "accessoryType": "Bracelet",
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -38311,6 +39632,11 @@
       "accessoryType": "Necklace",
       "category": "accessory",
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": -5,
       "identified": true,
@@ -38703,6 +40029,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -38716,6 +40047,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 600,
       "healthRegen": 20,
@@ -38736,6 +40072,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 30,
       "health": 790,
@@ -38776,6 +40117,11 @@
       "bonusEarthDefense": 30,
       "bonusWaterDefense": 30,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 12,
       "earthDefense": 120,
@@ -39082,6 +40428,11 @@
       "category": "weapon",
       "damage": "21-44",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": -188,
       "identified": true,
@@ -39226,6 +40577,11 @@
       "category": "weapon",
       "damage": "10-20",
       "defense": 5,
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "12-18",
       "healthRegen": 12,
@@ -39298,6 +40654,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1350,
       "identified": true,
@@ -39317,6 +40678,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 3,
@@ -39384,6 +40750,11 @@
       "damage": "0-345",
       "defense": 25,
       "defensePoints": 6,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 30,
       "fireDamage": "0-445",
@@ -39558,6 +40929,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 34,
       "identified": true,
@@ -39831,6 +41207,11 @@
       "category": "armor",
       "defense": 50,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 40,
       "earthDefense": 150,
@@ -39923,6 +41304,11 @@
       "category": "weapon",
       "damage": "25-25",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDamage": "105-145",
       "healthBonus": -1200,
@@ -40166,6 +41552,11 @@
       "category": "armor",
       "defense": 30,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 20,
       "fireDefense": 100,
@@ -40188,6 +41579,11 @@
       "armorType": "Leather",
       "category": "armor",
       "displayName": "Mask of Enlightenment",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 750,
       "identified": true,
@@ -40215,6 +41611,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1000,
       "identified": true,
@@ -40235,6 +41636,11 @@
       "category": "armor",
       "dexterity": 30,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1100,
       "identified": true,
@@ -40255,6 +41661,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 40,
@@ -40419,7 +41830,7 @@
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -40499,6 +41910,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "34-52",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 25,
@@ -40786,6 +42202,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 100,
       "identified": true,
@@ -40843,6 +42264,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 18,
       "identified": true,
@@ -40863,6 +42289,11 @@
       "category": "armor",
       "defense": 10,
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 50,
@@ -40998,6 +42429,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 24,
       "identified": true,
@@ -41017,6 +42453,11 @@
       "defensePoints": 4,
       "dexterity": 40,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -80,
       "fireDefense": 80,
@@ -41041,6 +42482,11 @@
       "category": "weapon",
       "damage": "300-320",
       "defensePoints": -4,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "270-360",
       "exploding": 25,
@@ -41077,6 +42523,11 @@
       "addedLore": "What you have seen will mark you forever.",
       "airDefense": 20,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "fireDefense": 20,
@@ -41186,6 +42637,11 @@
       "category": "accessory",
       "dexterity": 35,
       "dexterityPoints": 1,
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 85,
@@ -41328,6 +42784,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 60,
@@ -41381,6 +42842,11 @@
       "category": "weapon",
       "damage": "144-240",
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "72-120",
       "fireDamageBonus": 25,
@@ -41542,6 +43008,11 @@
       "agilityPoints": 4,
       "airDamageBonus": 3,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 30,
       "identified": true,
@@ -41750,6 +43221,11 @@
       "category": "armor",
       "defensePoints": 3,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 40,
       "fireDefense": 40,
@@ -41991,6 +43467,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 65,
@@ -42038,6 +43519,11 @@
       "bonusWaterDefense": 25,
       "category": "weapon",
       "damage": "40-50",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 25,
       "identified": true,
@@ -42509,6 +43995,11 @@
       "attackSpeed": "SUPER_SLOW",
       "category": "weapon",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "510-550",
       "exploding": 25,
@@ -42605,8 +44096,8 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -43308,6 +44799,11 @@
       "armorType": "Leather",
       "bonusThunderDefense": -6,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 80,
       "identified": true,
@@ -43560,6 +45056,11 @@
       "armorType": "Leather",
       "bonusFireDefense": -7,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -4,
       "health": 65,
@@ -44115,6 +45616,11 @@
       "armorType": "Chain",
       "category": "armor",
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 310,
       "healthRegenRaw": -15,
@@ -44293,6 +45799,11 @@
       "bonusFireDefense": 20,
       "category": "armor",
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "793,59,-3350",
+        "name": "Nodguj Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 10,
@@ -44314,6 +45825,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "25-45",
+      "dropMeta": {
+        "coordinates": "793,59,-3350",
+        "name": "Nodguj Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -200,
       "identified": true,
@@ -44416,6 +45932,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 60,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "health": 4000,
       "intelligence": 30,
@@ -44806,6 +46327,11 @@
       "category": "armor",
       "defense": 40,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 225,
@@ -44835,6 +46361,11 @@
       "airDamageBonus": 15,
       "airDefense": 50,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDefense": -60,
       "intelligence": 50,
@@ -44942,6 +46473,11 @@
       "damage": "21-51",
       "dexterity": 35,
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -30,
       "identified": true,
@@ -45065,8 +46601,8 @@
       "category": "weapon",
       "defense": 15,
       "dropMeta": {
-        "coordinates": "-911,73,-1068",
-        "name": "Altar of Sanctification",
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
         "type": "altar"
       },
       "dropType": "never",
@@ -45479,8 +47015,8 @@
       "defense": 85,
       "defensePoints": 7,
       "dropMeta": {
-        "coordinates": "-911,73,-1068",
-        "name": "Altar of Sanctification",
+        "coordinates": "-711,58,-657",
+        "name": "Tribal Sanctuary",
         "type": "altar"
       },
       "dropType": "never",
@@ -45743,6 +47279,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "22-28",
+      "dropMeta": {
+        "coordinates": "-1997,81,-528",
+        "name": "LLevigar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegen": 10,
       "identified": true,
@@ -45822,6 +47363,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2250,
       "identified": true,
@@ -47007,6 +48553,11 @@
       "category": "weapon",
       "damage": "100-100",
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDamage": "150-250",
       "fireDamageBonus": 20,
@@ -47314,6 +48865,11 @@
       "category": "accessory",
       "defense": 10,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-1484,43,-4725",
+        "name": "Bucie",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 70,
       "identified": true,
@@ -47797,6 +49353,11 @@
       "category": "weapon",
       "damage": "8-24",
       "dexterityPoints": 1,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 12,
@@ -47852,6 +49413,11 @@
       "bonusEarthDefense": 15,
       "category": "weapon",
       "damage": "180-255",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "60-85",
       "identified": true,
@@ -48178,6 +49744,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-881,67,-1575",
+        "name": "Ragni",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 8,
       "identified": true,
@@ -48331,6 +49902,11 @@
       "damage": "150-245",
       "dexterity": 45,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": -75,
       "identified": true,
@@ -48413,6 +49989,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2500,
       "healthRegen": 25,
@@ -48590,6 +50171,11 @@
       "armorType": "Golden",
       "bonusWaterDefense": 12,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 130,
       "identified": true,
@@ -48698,8 +50284,8 @@
       "airDefense": 5,
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -48719,6 +50305,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 30,
@@ -48972,6 +50563,11 @@
       "bonusEarthDefense": 21,
       "bonusThunderDefense": -35,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 140,
       "fireDefense": -70,
@@ -49315,6 +50911,11 @@
       "agility": 40,
       "agilityPoints": 3,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "level": 80,
       "mainAttackDamageBonus": -10,
@@ -49335,6 +50936,11 @@
       "category": "accessory",
       "defensePoints": 4,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 425,
       "identified": true,
@@ -49637,6 +51243,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "10-12",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 9,
@@ -50522,6 +52133,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1051,51,-5003",
+        "name": "Efilim",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 69,
@@ -50552,6 +52168,11 @@
       "category": "weapon",
       "damage": "11-16",
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "717,69,-2076",
+        "name": "Bremminglar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 18,
@@ -50637,6 +52258,11 @@
       "defense": 55,
       "defensePoints": 12,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "health": 4650,
@@ -50713,6 +52339,11 @@
       "damage": "25-35",
       "dexterity": 10,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-1997,81,-528",
+        "name": "LLevigar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "15-20",
       "identified": true,
@@ -50880,8 +52511,8 @@
       "dexterity": 60,
       "dexterityPoints": 20,
       "dropMeta": {
-        "coordinates": "-711,58,-657",
-        "name": "Tribal Sanctuary",
+        "coordinates": "-911,73,-1068",
+        "name": "Altar of Sanctification",
         "type": "altar"
       },
       "dropType": "never",
@@ -50935,6 +52566,11 @@
       "agilityPoints": 2,
       "airDefense": 20,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": -600,
       "identified": true,
@@ -51132,6 +52768,11 @@
       "armorType": "Leather",
       "bonusAirDefense": -7,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "earthDefense": 5,
@@ -51318,6 +52959,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -90,
       "health": 2675,
@@ -51434,6 +53080,11 @@
       "airDefense": 30,
       "bonusFireDefense": -5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 81,
@@ -51632,6 +53283,11 @@
       "airDefense": -45,
       "attackSpeedBonus": 1,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDamageBonus": 11,
       "earthDefense": 65,
@@ -51668,6 +53324,11 @@
       "category": "weapon",
       "damage": "240-300",
       "defensePoints": -10,
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 44,
@@ -51688,6 +53349,11 @@
       "agility": 45,
       "airDefense": 30,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "health": -400,
       "intelligence": 45,
@@ -51705,6 +53371,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 140,
       "healthRegen": 8,
@@ -51742,6 +53413,11 @@
       "category": "weapon",
       "damage": "140-140",
       "defense": 70,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamage": "140-140",
       "fireDamageBonus": 22,
@@ -52122,6 +53798,11 @@
       "category": "weapon",
       "damage": "17-31",
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 9,
@@ -52222,6 +53903,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "80-125",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 25,
@@ -52299,6 +53985,11 @@
       "category": "weapon",
       "damage": "50-65",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 25,
       "identified": true,
@@ -52780,6 +54471,11 @@
       "bonusAirDefense": 10,
       "category": "weapon",
       "damage": "20-23",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 21,
@@ -53019,6 +54715,11 @@
       "bonusElementalDefense": 6,
       "category": "accessory",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "health": 425,
       "level": 93,
@@ -53037,6 +54738,11 @@
       "damage": "30-60",
       "defense": 55,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "80-100",
       "healthBonus": 2500,
@@ -53267,6 +54973,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "fireDefense": 10,
@@ -53584,6 +55295,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 80,
@@ -53620,6 +55336,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 3,
@@ -53825,6 +55546,11 @@
       "bonusEarthDefense": 15,
       "category": "weapon",
       "damage": "150-250",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "150-250",
       "identified": true,
@@ -53865,8 +55591,8 @@
       "bonusEarthDefense": 17,
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -53924,6 +55650,11 @@
       "category": "armor",
       "defense": 35,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 100,
       "health": 3500,
@@ -54158,6 +55889,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "20-35",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "30-50",
       "healthRegen": -16,
@@ -54190,6 +55926,11 @@
       "accessoryType": "Necklace",
       "airDamageBonus": -6,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 20,
@@ -54259,6 +56000,11 @@
       "category": "armor",
       "defense": 15,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 50,
@@ -54538,6 +56284,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "991,38,-3455",
+        "name": "Dujgon Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 150,
       "identified": true,
@@ -55583,6 +57334,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "10-28",
+      "dropMeta": {
+        "coordinates": "717,69,-2076",
+        "name": "Bremminglar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -40,
       "identified": true,
@@ -55691,6 +57447,11 @@
       "bonusThunderDefense": -8,
       "category": "accessory",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "-688,64,-749",
+        "name": "Iboju Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 6,
       "fireDefense": 25,
@@ -55877,8 +57638,8 @@
       "category": "weapon",
       "defense": 30,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -55987,6 +57748,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "10-18",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 10,
@@ -56093,6 +57859,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-601,65,-5443",
+        "name": "Lexdale",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 30,
@@ -56184,6 +57955,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 180,
       "identified": true,
@@ -56235,6 +58011,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 150,
       "identified": true,
@@ -56274,6 +58055,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 335,
       "identified": true,
@@ -56332,6 +58118,11 @@
       "defense": 20,
       "defensePoints": 4,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "21-32",
       "identified": true,
@@ -56369,6 +58160,11 @@
       "category": "armor",
       "defense": 25,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 5,
       "fireDamageBonus": 15,
@@ -56436,6 +58232,11 @@
       "armorType": "Golden",
       "attackSpeedBonus": 1,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 270,
       "identified": true,
@@ -56462,6 +58263,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-156,72,-1630",
+        "name": "Alkin Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 5,
@@ -56570,6 +58376,11 @@
       "defense": 25,
       "dexterity": 40,
       "dexterityPoints": 10,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "0-100",
       "healthBonus": -1100,
@@ -56588,6 +58399,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 125,
       "identified": true,
@@ -57031,6 +58847,11 @@
       "armorColor": "160,101,64",
       "armorType": "Leather",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 85,
       "healthRegenRaw": 5,
@@ -57049,6 +58870,11 @@
       "bonusAirDefense": -13,
       "category": "weapon",
       "damage": "45-75",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "identified": true,
@@ -57093,6 +58919,11 @@
       "category": "weapon",
       "damage": "80-160",
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 94,
@@ -57403,6 +59234,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 15,
+      "dropMeta": {
+        "coordinates": "793,59,-3350",
+        "name": "Nodguj Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 15,
       "fireDefense": 15,
@@ -57485,6 +59321,11 @@
       "category": "weapon",
       "defense": 18,
       "dexterity": 18,
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "235-255",
       "fireDamage": "240-250",
@@ -57790,6 +59631,11 @@
       "category": "weapon",
       "damage": "50-350",
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 22,
       "identified": true,
@@ -57847,6 +59693,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "130-185",
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "65-110",
       "identified": true,
@@ -57994,6 +59845,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 90,
       "health": 1700,
@@ -58095,6 +59951,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2300,
       "identified": true,
@@ -58158,7 +60019,7 @@
       "category": "accessory",
       "defense": 5,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -58180,6 +60041,11 @@
       "bonusFireDefense": 40,
       "bonusWaterDefense": 30,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": 200,
       "health": 3250,
@@ -58229,6 +60095,11 @@
       "bonusWaterDefense": 20,
       "category": "weapon",
       "damage": "150-160",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 1000,
       "identified": true,
@@ -58286,6 +60157,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "This rough looking bracelet utilizes electromagic to expose its wearer to earth's heartbeat. Though for now, it remains a whispering.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "earthDefense": 40,
@@ -58304,6 +60180,11 @@
       "addedLore": "This crude looking necklace utilizes electromagic to expose its wearer to earth's heartbeat. Though for now, it remains quiet.",
       "bonusEarthDefense": 8,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "earthDefense": 50,
@@ -58320,6 +60201,11 @@
       "accessoryType": "Ring",
       "addedLore": "This crude looking ring utilizes electromagic to expose its wearer to earth's heartbeat. Though for now, it remains a whispering.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "identified": true,
@@ -58347,6 +60233,11 @@
       "category": "accessory",
       "defense": 10,
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "fireDefense": 20,
@@ -58372,6 +60263,11 @@
       "defensePoints": 3,
       "dexterity": 10,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 10,
@@ -58391,6 +60287,11 @@
       "category": "accessory",
       "defense": 10,
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "healthBonus": 250,
       "identified": true,
@@ -58410,6 +60311,11 @@
       "accessoryType": "Bracelet",
       "addedLore": "You'll fight strong like the tide, the merchant said. Although you notice the built-in device's abilities, you feel space for an upgrade.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 50,
@@ -58428,6 +60334,11 @@
       "accessoryType": "Necklace",
       "addedLore": "You'll be wise like the sea, the merchant said. Although you notice the built-in device's abilities, you feel space for an upgrade.",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 50,
@@ -58445,6 +60356,11 @@
       "addedLore": "You'll move quick like a river, the merchant said. Although you notice the built-in device's abilities, you feel space for an upgrade.",
       "bonusWaterDefense": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 50,
@@ -58484,6 +60400,11 @@
       "category": "accessory",
       "defense": 50,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDamageBonus": 6,
       "fireDefense": 50,
@@ -58502,6 +60423,11 @@
       "category": "accessory",
       "defense": 50,
       "defensePoints": 6,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDefense": 70,
       "health": 750,
@@ -58518,6 +60444,11 @@
       "category": "accessory",
       "defense": 50,
       "defensePoints": 1,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "fireDefense": 40,
       "health": 550,
@@ -58561,6 +60492,11 @@
       "category": "accessory",
       "dexterity": 50,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -280,
       "identified": true,
@@ -58579,6 +60515,11 @@
       "addedLore": "Though it's hard to touch the plain, tech-enhanced necklace without experiencing a little shock, its capabilities intrigue you...",
       "category": "accessory",
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -58596,6 +60537,11 @@
       "category": "accessory",
       "dexterity": 50,
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -210,
       "identified": true,
@@ -58616,6 +60562,11 @@
       "airDefense": 90,
       "bonusAirDefense": 8,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "identified": true,
       "level": 95,
@@ -58633,6 +60584,11 @@
       "airDefense": 60,
       "bonusAirDefense": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -120,
       "identified": true,
@@ -58653,6 +60609,11 @@
       "airDefense": 20,
       "bonusAirDefense": 3,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1113,65,-2426",
+        "name": "Legendary Island",
+        "type": "challenge"
+      },
       "dropType": "never",
       "health": -120,
       "identified": true,
@@ -58704,6 +60665,11 @@
       "airDefense": 30,
       "bonusAirDefense": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 89,
@@ -58744,6 +60710,11 @@
       "addedLore": "An anomaly of replication, for the assemblers who seek purpose outside of reality.",
       "category": "accessory",
       "defense": 45,
+      "dropMeta": {
+        "coordinates": "1193,64,-947",
+        "name": "The Nameless Anomaly",
+        "type": "raid"
+      },
       "dropType": "never",
       "earthDefense": -70,
       "fireDefense": -90,
@@ -59383,6 +61354,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "defensePoints": 12,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -50,
       "fireDefense": 50,
@@ -59405,6 +61381,11 @@
       "damage": "57-63",
       "defense": 25,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "110-130",
       "healthBonus": 2750,
@@ -59472,6 +61453,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 100,
       "identified": true,
@@ -59580,6 +61566,11 @@
       "attackSpeed": "SUPER_FAST",
       "category": "weapon",
       "damage": "19-28",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 71,
@@ -59913,6 +61904,11 @@
       "bonusEarthDefense": 7,
       "bonusFireDefense": 7,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1484,43,-4725",
+        "name": "Bucie",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 6,
       "earthDefense": 10,
@@ -60517,6 +62513,11 @@
       "damage": "160-250",
       "defense": 50,
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "80-130",
       "healthBonus": 1600,
@@ -60612,6 +62613,11 @@
       "armorType": "Leather",
       "category": "armor",
       "defensePoints": 2,
+      "dropMeta": {
+        "coordinates": "-881,67,-1575",
+        "name": "Ragni",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 14,
       "identified": true,
@@ -60671,6 +62677,11 @@
       "bonusFireDefense": 10,
       "bonusThunderDefense": 10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 110,
@@ -60874,6 +62885,11 @@
       "category": "armor",
       "defense": 50,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDefense": 150,
       "health": 3800,
@@ -60970,6 +62986,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "dexterity": 60,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "level": 82,
       "mainAttackDamageBonus": 15,
@@ -61126,6 +63147,11 @@
       "bonusThunderDefense": 15,
       "category": "armor",
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 2000,
       "identified": true,
@@ -61182,6 +63208,11 @@
       "defense": 50,
       "defensePoints": 10,
       "dexterityPoints": 20,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDefense": 150,
       "health": 3850,
@@ -61440,7 +63471,7 @@
       "agilityPoints": 4,
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -61458,7 +63489,7 @@
       "airDefense": 3,
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -61477,6 +63508,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 185,
       "healthRegen": 10,
@@ -61493,7 +63529,7 @@
       "category": "accessory",
       "dexterityPoints": 4,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -61509,7 +63545,7 @@
       "category": "weapon",
       "damage": "40-52",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -61648,7 +63684,7 @@
       "category": "armor",
       "dexterityPoints": 3,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -61688,8 +63724,8 @@
       "agilityPoints": 2,
       "category": "accessory",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -61755,6 +63791,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "15-18",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 10,
@@ -62239,6 +64280,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "7-10",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegen": 8,
       "identified": true,
@@ -62275,6 +64321,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "health": 370,
@@ -62295,6 +64346,11 @@
       "airDefense": 20,
       "category": "accessory",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-1484,43,-4725",
+        "name": "Bucie",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 20,
       "fireDefense": 20,
@@ -62314,6 +64370,11 @@
       "bonusAirDefense": -12,
       "category": "armor",
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 14,
       "earthDefense": 140,
@@ -62620,6 +64681,11 @@
       "category": "armor",
       "dexterity": 55,
       "displayName": "Static-Charged Leggings",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDefense": -100,
       "health": 2050,
@@ -62707,6 +64773,11 @@
       "category": "accessory",
       "dexterity": 25,
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -8,
       "identified": true,
@@ -62794,6 +64865,11 @@
       "category": "armor",
       "defense": 45,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 16,
       "earthDefense": 50,
@@ -62964,6 +65040,11 @@
       "category": "accessory",
       "defense": 40,
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 10,
       "fireDefense": 25,
@@ -62982,6 +65063,11 @@
       "agility": 25,
       "category": "accessory",
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": -7,
       "identified": true,
@@ -63016,6 +65102,11 @@
       "accessoryType": "Ring",
       "addedLore": "Each one is welded stuck to just one letter. Apparently, to decode the special Rymek message, you need to buy twenty six. ...do they think you're a fool?",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 60,
       "identified": true,
@@ -63033,6 +65124,11 @@
       "armorType": "Diamond",
       "bonusWaterDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "health": 2500,
       "identified": true,
@@ -63059,7 +65155,7 @@
       "damage": "10-18",
       "defense": 5,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -63146,7 +65242,7 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -63168,6 +65264,11 @@
       "bonusWaterDefense": -20,
       "category": "weapon",
       "damage": "100-113",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "145-175",
       "earthDamageBonus": 10,
@@ -63387,6 +65488,11 @@
       "bonusWaterDefense": 30,
       "category": "weapon",
       "damage": "40-60",
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 55,
@@ -63513,6 +65619,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "793,59,-3350",
+        "name": "Nodguj Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 150,
       "identified": true,
@@ -63654,6 +65765,11 @@
       "category": "weapon",
       "damage": "325-1015",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 92,
@@ -63672,6 +65788,11 @@
       "damage": "112-120",
       "dexterity": 20,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": -40,
       "identified": true,
@@ -63729,6 +65850,11 @@
       "bonusAirDefense": 8,
       "category": "weapon",
       "damage": "60-120",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -100,
       "identified": true,
@@ -63961,6 +66087,11 @@
       "accessoryType": "Bracelet",
       "category": "accessory",
       "defensePoints": -2,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 12,
       "earthDefense": 60,
@@ -63982,6 +66113,11 @@
       "category": "accessory",
       "defense": 30,
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "662,49,-4448",
+        "name": "The Canyon Colossus",
+        "type": "raid"
+      },
       "dropType": "never",
       "healthRegenRaw": 100,
       "intelligence": 60,
@@ -64092,6 +66228,11 @@
       "category": "weapon",
       "damage": "27-38",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 8,
       "fireDamage": "30-40",
@@ -64411,6 +66552,11 @@
       "armorColor": "160,101,64",
       "armorType": "Diamond",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 15,
       "earthDefense": 100,
@@ -64495,6 +66641,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 2,
       "health": 105,
@@ -64596,6 +66747,11 @@
       "agility": 35,
       "category": "accessory",
       "defense": 35,
+      "dropMeta": {
+        "coordinates": "-1977,63,-5615",
+        "name": "Nest of the Grootslangs",
+        "type": "raid"
+      },
       "dropType": "never",
       "healingEfficiency": 8,
       "health": 220,
@@ -64726,6 +66882,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "health": 3000,
       "level": 88,
@@ -64927,6 +67088,11 @@
       "category": "weapon",
       "damage": "45-65",
       "dexterityPoints": -8,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "50-110",
       "identified": true,
@@ -65310,6 +67476,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "56-66",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -65330,6 +67501,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "40-50",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -65350,6 +67526,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "86-90",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -65370,6 +67551,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "115-128",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -65390,6 +67576,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "70-90",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 15,
       "identified": true,
@@ -65636,6 +67827,11 @@
       "bonusEarthDefense": 10,
       "bonusWaterDefense": -10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 10,
       "earthDefense": 60,
@@ -65657,6 +67853,11 @@
       "category": "accessory",
       "defense": 50,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "fireDefense": 30,
@@ -65679,6 +67880,11 @@
       "bonusAirDefense": 10,
       "bonusThunderDefense": -10,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 82,
@@ -65697,6 +67903,11 @@
       "defense": 40,
       "defensePoints": 10,
       "dexterityPoints": -10,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "40-55",
       "fireDamage": "40-55",
@@ -65721,6 +67932,11 @@
       "category": "armor",
       "defense": 50,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 20,
       "fireDefense": 75,
@@ -65743,6 +67959,11 @@
       "bonusEarthDefense": 20,
       "bonusThunderDefense": -20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 75,
@@ -65769,6 +67990,11 @@
       "armorType": "Diamond",
       "bonusAirDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1900,
       "identified": true,
@@ -65793,6 +68019,11 @@
       "category": "armor",
       "defense": 40,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "earthDefense": 125,
@@ -65821,6 +68052,11 @@
       "damage": "150-280",
       "defense": 40,
       "defensePoints": 10,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 20,
       "fireDamage": "70-130",
@@ -65846,6 +68082,11 @@
       "damage": "120-126",
       "defense": 40,
       "dexterityPoints": -8,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "60-63",
       "earthDamageBonus": 15,
@@ -65868,6 +68109,11 @@
       "category": "weapon",
       "damage": "110-200",
       "defense": 40,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "60-95",
       "earthDamageBonus": 15,
@@ -65895,6 +68141,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "80-140",
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "50-70",
       "earthDamageBonus": 12,
@@ -65970,6 +68221,11 @@
       "damage": "63-69",
       "dexterity": 35,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "jumpHeight": 1,
@@ -66199,6 +68455,11 @@
       "category": "armor",
       "dexterity": 12,
       "dexterityPoints": 5,
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -3,
       "health": 135,
@@ -66455,6 +68716,11 @@
       "category": "weapon",
       "damage": "4-10",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "12-16",
       "healthBonus": 50,
@@ -66647,6 +68913,11 @@
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 750,
       "healthRegen": 15,
@@ -66783,6 +69054,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "2-5",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 3,
@@ -66908,6 +69184,11 @@
       "defensePoints": 8,
       "dexterity": 25,
       "dexterityPoints": 8,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2500,
       "identified": true,
@@ -66925,6 +69206,11 @@
     {
       "attackSpeed": "SLOW",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "24-28",
       "healthRegenRaw": 8,
@@ -67192,6 +69478,11 @@
       "bonusWaterDefense": 15,
       "category": "weapon",
       "damage": "80-95",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "40-50",
       "identified": true,
@@ -67248,6 +69539,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 40,
       "health": 900,
@@ -67307,7 +69603,6 @@
       "mainAttackDamageBonusRaw": 176,
       "name": "The Siren's Call",
       "quest": "Hollow Serenity",
-      "restrictions": "Untradable",
       "sockets": 2,
       "soulPoints": -27,
       "speed": 15,
@@ -67557,6 +69852,11 @@
       "category": "weapon",
       "damage": "95-105",
       "defense": 45,
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "98-102",
       "healthRegenRaw": 160,
@@ -67699,6 +69999,11 @@
       "category": "weapon",
       "damage": "81-87",
       "dexterity": 60,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "healthBonus": -1110,
       "intelligence": 60,
@@ -68212,6 +70517,11 @@
       "category": "armor",
       "defensePoints": -5,
       "dexterity": 45,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": -25,
       "fireDefense": -80,
@@ -68339,6 +70649,11 @@
       "defense": 40,
       "defensePoints": 3,
       "dexterityPoints": -2,
+      "dropMeta": {
+        "coordinates": "167,10,-5241",
+        "name": "Thanos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": 30,
       "health": 450,
@@ -68410,6 +70725,11 @@
       "agilityPoints": 3,
       "airDamageBonus": 5,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 28,
@@ -68423,6 +70743,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 5,
       "identified": true,
@@ -68436,6 +70761,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligencePoints": 3,
@@ -68451,6 +70781,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "dexterityPoints": 3,
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 28,
@@ -68464,6 +70799,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 5,
       "identified": true,
@@ -68748,6 +71088,11 @@
       "damage": "130-200",
       "defense": 30,
       "defensePoints": 5,
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 70,
       "healthBonus": 400,
@@ -69002,6 +71347,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "50-65",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -100,
       "identified": true,
@@ -69143,6 +71493,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-156,72,-1630",
+        "name": "Alkin Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegen": 6,
       "identified": true,
@@ -69209,6 +71564,11 @@
       "armorType": "Diamond",
       "category": "armor",
       "dexterity": 35,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "emeraldStealing": 5,
       "health": 2450,
@@ -69370,6 +71730,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "99,70,-3193",
+        "name": "Selchar",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 115,
       "healthRegenRaw": 5,
@@ -69474,6 +71839,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "21-24",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "3-6",
       "identified": true,
@@ -69513,6 +71883,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-299,49,-1159",
+        "name": "Tempo Town",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 12,
       "health": 315,
@@ -69616,6 +71991,11 @@
       "bonusFireDefense": 20,
       "category": "armor",
       "defensePoints": 7,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDefense": 100,
       "health": 2800,
@@ -69751,6 +72131,11 @@
       "category": "armor",
       "defensePoints": -30,
       "dexterity": 40,
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "earthDamageBonus": 25,
       "earthDefense": 175,
@@ -70257,6 +72642,11 @@
       "bonusThunderDefense": 6,
       "category": "weapon",
       "damage": "13-24",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 18,
@@ -70280,6 +72670,11 @@
       "category": "weapon",
       "damage": "46-58",
       "dexterity": 18,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 36,
@@ -70302,6 +72697,11 @@
       "category": "weapon",
       "damage": "9-13",
       "dexterity": 10,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 28,
@@ -70319,6 +72719,11 @@
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
       "damage": "56-62",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 35,
@@ -70337,6 +72742,11 @@
       "category": "weapon",
       "defense": 24,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "97-113",
       "fireDamageBonus": 6,
@@ -70358,6 +72768,11 @@
       "category": "weapon",
       "damage": "40-48",
       "defense": 10,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 4,
       "fireDamage": "36-50",
@@ -70377,6 +72792,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "60-70",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "60-70",
       "earthDamageBonus": 8,
@@ -70399,6 +72819,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "23-29",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegen": 8,
       "identified": true,
@@ -70430,6 +72855,11 @@
       "damage": "15-15",
       "defense": 7,
       "dexterity": 7,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "12-18",
       "earthDamageBonus": 5,
@@ -70481,6 +72911,11 @@
       "category": "weapon",
       "damage": "32-38",
       "defense": 25,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "32-52",
       "fireDamageBonus": 8,
@@ -70502,6 +72937,11 @@
       "category": "weapon",
       "damage": "40-66",
       "defense": 15,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "18-30",
       "healthRegen": 12,
@@ -70523,6 +72963,11 @@
       "category": "weapon",
       "damage": "38-40",
       "dexterity": 15,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 8,
       "identified": true,
@@ -70541,6 +72986,11 @@
       "category": "weapon",
       "damage": "50-64",
       "defense": 5,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "21-28",
       "earthDamageBonus": 6,
@@ -70565,6 +73015,11 @@
       "damage": "10-15",
       "defense": 10,
       "defensePoints": 9,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "3-6",
       "healthBonus": 130,
@@ -70588,6 +73043,11 @@
       "category": "weapon",
       "damage": "25-45",
       "dexterityPoints": 6,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 38,
@@ -70745,6 +73205,11 @@
       "airDamageBonus": 3,
       "airDefense": 6,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 3,
       "earthDefense": 6,
@@ -70829,6 +73294,11 @@
       "category": "armor",
       "dexterity": 20,
       "dexterityPoints": 2,
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -12,
       "health": 160,
@@ -70849,6 +73319,11 @@
       "category": "weapon",
       "damage": "200-225",
       "dexterity": 70,
+      "dropMeta": {
+        "coordinates": "1017,113,-4551",
+        "name": "Ahmsord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "300-340",
       "earthDamageBonus": 20,
@@ -70872,6 +73347,11 @@
       "bonusThunderDefense": 10,
       "category": "accessory",
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "level": 93,
       "manaRegen": -9,
@@ -70984,6 +73464,11 @@
     {
       "accessoryType": "Bracelet",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "933,117,-5494",
+        "name": "Eltom",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 91,
@@ -70999,6 +73484,11 @@
       "category": "armor",
       "defense": 20,
       "defensePoints": 4,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": -25,
       "health": 1100,
@@ -71320,6 +73810,11 @@
       "category": "accessory",
       "defense": 45,
       "dexterity": 55,
+      "dropMeta": {
+        "coordinates": "-732,100,-6412",
+        "name": "Orphion's Nexus of Light",
+        "type": "raid"
+      },
       "dropType": "never",
       "fireDamageBonus": 16,
       "level": 80,
@@ -71363,6 +73858,11 @@
       "category": "weapon",
       "damage": "28-40",
       "defensePoints": 3,
+      "dropMeta": {
+        "coordinates": "855,67,-1956",
+        "name": "Almuj",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamage": "20-40",
       "healthRegen": -12,
@@ -71489,6 +73989,11 @@
       "damage": "25-25",
       "defense": 55,
       "defensePoints": 8,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "elementalDefense": 35,
       "fireDamage": "75-125",
@@ -71615,6 +74120,11 @@
       "attackSpeed": "NORMAL",
       "category": "weapon",
       "damage": "17-29",
+      "dropMeta": {
+        "coordinates": "991,38,-3455",
+        "name": "Dujgon Nation",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 30,
       "healthBonus": -255,
@@ -71694,6 +74204,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-156,72,-1630",
+        "name": "Alkin Village",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 4,
@@ -71709,6 +74224,11 @@
       "bonusEarthDefense": 10,
       "category": "weapon",
       "damage": "80-115",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDamageBonus": 12,
       "identified": true,
@@ -71854,6 +74374,11 @@
       "armorType": "Iron",
       "bonusThunderDefense": -10,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-458,47,-4939",
+        "name": "Cinfras",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 1350,
       "identified": true,
@@ -71964,8 +74489,8 @@
       "category": "accessory",
       "defensePoints": -5,
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeonMerchant"
       },
       "dropType": "never",
@@ -72364,6 +74889,11 @@
       "airDamageBonus": 12,
       "airDefense": 40,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDefense": -40,
       "health": 400,
@@ -72385,6 +74915,11 @@
       "category": "armor",
       "defense": 35,
       "defensePoints": 6,
+      "dropMeta": {
+        "coordinates": "1122,13,-5189",
+        "name": "Rodoroc",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 100,
       "fireDefense": 100,
@@ -72528,6 +75063,11 @@
       "attackSpeed": "SLOW",
       "category": "weapon",
       "damage": "16-20",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": -10,
       "identified": true,
@@ -72574,6 +75114,11 @@
       "category": "weapon",
       "damage": "155-180",
       "defense": 16,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 20,
       "fireDamageBonus": 20,
@@ -72595,6 +75140,11 @@
       "damage": "320-457",
       "defensePoints": 2,
       "dexterityPoints": -3,
+      "dropMeta": {
+        "coordinates": "-805,70,-920",
+        "name": "Troms",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthBonus": 450,
       "healthRegenRaw": 40,
@@ -73091,6 +75641,11 @@
       "armorType": "Chain",
       "bonusWaterDefense": 20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1746,66,-5512",
+        "name": "Olux",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -45,
       "health": 675,
@@ -73199,7 +75754,7 @@
       "armorType": "Golden",
       "category": "armor",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -73228,7 +75783,7 @@
       "category": "weapon",
       "damage": "13-26",
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeonMerchant"
       },
@@ -73263,7 +75818,7 @@
       "dexterity": 5,
       "dexterityPoints": 7,
       "dropMeta": {
-        "coordinates": "-157,63,-1819",
+        "coordinates": "-157,54,-1819",
         "name": "Infested Pit",
         "type": "dungeon"
       },
@@ -73296,6 +75851,11 @@
       "category": "accessory",
       "dexterity": 25,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "1233,31,-1295",
+        "name": "Rymek",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 3,
       "health": 60,
@@ -73311,6 +75871,11 @@
       "armorColor": "160,101,64",
       "armorType": "Iron",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "fireDefense": -30,
       "health": 975,
@@ -73494,6 +76059,11 @@
       "airDamage": "15-24",
       "attackSpeed": "VERY_FAST",
       "category": "weapon",
+      "dropMeta": {
+        "coordinates": "111,44,-2199",
+        "name": "Nemract",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 18,
@@ -73601,6 +76171,11 @@
       "armorType": "Diamond",
       "bonusThunderDefense": -20,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "373,64,-5497",
+        "name": "The Qira Hive",
+        "type": "quest"
+      },
       "dropType": "never",
       "fireDamageBonus": -10,
       "health": 2300,
@@ -73788,6 +76363,11 @@
       "armorType": "Iron",
       "category": "armor",
       "defense": 35,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "exploding": 7,
       "fireDamageBonus": 15,
@@ -73871,8 +76451,8 @@
       "bonusFireDefense": -28,
       "category": "weapon",
       "dropMeta": {
-        "coordinates": "-11118,109,-10436",
-        "name": "Lost Sanctuary",
+        "coordinates": "-254,80,-1046",
+        "name": "Timelost Sanctum",
         "type": "dungeon"
       },
       "dropType": "dungeon",
@@ -73891,6 +76471,11 @@
       "attackSpeed": "FAST",
       "category": "weapon",
       "damage": "10-11",
+      "dropMeta": {
+        "coordinates": "433,69,-1580",
+        "name": "Detlas",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 8,
@@ -73945,6 +76530,11 @@
       "bonusAirDefense": 20,
       "category": "weapon",
       "damage": "100-140",
+      "dropMeta": {
+        "coordinates": "-1614,68,-2923",
+        "name": "Corkus",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 85,
@@ -74017,6 +76607,11 @@
       "category": "weapon",
       "damage": "14-42",
       "defensePoints": -8,
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "intelligence": 35,
@@ -74300,6 +76895,11 @@
       "damage": "205-235",
       "dexterity": 10,
       "dexterityPoints": 4,
+      "dropMeta": {
+        "coordinates": "-1022,49,-5305",
+        "name": "Gelibord",
+        "type": "merchant"
+      },
       "dropType": "never",
       "identified": true,
       "level": 61,
@@ -74316,6 +76916,11 @@
       "armorColor": "160,101,64",
       "armorType": "Golden",
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "112,78,-773",
+        "name": "Nesaak",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 425,
       "healthRegen": 10,
@@ -74333,6 +76938,11 @@
       "bonusFireDefense": -5,
       "category": "weapon",
       "damage": "65-125",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamage": "20-50",
       "identified": true,
@@ -74373,6 +76983,11 @@
       "bonusAirDefense": 14,
       "bonusWaterDefense": 14,
       "category": "armor",
+      "dropMeta": {
+        "coordinates": "795,82,-5086",
+        "name": "Thesead",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 2525,
       "healthRegenRaw": 190,
@@ -74531,6 +77146,11 @@
       "accessoryType": "Bracelet",
       "airDamageBonus": 4,
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-1663,49,-2352",
+        "name": "Relos",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 4,
       "fireDamageBonus": 4,
@@ -75014,6 +77634,11 @@
       "damage": "25-75",
       "defense": 65,
       "dexterity": 50,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
       "dropType": "never",
       "fireDamage": "250-350",
       "fireDamageBonus": 25,
@@ -75274,6 +77899,11 @@
       "accessoryType": "Necklace",
       "category": "accessory",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "healthRegenRaw": 10,
       "identified": true,
@@ -75291,6 +77921,11 @@
       "bonusWaterDefense": 10,
       "category": "accessory",
       "defense": 30,
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": 200,
       "healthRegenRaw": 15,
@@ -75313,6 +77948,11 @@
       "category": "accessory",
       "defense": 6,
       "dexterity": 6,
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDamageBonus": 7,
       "earthDefense": 5,
@@ -75339,6 +77979,11 @@
       "accessoryType": "Ring",
       "category": "accessory",
       "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "health": -65,
       "identified": true,
@@ -75353,6 +77998,11 @@
     {
       "accessoryType": "Ring",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "emeraldStealing": 1,
       "health": 100,
@@ -75368,6 +78018,11 @@
     {
       "accessoryType": "Necklace",
       "category": "accessory",
+      "dropMeta": {
+        "coordinates": "-533,39,-2747",
+        "name": "Zhight Island",
+        "type": "merchant"
+      },
       "dropType": "never",
       "earthDefense": 5,
       "identified": true,
