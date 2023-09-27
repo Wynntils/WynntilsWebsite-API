@@ -10900,7 +10900,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 65
+        "durabilityModifier": 45
       },
       "level": 83,
       "name": "Nose Ring",
@@ -12786,8 +12786,8 @@
     {
       "identifications": {
         "SPELLDAMAGE": {
-          "maximum": 6,
-          "minimum": 5
+          "maximum": 4,
+          "minimum": 3
         },
         "SPELLDAMAGERAW": {
           "maximum": 24,
@@ -16488,7 +16488,7 @@
         }
       },
       "itemOnlyIDs": {
-        "durabilityModifier": 50
+        "durabilityModifier": 60
       },
       "level": 35,
       "name": "Stolen Pearls",
