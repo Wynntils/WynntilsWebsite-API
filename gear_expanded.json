@@ -6988,6 +6988,32 @@
       "tier": "Unique"
     },
     {
+      "accessoryType": "Ring",
+      "agility": 30,
+      "airDefense": 20,
+      "category": "accessory",
+      "defense": 30,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "fireDefense": 20,
+      "healingPercent": 5,
+      "healthRegenRaw": 90,
+      "level": 94,
+      "lifeSteal": -145,
+      "majorIds": [
+        "COAGULATE"
+      ],
+      "material": "259:8",
+      "name": "Bloodborne",
+      "spellAirDamageBonus": 8,
+      "thunderDefense": -35,
+      "tier": "Fabled"
+    },
+    {
       "armorColor": "160,101,64",
       "armorType": "Chain",
       "category": "armor",
@@ -15685,6 +15711,7 @@
       "type": "Wand"
     },
     {
+      "addedLore": "One of the first dwarven theories of the increasing quakes in east Gavel was that the freezing of a Dogun town in the Heights also froze a massive underground spring, disrupting the earth and chain-reacting across the province.",
       "attackSpeed": "FAST",
       "category": "weapon",
       "dropType": "NORMAL",
@@ -16440,6 +16467,30 @@
       "tier": "Rare",
       "type": "Helmet",
       "xpBonus": 5
+    },
+    {
+      "accessoryType": "Necklace",
+      "addedLore": "The mangled body found days too late apparently thought this necklace would let them traverse between geysers into the Upper Heights.",
+      "agility": 45,
+      "airDefense": 50,
+      "bonusFireDefense": -15,
+      "category": "accessory",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "health": -333,
+      "level": 92,
+      "majorIds": [
+        "LUNGE"
+      ],
+      "material": "259:27",
+      "name": "Daredevil",
+      "speed": 10,
+      "spellCostRaw2": 6,
+      "tier": "Fabled"
     },
     {
       "attackSpeed": "VERY_FAST",
@@ -37582,7 +37633,6 @@
         "SOUL_EATER"
       ],
       "name": "Keeper of Souls",
-      "restrictions": "Untradable",
       "sockets": 5,
       "soulPoints": -100,
       "spellDamageBonusRaw": 192,
@@ -37738,6 +37788,7 @@
       "type": "Spear"
     },
     {
+      "addedLore": "The unearthly wood of eyestalk is durable, but with horrific cost. Pieces severed from the trunk continue to collect and cultivate the essence of abandoned eyes, and the unfortunate wearer becomes a catalyst for growth.",
       "agility": 65,
       "airDamageBonus": 35,
       "airDefense": 250,
@@ -47781,6 +47832,7 @@
       "waterDamage": "39-69"
     },
     {
+      "addedLore": "Holding this relik sends sparks through your veins, making your heart beat fast. And faster. And faster and faster and--",
       "attackSpeed": "SUPER_SLOW",
       "attackSpeedBonus": 7,
       "category": "weapon",
@@ -48095,6 +48147,36 @@
       "name": "Padded Leather Tunic",
       "tier": "Normal",
       "type": "Chestplate"
+    },
+    {
+      "addedLore": "Every ounce of your suffering must be made worth it. Otherwise, what was the point of it all?",
+      "agility": 70,
+      "agilityPoints": 7,
+      "armorColor": "160,101,64",
+      "armorType": "Diamond",
+      "bonusFireDefense": -20,
+      "category": "armor",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "earthDefense": -90,
+      "healingEfficiency": 17,
+      "health": 3775,
+      "level": 93,
+      "lifeSteal": -265,
+      "mainAttackDamageBonusRaw": 265,
+      "majorIds": [
+        "GRUESOME_KNOTS"
+      ],
+      "name": "Pain Cycle",
+      "spellAirDamageBonusRaw": 190,
+      "thunderDefense": -90,
+      "tier": "Fabled",
+      "type": "Leggings",
+      "waterDefense": -90
     },
     {
       "attackSpeed": "VERY_FAST",
@@ -50823,6 +50905,38 @@
       "xpBonus": 25
     },
     {
+      "addedLore": "A tag on the inside of the hat reads: \"Do not fly during thunderstorms! The wearer is liable for all injuries sustained while using this product.\"",
+      "agility": 70,
+      "agilityPoints": 15,
+      "airDefense": 200,
+      "armorColor": "160,101,64",
+      "armorType": "Diamond",
+      "category": "armor",
+      "dexterityPoints": -5,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "health": 3700,
+      "jumpHeight": 2,
+      "level": 98,
+      "majorIds": [
+        "WINDSURF"
+      ],
+      "manaRegen": 8,
+      "name": "Propeller Hat",
+      "reflection": -15,
+      "sockets": 3,
+      "speed": 15,
+      "spellAirDamageBonus": 35,
+      "spellDamageBonus": -10,
+      "thunderDefense": -125,
+      "tier": "Fabled",
+      "type": "Helmet"
+    },
+    {
       "airDefense": -120,
       "armorColor": "160,101,64",
       "armorType": "Diamond",
@@ -51052,6 +51166,37 @@
       "thunderDamageBonus": 10,
       "tier": "Legendary",
       "type": "Spear"
+    },
+    {
+      "armorColor": "160,101,64",
+      "armorType": "Diamond",
+      "bonusWaterDefense": 20,
+      "category": "armor",
+      "dexterity": 30,
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "healingEfficiency": -10,
+      "health": 3500,
+      "intelligence": 50,
+      "intelligencePoints": 9,
+      "level": 99,
+      "majorIds": [
+        "EXPUNGE"
+      ],
+      "manaSteal": 6,
+      "name": "Psionic Pretense",
+      "reflection": 10,
+      "sockets": 3,
+      "spellCostRaw1": -2,
+      "spellThunderDamageBonus": 18,
+      "thunderDefense": 75,
+      "tier": "Fabled",
+      "type": "Leggings",
+      "waterDefense": 125
     },
     {
       "agility": 35,
@@ -67616,6 +67761,7 @@
       "type": "Chestplate"
     },
     {
+      "addedLore": "No eyes see past the dark fog that enshrouds the future. But if you could perhaps light the way, what would you see? Invigorating hope? Or a warning to be heeded?",
       "agility": 22,
       "agilityPoints": 8,
       "airDamage": "95-107",
@@ -71536,6 +71682,34 @@
       "xpBonus": 11
     },
     {
+      "attackSpeed": "SUPER_SLOW",
+      "attackSpeedBonus": -5,
+      "category": "weapon",
+      "dropMeta": {
+        "coordinates": "99999,99999,99999",
+        "name": "Lootrun Rewards",
+        "type": "lootrun"
+      },
+      "dropType": "never",
+      "earthDamage": "1550-1775",
+      "jumpHeight": -1,
+      "level": 98,
+      "majorIds": [
+        "DEADWEIGHT"
+      ],
+      "material": "273:11",
+      "name": "Tremorcaller",
+      "speed": -15,
+      "spellAirDamageBonus": 20,
+      "spellCostRaw1": -5,
+      "spellCostRaw3": 5,
+      "spellEarthDamageBonus": 20,
+      "strength": 85,
+      "strengthPoints": 10,
+      "tier": "Fabled",
+      "type": "Relik"
+    },
+    {
       "agilityPoints": -3,
       "airDefense": -65,
       "armorColor": "160,101,64",
@@ -75017,6 +75191,7 @@
       "type": "Dagger"
     },
     {
+      "addedLore": "Are your heart, soul, and mind one? The ones who love are the most vulnerable. The ones who persist are the most detached. The ones who forget are the most naive. Only when you remove these impurities from your body could you reach the end. ",
       "agility": 55,
       "airDamageBonus": 30,
       "airDefense": 100,
