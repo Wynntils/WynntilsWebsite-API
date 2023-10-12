@@ -2480,8 +2480,8 @@
       "level": 104,
       "name": "Cavitated Bone",
       "skills": [
-        "TAILORING",
-        "ARMOURING"
+        "ARMOURING",
+        "TAILORING"
       ],
       "sprite": {
         "id": 352
