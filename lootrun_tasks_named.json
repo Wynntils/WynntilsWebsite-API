@@ -719,6 +719,15 @@
     },
     {
       "location": {
+        "x": 1427,
+        "y": 1,
+        "z": -4866
+      },
+      "name": "Debris of Furcation",
+      "taskType": "slay"
+    },
+    {
+      "location": {
         "x": 1428,
         "y": 141,
         "z": -4579
