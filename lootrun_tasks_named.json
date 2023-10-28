@@ -3,7 +3,7 @@
     {
       "location": {
         "x": -1930,
-        "y": 0,
+        "y": 83,
         "z": -3325
       },
       "name": "Aquaculture Aquifer",
@@ -12,7 +12,7 @@
     {
       "location": {
         "x": -1867,
-        "y": 0,
+        "y": 77,
         "z": -3172
       },
       "name": "Feral Avos",
@@ -48,7 +48,7 @@
     {
       "location": {
         "x": -1759,
-        "y": 0,
+        "y": 73,
         "z": -2769
       },
       "name": "Fruit Crate",
@@ -75,7 +75,7 @@
     {
       "location": {
         "x": -1740,
-        "y": 0,
+        "y": 63,
         "z": -2452
       },
       "name": "Infested Underpass",
@@ -93,7 +93,7 @@
     {
       "location": {
         "x": -1674,
-        "y": 0,
+        "y": 52,
         "z": -3060
       },
       "name": "Builder-Bot Central",
@@ -156,7 +156,7 @@
     {
       "location": {
         "x": -1365,
-        "y": 0,
+        "y": 93,
         "z": -2736
       },
       "name": "Corkus Quarry",
@@ -331,7 +331,7 @@
     {
       "location": {
         "x": 602,
-        "y": 0,
+        "y": 85,
         "z": -407
       },
       "name": "Statue Necropolis",
@@ -340,7 +340,7 @@
     {
       "location": {
         "x": 691,
-        "y": 0,
+        "y": 92,
         "z": -375
       },
       "name": "City Statue",
@@ -349,7 +349,7 @@
     {
       "location": {
         "x": 695,
-        "y": 0,
+        "y": 88,
         "z": -496
       },
       "name": "Puppetry Performance",
@@ -358,7 +358,7 @@
     {
       "location": {
         "x": 775,
-        "y": 0,
+        "y": 153,
         "z": -950
       },
       "name": "Loot Symposium",
@@ -367,7 +367,7 @@
     {
       "location": {
         "x": 822,
-        "y": 0,
+        "y": 123,
         "z": -903
       },
       "name": "Collapsed Passage",
@@ -376,7 +376,7 @@
     {
       "location": {
         "x": 826,
-        "y": 0,
+        "y": 79,
         "z": -429
       },
       "name": "Statue Opening",
@@ -385,7 +385,7 @@
     {
       "location": {
         "x": 854,
-        "y": 0,
+        "y": 81,
         "z": -668
       },
       "name": "Spiteful Crossing",
@@ -394,8 +394,8 @@
     {
       "location": {
         "x": 866,
-        "y": 0,
-        "z": -337
+        "y": 101,
+        "z": -331
       },
       "name": "Forlorn Library",
       "taskType": "defend"
@@ -403,7 +403,7 @@
     {
       "location": {
         "x": 879,
-        "y": 0,
+        "y": 79,
         "z": -803
       },
       "name": "The Place Coalesced",
@@ -411,26 +411,26 @@
     },
     {
       "location": {
-        "x": 897,
-        "y": 0,
-        "z": -524
-      },
-      "name": "Reject Grove",
-      "taskType": "slay"
-    },
-    {
-      "location": {
-        "x": 907,
-        "y": 0,
-        "z": -999
+        "x": 885,
+        "y": 125,
+        "z": -1013
       },
       "name": "Sludge Locus",
       "taskType": "slay"
     },
     {
       "location": {
+        "x": 911,
+        "y": 78,
+        "z": -560
+      },
+      "name": "Reject Grove",
+      "taskType": "slay"
+    },
+    {
+      "location": {
         "x": 948,
-        "y": 0,
+        "y": 93,
         "z": -1049
       },
       "name": "Haze Cave",
@@ -439,7 +439,7 @@
     {
       "location": {
         "x": 957,
-        "y": 0,
+        "y": 93,
         "z": -410
       },
       "name": "Spire of Eyes",
@@ -448,7 +448,7 @@
     {
       "location": {
         "x": 983,
-        "y": 0,
+        "y": 75,
         "z": -470
       },
       "name": "The Gwanari",
@@ -457,7 +457,7 @@
     {
       "location": {
         "x": 1014,
-        "y": 0,
+        "y": 94,
         "z": -1053
       },
       "name": "Melting Architecture",
@@ -466,16 +466,16 @@
     {
       "location": {
         "x": 1038,
-        "y": 0,
+        "y": 84,
         "z": -692
       },
       "name": "The Place Condensed",
       "taskType": "loot"
     },
-    {
+{
       "location": {
         "x": 1088,
-        "y": 0,
+        "y": 137,
         "z": -345
       },
       "name": "Eyeball Gauntlet",
@@ -484,7 +484,7 @@
     {
       "location": {
         "x": 1093,
-        "y": 0,
+        "y": 135,
         "z": -1137
       },
       "name": "Exiled Garden",
@@ -493,7 +493,7 @@
     {
       "location": {
         "x": 1117,
-        "y": 0,
+        "y": 86,
         "z": -992
       },
       "name": "Graveyard of the Thousand",
@@ -501,9 +501,9 @@
     },
     {
       "location": {
-        "x": 1125,
-        "y": 0,
-        "z": -1095
+        "x": 1121,
+        "y": 103,
+        "z": -1092
       },
       "name": "False Respite",
       "taskType": "slay"
@@ -511,7 +511,7 @@
     {
       "location": {
         "x": 1132,
-        "y": 0,
+        "y": 132,
         "z": -1127
       },
       "name": "Caged Creatures",
@@ -520,7 +520,7 @@
     {
       "location": {
         "x": 1147,
-        "y": 0,
+        "y": 78,
         "z": -954
       },
       "name": "Gateway to Nothing",
@@ -529,7 +529,7 @@
     {
       "location": {
         "x": 1285,
-        "y": 0,
+        "y": 103,
         "z": -1060
       },
       "name": "The Lantern Keeper's Abode",
@@ -538,7 +538,7 @@
     {
       "location": {
         "x": 1393,
-        "y": 0,
+        "y": 163,
         "z": -1055
       },
       "name": "Blind Burrow",
