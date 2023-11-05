@@ -93,7 +93,7 @@
   },
   {
     "id": "dataWynncraftTerritoryListV3",
-    "url": "https://api.wynncraft.com/public_api.php?action=territoryList"
+    "url": "https://api.wynncraft.com/v3/guild/list/territory"
   },
   {
     "id": "dataStaticCombatLocations",
